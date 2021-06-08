@@ -1,0 +1,2588 @@
+genome	prot	pfam_acc	evalue	name
+e_coli	NC_000913.3_431	PF00004.30	1.7e-18	ATPase family associated with various cellular activities (AAA)
+e_coli	NC_000913.3_1220	PF00005.28	1.1e-28	ABC transporter
+e_coli	NC_000913.3_3709	PF00006.26	2.7e-23	ATP synthase alpha/beta family, nucleotide-binding domain
+e_coli	NC_000913.3_2703	PF00009.28	1.1e-42	Elongation factor Tu GTP binding domain
+e_coli	NC_000913.3_3622	PF00011.22	2.2e-21	Hsp20/alpha crystallin family
+e_coli	NC_000913.3_2035	PF00012.21	1.2e-24	Hsp70 protein
+e_coli	NC_000913.3_1398	PF00015.22	1.2e-59	Methyl-accepting chemotaxis protein (MCP) signalling domain
+e_coli	NC_000913.3_312	PF00023.31	5.5e-17	Ankyrin repeat
+e_coli	NC_000913.3_1311	PF00027.30	2.3e-16	Cyclic nucleotide-binding domain
+e_coli	NC_000913.3_1651	PF00037.28	4.2e-17	4Fe-4S binding domain
+e_coli	NC_000913.3_2519	PF00042.23	8.8e-16	Globin
+e_coli	NC_000913.3_1613	PF00043.26	1.3e-18	Glutathione S-transferase, C-terminal domain
+e_coli	NC_000913.3_2875	PF00044.25	1.6e-36	Glyceraldehyde 3-phosphate dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_3170	PF00056.24	3.6e-47	lactate/malate dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_2509	PF00070.28	1.5e-18	Pyridine nucleotide-disulphide oxidoreductase
+e_coli	NC_000913.3_1888	PF00072.25	1.1e-31	Response regulator receiver domain
+e_coli	NC_000913.3_205	PF00075.25	5.1e-56	RNase H
+e_coli	NC_000913.3_252	PF00078.28	4.4e-37	Reverse transcriptase (RNA-dependent DNA polymerase)
+e_coli	NC_000913.3_1624	PF00080.21	1.1e-31	Copper/zinc superoxide dismutase (SODC)
+e_coli	NC_000913.3_1634	PF00081.23	1.5e-36	Iron/manganese superoxide dismutases, alpha-hairpin domain
+e_coli	NC_000913.3_1520	PF00083.25	1.1e-23	Sugar (and other) transporter
+e_coli	NC_000913.3_2549	PF00085.21	4.5e-30	Thioredoxin
+e_coli	NC_000913.3_3169	PF00089.27	3.7e-17	Trypsin
+e_coli	NC_000913.3_92	PF00091.26	5.3e-43	Tubulin/FtsZ family, GTPase domain
+e_coli	NC_000913.3_2239	PF00092.29	5.7e-24	von Willebrand factor type A domain
+e_coli	NC_000913.3_1065	PF00106.26	1.7e-62	short chain dehydrogenase
+e_coli	NC_000913.3_2056	PF00107.27	1.1e-24	Zinc-binding dehydrogenase
+e_coli	NC_000913.3_2312	PF00108.24	1.2e-60	Thiolase, N-terminal domain
+e_coli	NC_000913.3_1067	PF00109.27	1.3e-63	Beta-ketoacyl synthase, N-terminal domain
+e_coli	NC_000913.3_2492	PF00111.28	1.3e-16	2Fe-2S iron-sulfur cluster binding domain
+e_coli	NC_000913.3_2731	PF00113.23	2.4e-145	Enolase, C-terminal TIM barrel domain
+e_coli	NC_000913.3_423	PF00115.21	5.6e-136	Cytochrome C and Quinol oxidase polypeptide I
+e_coli	NC_000913.3_3290	PF00117.29	2.2e-57	Glutamine amidotransferase class-I
+e_coli	NC_000913.3_4061	PF00118.25	1.1e-91	TCP-1/cpn60 chaperonin family
+e_coli	NC_000913.3_3673	PF00119.21	1.1e-56	ATP synthase A chain
+e_coli	NC_000913.3_1273	PF00120.25	4.7e-102	Glutamine synthetase, catalytic domain
+e_coli	NC_000913.3_3840	PF00121.19	6e-94	Triosephosphate isomerase
+e_coli	NC_000913.3_680	PF00122.21	1.7e-34	E1-E2 ATPase
+e_coli	NC_000913.3_3452	PF00126.28	1.1e-18	Bacterial regulatory helix-turn-helix protein, lysR family
+e_coli	NC_000913.3_395	PF00128.25	1.4e-89	Alpha amylase, catalytic domain
+e_coli	NC_000913.3_3208	PF00132.25	2.5e-19	Bacterial transferase hexapeptide (six repeats)
+e_coli	NC_000913.3_4170	PF00133.23	1.8e-233	tRNA synthetases class I (I, L, M and V)
+e_coli	NC_000913.3_58	PF00136.22	1.1e-44	DNA polymerase family B
+e_coli	NC_000913.3_3863	PF00141.24	9.5e-86	Peroxidase
+e_coli	NC_000913.3_2394	PF00144.25	1e-70	Beta-lactamase
+e_coli	NC_000913.3_1932	PF00145.18	5.2e-77	C-5 cytosine-specific DNA methylase
+e_coli	NC_000913.3_2251	PF00146.22	2.5e-120	NADH dehydrogenase
+e_coli	NC_000913.3_2686	PF00149.29	2.3e-17	Calcineurin-like phosphoesterase
+e_coli	NC_000913.3_906	PF00152.21	1e-82	tRNA synthetases class II (D, K and N)
+e_coli	NC_000913.3_2650	PF00154.22	9.6e-143	recA bacterial DNA recombination protein
+e_coli	NC_000913.3_1986	PF00155.22	1.2e-68	Aminotransferase class I and II
+e_coli	NC_000913.3_1178	PF00156.28	2.9e-20	Phosphoribosyl transferase domain
+e_coli	NC_000913.3_2660	PF00158.27	1.7e-67	Sigma-54 interaction domain
+e_coli	NC_000913.3_3293	PF00160.22	2.6e-51	Cyclophilin type peptidyl-prolyl cis-trans isomerase/CLD
+e_coli	NC_000913.3_2874	PF00162.20	1.3e-139	Phosphoglycerate kinase
+e_coli	NC_000913.3_3225	PF00163.20	4.1e-33	Ribosomal protein S4/S9 N-terminal domain
+e_coli	NC_000913.3_3271	PF00164.26	1.2e-43	Ribosomal protein S12/S23
+e_coli	NC_000913.3_3874	PF00165.24	1.1e-18	Bacterial regulatory helix-turn-helix proteins, AraC family
+e_coli	NC_000913.3_4060	PF00166.22	1.9e-30	Chaperonin 10 Kd subunit
+e_coli	NC_000913.3_3522	PF00171.23	1.2e-164	Aldehyde dehydrogenase family
+e_coli	NC_000913.3_1942	PF00174.20	4e-32	Oxidoreductase molybdopterin binding domain
+e_coli	NC_000913.3_1368	PF00175.22	1.1e-16	Oxidoreductase NAD-binding domain
+e_coli	NC_000913.3_57	PF00176.24	1.4e-19	SNF2 family N-terminal domain
+e_coli	NC_000913.3_3270	PF00177.22	1e-64	Ribosomal protein S7p/S5e
+e_coli	NC_000913.3_72	PF00180.21	7.5e-140	Isocitrate/isopropylmalate dehydrogenase
+e_coli	NC_000913.3_3246	PF00181.24	7.2e-35	Ribosomal Proteins L2, RNA binding domain
+e_coli	NC_000913.3_464	PF00183.19	1e-127	Hsp90 protein
+e_coli	NC_000913.3_2819	PF00185.25	1.6e-42	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain
+e_coli	NC_000913.3_46	PF00186.20	2.1e-58	Dihydrofolate reductase
+e_coli	NC_000913.3_3243	PF00189.21	1.1e-41	Ribosomal protein S3, C-terminal domain
+e_coli	NC_000913.3_1195	PF00196.20	1.1e-23	Bacterial regulatory proteins, luxR family
+e_coli	NC_000913.3_110	PF00198.24	2.9e-80	2-oxoacid dehydrogenases acyltransferase (catalytic domain)
+e_coli	NC_000913.3_1710	PF00199.20	8.2e-177	Catalase
+e_coli	NC_000913.3_2617	PF00202.22	1.6e-149	Aminotransferase class-III
+e_coli	NC_000913.3_3245	PF00203.22	3e-37	Ribosomal protein S19
+e_coli	NC_000913.3_3635	PF00204.26	2.5e-60	DNA gyrase B
+e_coli	NC_000913.3_3695	PF00205.23	2.4e-45	Thiamine pyrophosphate enzyme, central domain
+e_coli	NC_000913.3_3880	PF00206.21	1.1e-102	Lyase
+e_coli	NC_000913.3_1739	PF00208.22	2.3e-88	Glutamate/Leucine/Phenylalanine/Valine dehydrogenase
+e_coli	NC_000913.3_789	PF00210.25	1.2e-22	Ferritin-like domain
+e_coli	NC_000913.3_3670	PF00213.19	5.6e-51	ATP synthase delta (OSCP) subunit
+e_coli	NC_000913.3_3514	PF00215.25	1.3e-26	Orotidine 5'-phosphate decarboxylase / HUMPS family
+e_coli	NC_000913.3_432	PF00216.22	1.5e-34	Bacterial DNA-binding protein
+e_coli	NC_000913.3_1236	PF00218.22	4.5e-101	Indole-3-glycerol phosphate synthase
+e_coli	NC_000913.3_1832	PF00224.22	1.3e-131	Pyruvate kinase, barrel domain
+e_coli	NC_000913.3_14	PF00226.32	2.2e-29	DnaJ domain
+e_coli	NC_000913.3_3853	PF00227.27	1.6e-24	Proteasome subunit
+e_coli	NC_000913.3_3848	PF00230.21	4e-78	Major intrinsic protein
+e_coli	NC_000913.3_3668	PF00231.20	8.3e-97	ATP synthase
+e_coli	NC_000913.3_2850	PF00232.19	2.8e-132	Glycosyl hydrolase family 1
+e_coli	NC_000913.3_3244	PF00237.20	8.4e-37	Ribosomal protein L22p/L17e
+e_coli	NC_000913.3_3239	PF00238.20	1.7e-55	Ribosomal protein L14p/L23e
+e_coli	NC_000913.3_531	PF00239.22	1.2e-22	Resolvase, N terminal domain
+e_coli	NC_000913.3_376	PF00245.21	2.4e-147	Alkaline phosphatase
+e_coli	NC_000913.3_1382	PF00248.22	1.1e-48	Aldo/keto reductase family
+e_coli	NC_000913.3_3242	PF00252.19	2.4e-49	Ribosomal protein L16p/L10e
+e_coli	NC_000913.3_3236	PF00253.22	2.3e-27	Ribosomal protein S14p/S29e
+e_coli	NC_000913.3_26	PF00254.29	2.9e-16	FKBP-type peptidyl-prolyl cis-trans isomerase
+e_coli	NC_000913.3_1688	PF00255.20	1.1e-47	Glutathione peroxidase
+e_coli	NC_000913.3_3677	PF00258.26	2.2e-24	Flavodoxin
+e_coli	NC_000913.3_3254	PF00263.22	1.1e-51	Bacterial type II and III secretion system protein
+e_coli	NC_000913.3_1210	PF00265.19	2.8e-68	Thymidine kinase
+e_coli	NC_000913.3_2762	PF00266.20	1.7e-142	Aminotransferase class-V
+e_coli	NC_000913.3_1935	PF00267.22	1.3e-60	Gram-negative porin
+e_coli	NC_000913.3_2202	PF00268.22	2.7e-51	Ribonucleotide reductase, small chain
+e_coli	NC_000913.3_1321	PF00270.30	1.3e-45	DEAD/DEAH box helicase
+e_coli	NC_000913.3_57	PF00271.32	1.1e-18	Helicase conserved C-terminal domain
+e_coli	NC_000913.3_884	PF00275.21	2.1e-151	EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)
+e_coli	NC_000913.3_3247	PF00276.21	9.6e-32	Ribosomal protein L23
+e_coli	NC_000913.3_2788	PF00278.23	1.9e-26	Pyridoxal-dependent decarboxylase, C-terminal sheet domain
+e_coli	NC_000913.3_3237	PF00281.20	1.9e-29	Ribosomal protein L5
+e_coli	NC_000913.3_1470	PF00282.20	3.3e-115	Pyridoxal-dependent decarboxylase conserved domain
+e_coli	NC_000913.3_703	PF00285.22	2.7e-132	Citrate synthase, C-terminal domain
+e_coli	NC_000913.3_3188	PF00289.23	9.9e-45	Biotin carboxylase, N-terminal domain
+e_coli	NC_000913.3_1234	PF00290.21	1.7e-104	Tryptophan synthase alpha chain
+e_coli	NC_000913.3_2385	PF00291.26	1.5e-69	Pyridoxal-phosphate dependent enzyme
+e_coli	NC_000913.3_2269	PF00293.29	1.3e-18	NUDIX domain
+e_coli	NC_000913.3_3457	PF00294.25	1.5e-75	pfkB family carbohydrate kinase
+e_coli	NC_000913.3_3095	PF00296.21	1.6e-37	Luciferase-like monooxygenase
+e_coli	NC_000913.3_3249	PF00297.23	1e-15	Ribosomal protein L3
+e_coli	NC_000913.3_3896	PF00298.20	3.8e-26	Ribosomal protein L11, RNA binding domain
+e_coli	NC_000913.3_631	PF00300.23	1.2e-55	Histidine phosphatase superfamily (branch 1)
+e_coli	NC_000913.3_2661	PF00301.21	1.1e-21	Rubredoxin
+e_coli	NC_000913.3_2776	PF00303.20	4.6e-130	Thymidylate synthase
+e_coli	NC_000913.3_3669	PF00306.28	2.7e-46	ATP synthase alpha/beta chain, C terminal domain
+e_coli	NC_000913.3_2462	PF00308.19	4.6e-18	Bacterial dnaA  protein
+e_coli	NC_000913.3_3135	PF00309.21	7.4e-17	Sigma-54 factor, Activator interacting domain (AID)
+e_coli	NC_000913.3_3145	PF00310.22	1.7e-177	Glutamine amidotransferases class-II
+e_coli	NC_000913.3_3876	PF00311.18	4.3e-296	Phosphoenolpyruvate carboxylase
+e_coli	NC_000913.3_3100	PF00312.23	9.9e-39	Ribosomal protein S15
+e_coli	NC_000913.3_857	PF00313.23	1.6e-29	'Cold-shock' DNA-binding domain
+e_coli	NC_000913.3_4147	PF00316.21	7.6e-86	Fructose-1-6-bisphosphatase, N-terminal domain
+e_coli	NC_000913.3_163	PF00318.21	5.9e-94	Ribosomal protein S2
+e_coli	NC_000913.3_255	PF00324.22	1.1e-115	Amino acid permease
+e_coli	NC_000913.3_1311	PF00325.21	6e-17	Bacterial regulatory proteins, crp family
+e_coli	NC_000913.3_1821	PF00326.22	4.8e-69	Prolyl oligopeptidase family
+e_coli	NC_000913.3_3231	PF00327.21	3.5e-20	Ribosomal protein L30p/L7e
+e_coli	NC_000913.3_978	PF00328.23	2.3e-17	Histidine phosphatase superfamily (branch 2)
+e_coli	NC_000913.3_2453	PF00329.20	1.9e-23	Respiratory-chain NADH dehydrogenase, 30 Kd subunit
+e_coli	NC_000913.3_113	PF00330.21	3.4e-43	Aconitase family (aconitate hydratase)
+e_coli	NC_000913.3_3232	PF00333.21	1.6e-30	Ribosomal protein S5, N-terminal domain
+e_coli	NC_000913.3_2485	PF00334.20	1.5e-54	Nucleoside diphosphate kinase
+e_coli	NC_000913.3_3250	PF00338.23	5.1e-34	Ribosomal protein S10p/S20e
+e_coli	NC_000913.3_3937	PF00342.20	2.1e-259	Phosphoglucose isomerase
+e_coli	NC_000913.3_3356	PF00343.21	0	Carbohydrate phosphorylase
+e_coli	NC_000913.3_3229	PF00344.21	1.9e-121	SecY translocase
+e_coli	NC_000913.3_3148	PF00345.21	1.6e-23	Pili and flagellar-assembly chaperone, PapD N-terminal domain
+e_coli	NC_000913.3_2672	PF00346.20	2e-48	Respiratory-chain NADH dehydrogenase, 49 Kd subunit
+e_coli	NC_000913.3_3234	PF00347.24	6.3e-41	Ribosomal protein L6
+e_coli	NC_000913.3_3120	PF00348.18	1.2e-77	Polyprenyl synthetase
+e_coli	NC_000913.3_4026	PF00350.24	7.3e-19	Dynamin family
+e_coli	NC_000913.3_1779	PF00355.27	1.7e-21	Rieske [2Fe-2S] domain
+e_coli	NC_000913.3_1597	PF00356.22	1.1e-19	Bacterial regulatory proteins, lacI family
+e_coli	NC_000913.3_2381	PF00358.21	1.2e-49	phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1
+e_coli	NC_000913.3_4215	PF00359.23	1.7e-24	Phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2
+e_coli	NC_000913.3_2245	PF00361.21	1.4e-92	Proton-conducting membrane transporter
+e_coli	NC_000913.3_110	PF00364.23	2.7e-67	Biotin-requiring enzyme
+e_coli	NC_000913.3_3837	PF00365.21	4.8e-107	Phosphofructokinase
+e_coli	NC_000913.3_3240	PF00366.21	4.8e-35	Ribosomal protein S17
+e_coli	NC_000913.3_1598	PF00367.21	2.1e-17	phosphotransferase system, EIIB
+e_coli	NC_000913.3_3497	PF00370.22	1.9e-89	FGGY family of carbohydrate kinases, N-terminal domain
+e_coli	NC_000913.3_2938	PF00374.20	3.9e-210	Nickel-dependent hydrogenase
+e_coli	NC_000913.3_3459	PF00375.19	1.4e-111	Sodium:dicarboxylate symporter family
+e_coli	NC_000913.3_478	PF00376.24	8.6e-17	MerR family regulatory protein
+e_coli	NC_000913.3_2867	PF00378.21	1.3e-47	Enoyl-CoA hydratase/isomerase
+e_coli	NC_000913.3_3164	PF00380.20	2.4e-47	Ribosomal protein S9/S16
+e_coli	NC_000913.3_3139	PF00381.20	1.7e-23	PTS HPr component phosphorylation site
+e_coli	NC_000913.3_2526	PF00383.24	6.5e-29	Cytidine and deoxycytidylate deaminase zinc-binding region
+e_coli	NC_000913.3_1850	PF00384.23	1.3e-103	Molybdopterin oxidoreductase
+e_coli	NC_000913.3_1356	PF00389.31	3.3e-36	D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+e_coli	NC_000913.3_2427	PF00390.20	2.1e-32	Malic enzyme, N-terminal domain
+e_coli	NC_000913.3_2778	PF00391.24	2.8e-16	PEP-utilising enzyme, mobile domain
+e_coli	NC_000913.3_3620	PF00392.22	1.2e-21	Bacterial regulatory proteins, gntR family
+e_coli	NC_000913.3_1994	PF00393.20	7.4e-134	6-phosphogluconate dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_49	PF00398.21	7.4e-90	Ribosomal RNA adenine dimethylase
+e_coli	NC_000913.3_475	PF00403.27	7.2e-30	Heavy-metal-associated domain
+e_coli	NC_000913.3_465	PF00406.23	1.5e-61	Adenylate kinase
+e_coli	NC_000913.3_3109	PF00408.21	1.3e-16	Phosphoglucomutase/phosphomannomutase, C-terminal domain
+e_coli	NC_000913.3_3235	PF00410.20	8.6e-49	Ribosomal protein S8
+e_coli	NC_000913.3_3226	PF00411.20	4.3e-55	Ribosomal protein S11
+e_coli	NC_000913.3_3227	PF00416.23	4e-36	Ribosomal protein S13/S18
+e_coli	NC_000913.3_523	PF00419.21	1.1e-18	Fimbrial protein
+e_coli	NC_000913.3_2248	PF00420.25	1.8e-21	NADH-ubiquinone/plastoquinone oxidoreductase chain 4L
+e_coli	NC_000913.3_1238	PF00425.19	1e-81	chorismate binding enzyme
+e_coli	NC_000913.3_3671	PF00430.19	1.1e-40	ATP synthase B/B' CF(0)
+e_coli	NC_000913.3_3975	PF00436.26	1.3e-42	Single-strand binding protein family
+e_coli	NC_000913.3_2895	PF00437.21	3.4e-45	Type II/IV secretion system protein
+e_coli	NC_000913.3_2887	PF00438.21	3.4e-44	S-adenosylmethionine synthetase, N-terminal domain
+e_coli	NC_000913.3_455	PF00440.24	2.3e-20	Bacterial regulatory proteins, tetR family
+e_coli	NC_000913.3_1672	PF00441.25	4.2e-46	Acyl-CoA dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_291	PF00444.19	2.2e-18	Ribosomal protein L36
+e_coli	NC_000913.3_2573	PF00448.23	1.9e-76	SRP54-type protein, GTPase domain
+e_coli	NC_000913.3_1693	PF00453.19	3.7e-49	Ribosomal protein L20
+e_coli	NC_000913.3_3351	PF00455.23	1.2e-50	DeoR C terminal sensor domain
+e_coli	NC_000913.3_2882	PF00456.22	1.4e-175	Transketolase, thiamine diphosphate binding domain
+e_coli	NC_000913.3_4131	PF00459.26	5.7e-50	Inositol monophosphatase family
+e_coli	NC_000913.3_826	PF00462.25	1.3e-17	Glutaredoxin
+e_coli	NC_000913.3_3927	PF00463.22	6e-113	Isocitrate lyase family
+e_coli	NC_000913.3_2518	PF00464.20	6.7e-188	Serine hydroxymethyltransferase
+e_coli	NC_000913.3_592	PF00465.20	1.1e-48	Iron-containing alcohol dehydrogenase
+e_coli	NC_000913.3_3898	PF00466.21	7.9e-27	Ribosomal protein L10
+e_coli	NC_000913.3_3639	PF00468.18	4.3e-25	Ribosomal protein L34
+e_coli	NC_000913.3_3571	PF00471.21	1.9e-19	Ribosomal protein L33
+e_coli	NC_000913.3_2840	PF00472.21	1.1e-40	RF-1 domain
+e_coli	NC_000913.3_3190	PF00474.18	2.8e-143	Sodium:solute symporter family
+e_coli	NC_000913.3_1987	PF00475.19	3e-65	Imidazoleglycerol-phosphate dehydratase
+e_coli	NC_000913.3_3781	PF00476.21	1.8e-161	DNA polymerase family A
+e_coli	NC_000913.3_2475	PF00478.26	1.4e-162	IMP dehydrogenase / GMP reductase domain
+e_coli	NC_000913.3_1829	PF00479.23	1.4e-57	Glucose-6-phosphate dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_1091	PF00480.21	1.1e-70	ROK family
+e_coli	NC_000913.3_101	PF00482.24	1.6e-56	Type II secretion system (T2SS), protein F
+e_coli	NC_000913.3_2008	PF00483.24	1.4e-21	Nucleotidyl transferase
+e_coli	NC_000913.3_121	PF00484.20	5.6e-51	Carbonic anhydrase
+e_coli	NC_000913.3_2032	PF00485.19	2.2e-45	Phosphoribulokinase / Uridine kinase family
+e_coli	NC_000913.3_3833	PF00486.29	1.4e-22	Transcriptional regulatory protein, C terminal
+e_coli	NC_000913.3_2685	PF00488.22	2.1e-90	MutS domain V
+e_coli	NC_000913.3_362	PF00490.22	1.4e-137	Delta-aminolevulinic acid dehydratase
+e_coli	NC_000913.3_2884	PF00491.22	5.7e-86	Arginase family
+e_coli	NC_000913.3_1217	PF00496.23	1.1e-89	Bacterial extracellular solute-binding proteins, family 5 Middle
+e_coli	NC_000913.3_840	PF00497.21	1.1e-67	Bacterial extracellular solute-binding proteins, family 3
+e_coli	NC_000913.3_2249	PF00499.21	9.5e-34	NADH-ubiquinone/plastoquinone oxidoreductase chain 6
+e_coli	NC_000913.3_35	PF00501.29	1.1e-89	AMP-binding enzyme
+e_coli	NC_000913.3_2257	PF00507.20	1.4e-31	NADH-ubiquinone/plastoquinone oxidoreductase, chain 3
+e_coli	NC_000913.3_422	PF00510.19	3.5e-16	Cytochrome c oxidase subunit III
+e_coli	NC_000913.3_2738	PF00512.26	1.2e-21	His Kinase A (phospho-acceptor) domain
+e_coli	NC_000913.3_2961	PF00521.21	2.2e-134	DNA gyrase/topoisomerase IV, subunit A
+e_coli	NC_000913.3_3945	PF00528.23	1.1e-22	Binding-protein-dependent transport system inner membrane component
+e_coli	NC_000913.3_2337	PF00529.21	1.6e-17	HlyD membrane-fusion protein of T1SS
+e_coli	NC_000913.3_2515	PF00532.22	1.3e-17	Periplasmic binding proteins and sugar binding domain of LacI family
+e_coli	NC_000913.3_3566	PF00534.21	3.1e-40	Glycosyl transferases group 1
+e_coli	NC_000913.3_2222	PF00535.27	1.4e-34	Glycosyl transferase family 2
+e_coli	NC_000913.3_3899	PF00542.20	1.7e-31	Ribosomal protein L7/L12 C-terminal domain
+e_coli	NC_000913.3_2520	PF00543.23	2e-45	Nitrogen regulatory protein P-II
+e_coli	NC_000913.3_507	PF00549.20	2.4e-52	CoA-ligase
+e_coli	NC_000913.3_1066	PF00550.26	1.9e-17	Phosphopantetheine attachment site
+e_coli	NC_000913.3_2223	PF00551.20	1.2e-24	Formyl transferase
+e_coli	NC_000913.3_162	PF00557.25	1.1e-54	Metallopeptidase family M24
+e_coli	NC_000913.3_342	PF00561.21	3.3e-24	alpha/beta hydrolase fold
+e_coli	NC_000913.3_3900	PF00562.29	4.3e-162	RNA polymerase Rpb2, domain 6
+e_coli	NC_000913.3_1466	PF00563.21	1.2e-68	EAL domain
+e_coli	NC_000913.3_3745	PF00570.24	5.5e-24	HRDC domain
+e_coli	NC_000913.3_651	PF00571.29	5.7e-16	CBS domain
+e_coli	NC_000913.3_3165	PF00572.19	1.1e-47	Ribosomal protein L13
+e_coli	NC_000913.3_3248	PF00573.23	8e-65	Ribosomal protein L4/L1 family
+e_coli	NC_000913.3_429	PF00574.24	2.8e-89	Clp protease
+e_coli	NC_000913.3_4096	PF00575.24	1.8e-21	S1 RNA binding domain
+e_coli	NC_000913.3_1941	PF00576.22	9.9e-39	HIUase/Transthyretin family
+e_coli	NC_000913.3_1482	PF00577.21	1.1e-77	Outer membrane usher protein
+e_coli	NC_000913.3_1300	PF00578.22	1.8e-16	AhpC/TSA family
+e_coli	NC_000913.3_1615	PF00579.26	3.1e-95	tRNA synthetases class I (W and Y)
+e_coli	NC_000913.3_938	PF00580.22	1e-44	UvrD/REP helicase N-terminal domain
+e_coli	NC_000913.3_1735	PF00581.21	1.1e-31	Rhodanese-like domain
+e_coli	NC_000913.3_1351	PF00582.27	1.9e-30	Universal stress protein family
+e_coli	NC_000913.3_2398	PF00583.26	1.4e-19	Acetyltransferase (GNAT) family
+e_coli	NC_000913.3_3894	PF00584.21	1.2e-20	SecE/Sec61-gamma subunits of protein translocation complex
+e_coli	NC_000913.3_3700	PF00585.19	7.3e-59	C-terminal regulatory domain of Threonine dehydratase
+e_coli	NC_000913.3_1742	PF00586.25	1.1e-19	AIR synthase related protein, N-terminal domain
+e_coli	NC_000913.3_190	PF00587.26	1.2e-49	tRNA synthetase class II core domain (G, H, P, S and T)
+e_coli	NC_000913.3_4319	PF00588.20	1.3e-33	SpoU rRNA Methylase family
+e_coli	NC_000913.3_2318	PF00589.23	1.4e-34	Phage integrase family
+e_coli	NC_000913.3_3081	PF00590.21	5e-31	Tetrapyrrole (Corrin/Porphyrin) Methylases
+e_coli	NC_000913.3_4298	PF00591.22	3.4e-55	Glycosyl transferase family, a/b domain
+e_coli	NC_000913.3_1428	PF00593.25	1.4e-55	TonB dependent receptor
+e_coli	NC_000913.3_3168	PF00595.25	2.6e-30	PDZ domain
+e_coli	NC_000913.3_2752	PF00596.22	1.3e-48	Class II Aldolase and Adducin N-terminal domain
+e_coli	NC_000913.3_1223	PF00614.23	1.6e-16	Phospholipase D Active site motif
+e_coli	NC_000913.3_3901	PF00623.21	3.4e-38	RNA polymerase Rpb1, domain 2
+e_coli	NC_000913.3_3583	PF00625.22	2.7e-72	Guanylate kinase
+e_coli	NC_000913.3_2534	PF00636.27	8.3e-21	Ribonuclease III domain
+e_coli	NC_000913.3_3703	PF00639.22	1.5e-20	PPIC-type PPIASE domain
+e_coli	NC_000913.3_1568	PF00654.21	1.7e-78	Voltage gated chloride channel
+e_coli	NC_000913.3_2247	PF00662.21	7.7e-24	NADH-Ubiquinone oxidoreductase (complex I), chain 5 N-terminus
+e_coli	NC_000913.3_440	PF00664.24	1.3e-36	ABC transporter transmembrane region
+e_coli	NC_000913.3_1554	PF00665.27	3.1e-19	Integrase core domain
+e_coli	NC_000913.3_2716	PF00667.21	1.2e-28	FAD binding domain
+e_coli	NC_000913.3_578	PF00668.21	4.3e-111	Condensation domain
+e_coli	NC_000913.3_1056	PF00669.21	1e-38	Bacterial flagellin N-terminal helical region
+e_coli	NC_000913.3_2045	PF00672.26	1.1e-16	HAMP domain
+e_coli	NC_000913.3_3237	PF00673.22	3.7e-41	ribosomal L5P family C-terminus
+e_coli	NC_000913.3_2770	PF00675.21	1.7e-39	Insulinase (Peptidase family M16)
+e_coli	NC_000913.3_709	PF00676.21	8.1e-50	Dehydrogenase E1 component
+e_coli	NC_000913.3_1641	PF00677.18	5.1e-48	Lumazine binding domain
+e_coli	NC_000913.3_3269	PF00679.25	1.3e-29	Elongation factor G C-terminus
+e_coli	NC_000913.3_345	PF00682.20	1.5e-70	HMGL-like
+e_coli	NC_000913.3_14	PF00684.20	4e-17	DnaJ central domain
+e_coli	NC_000913.3_3897	PF00687.22	6.4e-52	Ribosomal protein L1p/L10e family
+e_coli	NC_000913.3_4157	PF00690.27	8.4e-17	Cation transporter/ATPase, N-terminus
+e_coli	NC_000913.3_3483	PF00691.21	1.1e-23	OmpA family
+e_coli	NC_000913.3_3575	PF00692.20	1.5e-45	dUTPase
+e_coli	NC_000913.3_70	PF00694.20	1.8e-41	Aconitase C-terminal domain
+e_coli	NC_000913.3_2823	PF00696.29	1.4e-30	Amino acid kinase family
+e_coli	NC_000913.3_1236	PF00697.23	3.5e-65	N-(5'phosphoribosyl)anthranilate (PRA) isomerase
+e_coli	NC_000913.3_1064	PF00698.22	7.4e-40	Acyl transferase domain
+e_coli	NC_000913.3_1897	PF00700.22	5.8e-31	Bacterial flagellin C-terminal helical region
+e_coli	NC_000913.3_2444	PF00701.23	1.1e-126	Dihydrodipicolinate synthetase family
+e_coli	NC_000913.3_4157	PF00702.27	1.3e-20	haloacid dehalogenase-like hydrolase
+e_coli	NC_000913.3_3016	PF00703.22	1.2e-20	Glycosyl hydrolases family 2
+e_coli	NC_000913.3_1695	PF00707.23	5.3e-39	Translation initiation factor IF-3, C-terminal domain
+e_coli	NC_000913.3_2663	PF00708.19	4.2e-16	Acylphosphatase
+e_coli	NC_000913.3_4094	PF00709.22	9.7e-180	Adenylosuccinate synthetase
+e_coli	NC_000913.3_2902	PF00710.21	3.3e-64	Asparaginase, N-terminal
+e_coli	NC_000913.3_3637	PF00712.20	5.2e-47	DNA polymerase III beta subunit, N-terminal domain
+e_coli	NC_000913.3_1116	PF00717.24	1.1e-28	Peptidase S24-like
+e_coli	NC_000913.3_4142	PF00719.20	2.2e-56	Inorganic pyrophosphatase
+e_coli	NC_000913.3_1628	PF00724.21	1.3e-86	NADH:flavin oxidoreductase / NADH oxidase family
+e_coli	NC_000913.3_1371	PF00725.23	1.4e-47	3-hydroxyacyl-CoA dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_2906	PF00730.26	2.8e-24	HhH-GPD superfamily base excision DNA repair protein
+e_coli	NC_000913.3_512	PF00731.21	2.9e-64	AIR carboxylase
+e_coli	NC_000913.3_305	PF00732.20	8.9e-108	GMC oxidoreductase
+e_coli	NC_000913.3_656	PF00733.22	1.3e-105	Asparagine synthase
+e_coli	NC_000913.3_3861	PF00742.20	5.7e-46	Homoserine dehydrogenase
+e_coli	NC_000913.3_1181	PF00745.21	2.4e-24	Glutamyl-tRNAGlu reductase, dimerisation domain
+e_coli	NC_000913.3_2367	PF00749.22	1.8e-125	tRNA synthetases class I (E and Q), catalytic domain
+e_coli	NC_000913.3_1854	PF00750.20	2.3e-180	tRNA synthetases class I (R)
+e_coli	NC_000913.3_203	PF00753.28	3.4e-25	Metallo-beta-lactamase superfamily
+e_coli	NC_000913.3_3654	PF00756.21	1.7e-19	Putative esterase
+e_coli	NC_000913.3_466	PF00762.20	1.8e-110	Ferrochelatase
+e_coli	NC_000913.3_518	PF00763.24	7.5e-41	Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain
+e_coli	NC_000913.3_3106	PF00764.20	1.9e-57	Arginosuccinate synthase
+e_coli	NC_000913.3_2721	PF00766.20	1.8e-17	Electron transfer flavoprotein FAD-binding domain
+e_coli	NC_000913.3_625	PF00768.21	5.5e-102	D-alanyl-D-alanine carboxypeptidase
+e_coli	NC_000913.3_220	PF00771.21	1.3e-189	FHIPEP family
+e_coli	NC_000913.3_3967	PF00772.22	3.7e-38	DnaB-like helicase N terminal domain
+e_coli	NC_000913.3_4096	PF00773.20	1.4e-110	RNB domain
+e_coli	NC_000913.3_2051	PF00781.25	8.3e-28	Diacylglycerol kinase catalytic domain
+e_coli	NC_000913.3_1387	PF00782.21	3.1e-27	Dual specificity phosphatase, catalytic domain
+e_coli	NC_000913.3_1682	PF00793.21	1.2e-110	DAHP synthetase I family
+e_coli	NC_000913.3_1819	PF00795.23	3.1e-23	Carbon-nitrogen hydrolase
+e_coli	NC_000913.3_1439	PF00797.18	5.1e-87	N-acetyltransferase
+e_coli	NC_000913.3_2562	PF00800.19	5.4e-62	Prephenate dehydratase
+e_coli	NC_000913.3_3982	PF00805.23	7.9e-25	Pentapeptide repeats (8 copies)
+e_coli	NC_000913.3_3110	PF00809.23	1.8e-92	Pterin binding enzyme
+e_coli	NC_000913.3_1920	PF00813.21	2.8e-80	FliP family
+e_coli	NC_000913.3_1784	PF00814.26	1.3e-28	tRNA N6-adenosine threonylcarbamoyltransferase
+e_coli	NC_000913.3_1985	PF00815.21	2.4e-166	Histidinol dehydrogenase
+e_coli	NC_000913.3_1209	PF00816.22	3.7e-20	H-NS histone family
+e_coli	NC_000913.3_1154	PF00817.21	6.4e-40	impB/mucB/samB family
+e_coli	NC_000913.3_3640	PF00825.19	6.1e-31	Ribonuclease P
+e_coli	NC_000913.3_3230	PF00828.20	1.9e-33	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A
+e_coli	NC_000913.3_3119	PF00829.22	1.4e-37	Ribosomal prokaryotic L21 protein
+e_coli	NC_000913.3_3572	PF00830.20	5e-26	Ribosomal L28 family
+e_coli	NC_000913.3_3241	PF00831.24	3.2e-23	Ribosomal L29 protein
+e_coli	NC_000913.3_4003	PF00834.20	1.5e-61	Ribulose-phosphate 3 epimerase family
+e_coli	NC_000913.3_3968	PF00842.22	2.2e-41	Alanine racemase, C-terminal domain
+e_coli	NC_000913.3_2505	PF00848.20	1.2e-48	Ring hydroxylating alpha subunit (catalytic domain)
+e_coli	NC_000913.3_2151	PF00849.23	1.1e-18	RNA pseudouridylate synthase
+e_coli	NC_000913.3_3425	PF00854.22	1.3e-99	POT family
+e_coli	NC_000913.3_1746	PF00857.21	1.2e-38	Isochorismatase family
+e_coli	NC_000913.3_2831	PF00860.21	1.2e-109	Permease family
+e_coli	NC_000913.3_3233	PF00861.23	3.5e-42	Ribosomal L18 of archaea, bacteria, mitoch. and chloroplast
+e_coli	NC_000913.3_2506	PF00866.19	4.6e-50	Ring hydroxylating beta subunit
+e_coli	NC_000913.3_2266	PF00871.18	1.6e-188	Acetokinase family
+e_coli	NC_000913.3_453	PF00873.20	0	AcrB/AcrD/AcrF family
+e_coli	NC_000913.3_3658	PF00874.21	2.2e-46	PRD domain
+e_coli	NC_000913.3_691	PF00875.19	1.6e-47	DNA photolyase
+e_coli	NC_000913.3_1686	PF00877.20	1.3e-31	NlpC/P60 family
+e_coli	NC_000913.3_828	PF00881.25	1.3e-18	Nitroreductase family
+e_coli	NC_000913.3_4172	PF00883.22	2.6e-125	Cytosol aminopeptidase family, catalytic domain
+e_coli	NC_000913.3_1475	PF00884.24	1.4e-102	Sulfatase
+e_coli	NC_000913.3_407	PF00885.20	3.4e-56	6,7-dimethyl-8-ribityllumazine synthase
+e_coli	NC_000913.3_2572	PF00886.20	3.1e-25	Ribosomal protein S16
+e_coli	NC_000913.3_164	PF00889.20	6.7e-67	Elongation factor TS
+e_coli	NC_000913.3_2209	PF00890.25	1.4e-61	FAD binding domain
+e_coli	NC_000913.3_3117	PF00892.21	1.3e-46	EamA-like transporter family
+e_coli	NC_000913.3_1576	PF00893.20	6.1e-27	Small Multidrug Resistance protein
+e_coli	NC_000913.3_2764	PF00899.22	1.1e-37	ThiF family
+e_coli	NC_000913.3_3761	PF00902.19	7.7e-68	Sec-independent protein translocase protein (TatC)
+e_coli	NC_000913.3_1629	PF00903.26	1.1e-25	Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily
+e_coli	NC_000913.3_144	PF00905.23	2e-25	Penicillin binding protein transpeptidase domain
+e_coli	NC_000913.3_2004	PF00908.18	3.4e-73	dTDP-4-dehydrorhamnose 3,5-epimerase
+e_coli	NC_000913.3_443	PF00909.22	6.1e-132	Ammonium Transporter Family
+e_coli	NC_000913.3_3141	PF00912.23	1.3e-52	Transglycosylase
+e_coli	NC_000913.3_1177	PF00916.21	3.3e-76	Sulfate permease family
+e_coli	NC_000913.3_812	PF00919.21	2.8e-22	Uncharacterized protein family UPF0004
+e_coli	NC_000913.3_1828	PF00920.22	1e-158	Dehydratase family
+e_coli	NC_000913.3_3867	PF00923.20	2e-48	Transaldolase/Fructose-6-phosphate aldolase
+e_coli	NC_000913.3_2872	PF00924.19	1.9e-59	Mechanosensitive ion channel
+e_coli	NC_000913.3_1253	PF00925.21	1.8e-68	GTP cyclohydrolase II
+e_coli	NC_000913.3_2982	PF00926.20	4.4e-83	3,4-dihydroxy-2-butanone 4-phosphate synthase
+e_coli	NC_000913.3_4082	PF00929.25	1.9e-38	Exonuclease
+e_coli	NC_000913.3_2100	PF00933.22	1.2e-106	Glycosyl hydrolase family 3 N terminal domain
+e_coli	NC_000913.3_2421	PF00936.20	1.2e-28	BMC domain
+e_coli	NC_000913.3_3004	PF00939.20	3.2e-187	Sodium:sulfate symporter transmembrane region
+e_coli	NC_000913.3_2829	PF00941.22	1.5e-20	FAD binding domain in molybdopterin dehydrogenase
+e_coli	NC_000913.3_1837	PF00950.18	2.4e-90	ABC 3 transport family
+e_coli	NC_000913.3_84	PF00953.22	2.4e-34	Glycosyl transferase family 4
+e_coli	NC_000913.3_2474	PF00958.23	1.7e-44	GMP synthase C terminal domain
+e_coli	NC_000913.3_1530	PF00959.20	1.2e-32	Phage lysozyme
+e_coli	NC_000913.3_1600	PF00962.23	1.2e-109	Adenosine/AMP deaminase
+e_coli	NC_000913.3_578	PF00975.21	3.4e-55	Thioesterase domain
+e_coli	NC_000913.3_1990	PF00977.22	2.8e-79	Histidine biosynthesis protein
+e_coli	NC_000913.3_1874	PF00982.22	2.3e-153	Glycosyltransferase family 20
+e_coli	NC_000913.3_1993	PF00984.20	1.1e-27	UDP-glucose/GDP-mannose dehydrogenase family, central domain
+e_coli	NC_000913.3_2971	PF00986.22	5e-26	DNA gyrase B subunit, carboxyl terminus
+e_coli	NC_000913.3_30	PF00988.23	2.5e-53	Carbamoyl-phosphate synthase small chain, CPSase domain
+e_coli	NC_000913.3_1466	PF00989.26	1.9e-21	PAS fold
+e_coli	NC_000913.3_1498	PF00990.22	1.3e-42	Diguanylate cyclase, GGDEF domain
+e_coli	NC_000913.3_9	PF00994.25	1.6e-28	Probable molybdopterin binding domain
+e_coli	NC_000913.3_1161	PF00999.22	1.1e-61	Sodium/hydrogen exchanger family
+e_coli	NC_000913.3_3224	PF01000.27	1.9e-24	RNA polymerase Rpb3/RpoA insert domain
+e_coli	NC_000913.3_119	PF01011.22	2.5e-59	PQQ enzyme repeat
+e_coli	NC_000913.3_2722	PF01012.22	2.5e-19	Electron transfer flavoprotein domain
+e_coli	NC_000913.3_3118	PF01016.20	1.2e-39	Ribosomal L27 protein
+e_coli	NC_000913.3_3116	PF01018.23	3.2e-60	GTP1/OBG
+e_coli	NC_000913.3_3375	PF01019.22	3.1e-189	Gamma-glutamyltranspeptidase
+e_coli	NC_000913.3_3431	PF01022.21	5.6e-18	Bacterial regulatory protein, arsR family
+e_coli	NC_000913.3_2576	PF01025.20	3.1e-47	GrpE
+e_coli	NC_000913.3_4294	PF01026.22	1.4e-69	TatD related DNase
+e_coli	NC_000913.3_763	PF01027.21	1.5e-60	Inhibitor of apoptosis-promoting Bax1
+e_coli	NC_000913.3_3217	PF01029.19	1.2e-26	NusB family
+e_coli	NC_000913.3_581	PF01032.19	1.3e-85	FecCD transport family
+e_coli	NC_000913.3_1312	PF01035.21	1.1e-35	6-O-methylguanine DNA methyltransferase, DNA binding domain
+e_coli	NC_000913.3_439	PF01037.22	1.2e-22	Lrp/AsnC ligand binding domain
+e_coli	NC_000913.3_2286	PF01039.23	3.7e-20	Carboxyl transferase domain
+e_coli	NC_000913.3_3851	PF01040.19	1.8e-34	UbiA prenyltransferase family
+e_coli	NC_000913.3_2221	PF01041.18	1.2e-138	DegT/DnrJ/EryC1/StrS aminotransferase family
+e_coli	NC_000913.3_1786	PF01042.22	2.8e-29	Endoribonuclease L-PSP
+e_coli	NC_000913.3_95	PF01043.21	1.1e-40	SecA preprotein cross-linking domain
+e_coli	NC_000913.3_1620	PF01047.23	3.6e-19	MarR family
+e_coli	NC_000913.3_154	PF01048.21	1.3e-49	Phosphorylase superfamily
+e_coli	NC_000913.3_2015	PF01050.19	2.2e-76	Mannose-6-phosphate isomerase
+e_coli	NC_000913.3_1917	PF01052.21	2e-16	Type III flagellar switch regulator (C-ring) FliN C-term
+e_coli	NC_000913.3_3860	PF01053.21	3.7e-142	Cys/Met metabolism PLP-dependent enzyme
+e_coli	NC_000913.3_3796	PF01055.27	4.6e-75	Glycosyl hydrolases family 31
+e_coli	NC_000913.3_947	PF01058.23	1.9e-29	NADH ubiquinone oxidoreductase, 20 Kd subunit
+e_coli	NC_000913.3_770	PF01061.25	1.8e-24	ABC-2 type transporter
+e_coli	NC_000913.3_1496	PF01062.22	5.8e-70	Bestrophin, RFP-TM, chloride channel
+e_coli	NC_000913.3_3698	PF01063.20	1.4e-51	Amino-transferase class IV
+e_coli	NC_000913.3_1886	PF01066.22	9.6e-18	CDP-alcohol phosphatidyltransferase
+e_coli	NC_000913.3_3540	PF01070.19	5.7e-126	FMN-dependent dehydrogenase
+e_coli	NC_000913.3_3919	PF01071.20	4.5e-84	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain
+e_coli	NC_000913.3_845	PF01073.20	4.7e-18	3-beta hydroxysteroid dehydrogenase/isomerase family
+e_coli	NC_000913.3_715	PF01074.23	3.4e-40	Glycosyl hydrolases family 38 N-terminal domain
+e_coli	NC_000913.3_3556	PF01075.18	5.1e-82	Glycosyltransferase family 9 (heptosyltransferase)
+e_coli	NC_000913.3_3295	PF01077.23	2.4e-16	Nitrite and sulphite reductase 4Fe-4S domain
+e_coli	NC_000913.3_3694	PF01078.22	2.9e-90	Magnesium chelatase, subunit ChlI
+e_coli	NC_000913.3_3629	PF01081.20	3.7e-30	KDPG and KHG aldolase
+e_coli	NC_000913.3_4119	PF01084.21	3.2e-25	Ribosomal protein S18
+e_coli	NC_000913.3_735	PF01087.23	7.5e-70	Galactose-1-phosphate uridyl transferase, N-terminal domain
+e_coli	NC_000913.3_3388	PF01094.29	1.4e-25	Receptor family ligand binding region
+e_coli	NC_000913.3_627	PF01098.20	3.5e-126	Cell cycle protein
+e_coli	NC_000913.3_172	PF01103.24	2.8e-106	Omp85 superfamily domain
+e_coli	NC_000913.3_3343	PF01106.18	9.6e-21	NifU-like domain
+e_coli	NC_000913.3_805	PF01112.19	1.5e-119	Asparaginase
+e_coli	NC_000913.3_29	PF01113.21	1.6e-42	Dihydrodipicolinate reductase, N-terminus
+e_coli	NC_000913.3_3072	PF01116.21	1.2e-95	Fructose-bisphosphate aldolase class-II
+e_coli	NC_000913.3_3361	PF01118.25	3.2e-25	Semialdehyde dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_4087	PF01119.20	5.3e-36	DNA mismatch repair protein, C-terminal domain
+e_coli	NC_000913.3_99	PF01121.21	3e-78	Dephospho-CoA kinase
+e_coli	NC_000913.3_1847	PF01124.19	5.5e-27	MAPEG family
+e_coli	NC_000913.3_705	PF01127.23	8.9e-32	Succinate dehydrogenase/Fumarate reductase transmembrane subunit
+e_coli	NC_000913.3_2699	PF01128.20	2e-96	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+e_coli	NC_000913.3_1247	PF01131.21	1.3e-130	DNA topoisomerase
+e_coli	NC_000913.3_4065	PF01132.21	1.1e-23	Elongation factor P (EF-P) OB domain
+e_coli	NC_000913.3_3676	PF01134.23	1.6e-171	Glucose inhibited division protein A
+e_coli	NC_000913.3_2695	PF01135.20	6.8e-83	Protein-L-isoaspartate(D-aspartate) O-methyltransferase (PCMT)
+e_coli	NC_000913.3_1412	PF01136.20	1.5e-74	Peptidase family U32
+e_coli	NC_000913.3_3348	PF01137.22	8.1e-81	RNA 3'-terminal phosphate cyclase
+e_coli	NC_000913.3_3578	PF01138.22	1.5e-24	3' exoribonuclease family, domain 1
+e_coli	NC_000913.3_3349	PF01139.18	2e-138	tRNA-splicing ligase RtcB
+e_coli	NC_000913.3_2697	PF01142.19	2.7e-61	tRNA pseudouridine synthase D (TruD)
+e_coli	NC_000913.3_1671	PF01144.24	1.1e-58	Coenzyme A transferase
+e_coli	NC_000913.3_480	PF01145.26	2.4e-34	SPFH domain / Band 7 family
+e_coli	NC_000913.3_1385	PF01148.21	1.8e-65	Cytidylyltransferase family
+e_coli	NC_000913.3_3570	PF01149.25	6.7e-33	Formamidopyrimidine-DNA glycosylase N-terminal domain
+e_coli	NC_000913.3_2935	PF01155.20	1.6e-31	Hydrogenase/urease nickel incorporation, metallochaperone, hypA
+e_coli	NC_000913.3_2129	PF01156.20	1.5e-84	Inosine-uridine preferring nucleoside hydrolase
+e_coli	NC_000913.3_532	PF01161.21	1.1e-36	Phosphatidylethanolamine-binding protein
+e_coli	NC_000913.3_3006	PF01165.21	1.8e-22	Ribosomal protein S21
+e_coli	NC_000913.3_1160	PF01168.21	1.1e-67	Alanine racemase, N-terminal domain
+e_coli	NC_000913.3_924	PF01170.19	8.5e-71	Putative RNA methylase family UPF0020
+e_coli	NC_000913.3_183	PF01171.21	6.8e-63	PP-loop family
+e_coli	NC_000913.3_860	PF01176.20	7e-28	Translation initiation factor 1A / IF-1
+e_coli	NC_000913.3_3887	PF01177.23	1.3e-26	Asp/Glu/Hydantoin racemase
+e_coli	NC_000913.3_1362	PF01179.21	4.3e-129	Copper amine oxidase, enzyme domain
+e_coli	NC_000913.3_2114	PF01180.22	2.6e-35	Dihydroorotate dehydrogenase
+e_coli	NC_000913.3_660	PF01182.21	1.9e-22	Glucosamine-6-phosphate isomerases/6-phosphogluconolactonase
+e_coli	NC_000913.3_2068	PF01183.21	8.1e-55	Glycosyl hydrolases family 25
+e_coli	NC_000913.3_10	PF01184.20	8.9e-42	GPR1/FUN34/yaaH family
+e_coli	NC_000913.3_3217	PF01189.18	2.9e-81	16S rRNA methyltransferase RsmB/F
+e_coli	NC_000913.3_3224	PF01193.25	5.3e-23	RNA polymerase Rpb3/Rpb11 dimerisation domain
+e_coli	NC_000913.3_1175	PF01195.20	1.4e-61	Peptidyl-tRNA hydrolase
+e_coli	NC_000913.3_3223	PF01196.20	4.3e-36	Ribosomal protein L17
+e_coli	NC_000913.3_3857	PF01197.19	2.1e-31	Ribosomal protein L31
+e_coli	NC_000913.3_3319	PF01202.23	2e-57	Shikimate kinase
+e_coli	NC_000913.3_3450	PF01204.19	7.4e-167	Trehalase
+e_coli	NC_000913.3_3769	PF01205.20	4.4e-27	Uncharacterized protein family UPF0029
+e_coli	NC_000913.3_1977	PF01206.18	1.3e-18	Sulfurtransferase TusA
+e_coli	NC_000913.3_2107	PF01207.18	1.4e-96	Dihydrouridine synthase (Dus)
+e_coli	NC_000913.3_3911	PF01208.18	1e-143	Uroporphyrinogen decarboxylase (URO-D)
+e_coli	NC_000913.3_3756	PF01209.19	2.9e-114	ubiE/COQ5 methyltransferase family
+e_coli	NC_000913.3_3543	PF01210.24	5.4e-51	NAD-dependent glycerol-3-phosphate dehydrogenase N-terminus
+e_coli	NC_000913.3_847	PF01212.22	1e-98	Beta-eliminating lyase
+e_coli	NC_000913.3_2400	PF01218.19	1.8e-134	Coproporphyrinogen III oxidase
+e_coli	NC_000913.3_3957	PF01219.20	6.2e-36	Prokaryotic diacylglycerol kinase
+e_coli	NC_000913.3_88	PF01225.26	2.5e-33	Mur ligase family, catalytic domain
+e_coli	NC_000913.3_2317	PF01226.18	2.8e-41	Formate/nitrite transporter
+e_coli	NC_000913.3_2120	PF01227.23	3.8e-63	GTP cyclohydrolase I
+e_coli	NC_000913.3_879	PF01228.22	3.3e-44	Glycine radical
+e_coli	NC_000913.3_1075	PF01230.24	5.3e-31	HIT domain
+e_coli	NC_000913.3_4238	PF01232.24	1.2e-54	Mannitol dehydrogenase Rossmann domain
+e_coli	NC_000913.3_7	PF01235.18	2.2e-143	Sodium:alanine symporter family
+e_coli	NC_000913.3_1589	PF01238.22	1.2e-125	Phosphomannose isomerase type I
+e_coli	NC_000913.3_2717	PF01242.20	2e-34	6-pyruvoyl tetrahydropterin synthase
+e_coli	NC_000913.3_1616	PF01243.21	1.2e-25	Pyridoxamine 5'-phosphate oxidase
+e_coli	NC_000913.3_2569	PF01245.21	6.8e-51	Ribosomal protein L19
+e_coli	NC_000913.3_4117	PF01250.18	5.7e-29	Ribosomal protein S6
+e_coli	NC_000913.3_25	PF01252.19	2.2e-39	Signal peptidase (SPase) II
+e_coli	NC_000913.3_1258	PF01253.23	7e-19	Translation initiation factor SUI1
+e_coli	NC_000913.3_168	PF01255.20	3.8e-79	Putative undecaprenyl diphosphate synthase
+e_coli	NC_000913.3_4084	PF01256.18	4.5e-83	Carbohydrate kinase
+e_coli	NC_000913.3_2254	PF01257.20	6.4e-51	Thioredoxin-like [2Fe-2S] ferredoxin
+e_coli	NC_000913.3_2441	PF01259.19	2e-60	SAICAR synthetase
+e_coli	NC_000913.3_3515	PF01261.25	1.4e-50	Xylose isomerase-like TIM barrel
+e_coli	NC_000913.3_1579	PF01262.22	3.4e-77	Alanine dehydrogenase/PNT, C-terminal domain
+e_coli	NC_000913.3_2511	PF01263.21	2.8e-51	Aldose 1-epimerase
+e_coli	NC_000913.3_2299	PF01264.22	5.4e-144	Chorismate synthase
+e_coli	NC_000913.3_2718	PF01266.25	1.2e-16	FAD dependent oxidoreductase
+e_coli	NC_000913.3_3462	PF01270.18	4.8e-150	Glycosyl hydrolases family 8
+e_coli	NC_000913.3_3114	PF01272.20	1.8e-30	Transcription elongation factor, GreA/GreB, C-term
+e_coli	NC_000913.3_2919	PF01274.23	1.2e-200	Malate synthase
+e_coli	NC_000913.3_181	PF01276.21	2.6e-196	Orn/Lys/Arg decarboxylase, major domain
+e_coli	NC_000913.3_554	PF01278.21	2.5e-125	Omptin family
+e_coli	NC_000913.3_4120	PF01281.20	3.9e-23	Ribosomal protein L9, N-terminal domain
+e_coli	NC_000913.3_137	PF01288.21	3.7e-36	7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase (HPPK)
+e_coli	NC_000913.3_1945	PF01292.21	2.6e-19	Prokaryotic cytochrome b561
+e_coli	NC_000913.3_3332	PF01293.21	4.8e-212	Phosphoenolpyruvate carboxykinase
+e_coli	NC_000913.3_3730	PF01295.19	1.9e-260	Adenylate cyclase, class-I
+e_coli	NC_000913.3_1835	PF01297.18	1.8e-56	Zinc-uptake complex component A periplasmic
+e_coli	NC_000913.3_3211	PF01300.19	2.3e-42	Telomere recombination
+e_coli	NC_000913.3_336	PF01306.20	3.1e-206	LacY proton/sugar symporter
+e_coli	NC_000913.3_1922	PF01311.21	1.6e-68	Bacterial export proteins, family 1
+e_coli	NC_000913.3_1858	PF01312.20	1.2e-124	FlhB HrpN YscU SpaS Family
+e_coli	NC_000913.3_1921	PF01313.20	5.7e-31	Bacterial export proteins, family 3
+e_coli	NC_000913.3_1650	PF01314.19	5.6e-70	Aldehyde ferredoxin oxidoreductase, domains 2 & 3
+e_coli	NC_000913.3_2830	PF01315.23	1.2e-31	Aldehyde oxidase and xanthine dehydrogenase, a/b hammerhead domain
+e_coli	NC_000913.3_3171	PF01316.22	3.3e-27	Arginine repressor, DNA binding domain
+e_coli	NC_000913.3_2354	PF01321.19	2e-17	Creatinase/Prolidase N-terminal domain
+e_coli	NC_000913.3_3777	PF01323.21	2.2e-32	DSBA-like thioredoxin domain
+e_coli	NC_000913.3_1680	PF01326.20	1.7e-123	Pyruvate phosphate dikinase, AMP/ATP-binding domain
+e_coli	NC_000913.3_3215	PF01327.22	4.5e-51	Polypeptide deformylase
+e_coli	NC_000913.3_1839	PF01330.22	1.2e-22	RuvA N terminal domain
+e_coli	NC_000913.3_4048	PF01336.26	1.6e-16	OB-fold nucleic acid binding domain
+e_coli	NC_000913.3_1861	PF01339.18	2.9e-63	CheB methylesterase
+e_coli	NC_000913.3_3859	PF01340.21	9.1e-60	Met Apo-repressor, MetJ
+e_coli	NC_000913.3_1744	PF01343.19	1.9e-104	Peptidase family S49
+e_coli	NC_000913.3_3276	PF01346.19	2.7e-22	Domain amino terminal to FKBP-type peptidyl-prolyl isomerase
+e_coli	NC_000913.3_178	PF01351.19	1.5e-39	Ribonuclease HII
+e_coli	NC_000913.3_1437	PF01361.22	8.9e-17	Tautomerase enzyme
+e_coli	NC_000913.3_3781	PF01367.21	1e-31	5'-3' exonuclease, C-terminal SAM fold
+e_coli	NC_000913.3_2018	PF01370.22	1.1e-73	NAD dependent epimerase/dehydratase family
+e_coli	NC_000913.3_4310	PF01371.20	3.5e-29	Trp repressor protein
+e_coli	NC_000913.3_3729	PF01379.21	2.1e-84	Porphobilinogen deaminase, dipyromethane cofactor binding domain
+e_coli	NC_000913.3_2659	PF01380.23	1.4e-30	SIS domain
+e_coli	NC_000913.3_1411	PF01381.23	1.9e-17	Helix-turn-helix
+e_coli	NC_000913.3_2931	PF01384.21	3.2e-94	Phosphate transporter family
+e_coli	NC_000913.3_1409	PF01385.20	9.8e-33	Probable transposase
+e_coli	NC_000913.3_2153	PF01386.20	9.3e-26	Ribosomal L25p family
+e_coli	NC_000913.3_933	PF01389.18	2.9e-76	OmpA-like transmembrane domain
+e_coli	NC_000913.3_3212	PF01396.20	2e-54	Topoisomerase DNA binding C4 zinc finger
+e_coli	NC_000913.3_515	PF01406.20	7.8e-147	tRNA synthetases class I (C) catalytic domain
+e_coli	NC_000913.3_3367	PF01408.23	1.2e-28	Oxidoreductase family, NAD-binding Rossmann fold
+e_coli	NC_000913.3_1692	PF01409.21	1.3e-107	tRNA synthetases class II core domain (F)
+e_coli	NC_000913.3_2648	PF01411.20	1.8e-242	tRNA synthetases class II (A)
+e_coli	NC_000913.3_2288	PF01416.21	9e-40	tRNA pseudouridine synthase
+e_coli	NC_000913.3_4007	PF01418.18	1.1e-27	Helix-turn-helix domain, rpiR family
+e_coli	NC_000913.3_4265	PF01420.20	4.4e-25	Type I restriction modification DNA specificity domain
+e_coli	NC_000913.3_1465	PF01427.18	2.8e-82	D-ala-D-ala dipeptidase
+e_coli	NC_000913.3_3330	PF01430.20	1.1e-86	Hsp33 protein
+e_coli	NC_000913.3_1515	PF01432.21	1.9e-147	Peptidase family M3
+e_coli	NC_000913.3_908	PF01433.21	1.6e-56	Peptidase family M1 domain
+e_coli	NC_000913.3_3111	PF01434.19	2.3e-74	Peptidase family M41
+e_coli	NC_000913.3_885	PF01435.19	1.1e-25	Peptidase family M48
+e_coli	NC_000913.3_3702	PF01450.20	2e-52	Acetohydroxy acid isomeroreductase, catalytic domain
+e_coli	NC_000913.3_958	PF01451.22	5.3e-46	Low molecular weight phosphotyrosine protein phosphatase
+e_coli	NC_000913.3_2679	PF01455.19	1.4e-26	HupF/HypC family
+e_coli	NC_000913.3_1660	PF01458.18	3.4e-68	SUF system FeS cluster assembly, SufBD
+e_coli	NC_000913.3_1163	PF01464.21	1.2e-29	Transglycosylase SLT domain
+e_coli	NC_000913.3_3569	PF01467.27	1.1e-23	Cytidylyltransferase-like
+e_coli	NC_000913.3_235	PF01472.21	4.2e-23	PUA domain
+e_coli	NC_000913.3_666	PF01475.20	1.6e-49	Ferric uptake regulator family
+e_coli	NC_000913.3_202	PF01476.21	1.2e-30	LysM domain
+e_coli	NC_000913.3_3264	PF01478.19	1.8e-29	Type IV leader peptidase family
+e_coli	NC_000913.3_3225	PF01479.26	1.2e-19	S4 domain
+e_coli	NC_000913.3_1670	PF01487.16	9.6e-71	Type I 3-dehydroquinase
+e_coli	NC_000913.3_1181	PF01488.21	7.4e-50	Shikimate / quinate 5-dehydrogenase
+e_coli	NC_000913.3_3731	PF01491.17	5.3e-31	Frataxin-like domain
+e_coli	NC_000913.3_3145	PF01493.20	2.9e-75	GXGXG motif
+e_coli	NC_000913.3_2855	PF01494.20	1.7e-32	FAD binding domain
+e_coli	NC_000913.3_147	PF01497.19	2.8e-27	Periplasmic binding protein
+e_coli	NC_000913.3_3562	PF01501.21	2.3e-67	Glycosyl transferase family 8
+e_coli	NC_000913.3_1991	PF01502.19	6.1e-32	Phosphoribosyl-AMP cyclohydrolase
+e_coli	NC_000913.3_1991	PF01503.18	1.7e-18	Phosphoribosyl-ATP pyrophosphohydrolase
+e_coli	NC_000913.3_595	PF01507.20	1.3e-16	Phosphoadenosine phosphosulfate reductase family
+e_coli	NC_000913.3_3101	PF01509.19	2.1e-58	TruB family pseudouridylate synthase (N terminal domain)
+e_coli	NC_000913.3_105	PF01510.26	1.3e-27	N-acetylmuramoyl-L-alanine amidase
+e_coli	NC_000913.3_1606	PF01512.18	1e-47	Respiratory-chain NADH dehydrogenase 51 Kd subunit
+e_coli	NC_000913.3_2577	PF01513.22	2e-80	ATP-NAD kinase
+e_coli	NC_000913.3_1910	PF01514.18	5.4e-70	Secretory protein of YscJ/FliF family
+e_coli	NC_000913.3_2422	PF01515.20	1.3e-125	Phosphate acetyl/butaryl transferase
+e_coli	NC_000913.3_4086	PF01520.19	1.1e-50	N-acetylmuramoyl-L-alanine amidase
+e_coli	NC_000913.3_151	PF01521.21	2.6e-21	Iron-sulphur cluster biosynthesis
+e_coli	NC_000913.3_1000	PF01522.22	3.2e-33	Polysaccharide deacetylase
+e_coli	NC_000913.3_3178	PF01523.17	5e-69	Putative modulator of DNA gyrase
+e_coli	NC_000913.3_4196	PF01527.21	2.1e-17	Transposase
+e_coli	NC_000913.3_3739	PF01544.19	1.4e-55	CorA-like Mg2+ transporter protein
+e_coli	NC_000913.3_729	PF01545.22	5.3e-52	Cation efflux family
+e_coli	NC_000913.3_1315	PF01546.29	1.7e-28	Peptidase family M20/M25/M40
+e_coli	NC_000913.3_831	PF01547.26	1.6e-17	Bacterial extracellular solute-binding protein
+e_coli	NC_000913.3_2694	PF01551.23	3.5e-32	Peptidase family M23
+e_coli	NC_000913.3_3956	PF01553.22	4.7e-27	Acyltransferase
+e_coli	NC_000913.3_3959	PF01554.19	1.6e-45	MatE
+e_coli	NC_000913.3_3194	PF01555.19	1.6e-54	DNA methylase
+e_coli	NC_000913.3_976	PF01556.19	1.8e-38	DnaJ C terminal domain
+e_coli	NC_000913.3_343	PF01557.19	2.5e-22	Fumarylacetoacetate (FAA) hydrolase family
+e_coli	NC_000913.3_1353	PF01558.19	4.4e-35	Pyruvate ferredoxin/flavodoxin oxidoreductase
+e_coli	NC_000913.3_116	PF01564.18	1.4e-68	Spermine/spermidine synthase domain
+e_coli	NC_000913.3_2724	PF01565.24	1.5e-35	FAD binding domain
+e_coli	NC_000913.3_2360	PF01566.19	8.2e-128	Natural resistance-associated macrophage protein
+e_coli	NC_000913.3_1451	PF01568.22	1.1e-17	Molydopterin dinucleotide binding domain
+e_coli	NC_000913.3_1254	PF01569.22	8.8e-35	PAP2 superfamily
+e_coli	NC_000913.3_2854	PF01571.22	5.3e-83	Aminomethyltransferase folate-binding domain
+e_coli	NC_000913.3_1363	PF01575.20	5.5e-33	MaoC like domain
+e_coli	NC_000913.3_2574	PF01578.21	1.8e-45	Cytochrome C assembly protein
+e_coli	NC_000913.3_866	PF01580.19	2.9e-77	FtsK/SpoIIIE family
+e_coli	NC_000913.3_2702	PF01583.21	3.8e-73	Adenylylsulphate kinase
+e_coli	NC_000913.3_1865	PF01584.20	1.2e-36	CheW-like domain
+e_coli	NC_000913.3_3014	PF01588.21	3.8e-32	Putative tRNA binding domain
+e_coli	NC_000913.3_2682	PF01590.27	1.1e-18	GAF domain
+e_coli	NC_000913.3_2496	PF01592.17	1.9e-57	NifU-like N terminal domain
+e_coli	NC_000913.3_3402	PF01594.17	1.1e-82	AI-2E family transporter
+e_coli	NC_000913.3_4135	PF01595.21	1.3e-41	Cyclin M transmembrane N-terminal domain
+e_coli	NC_000913.3_2853	PF01597.20	6.8e-51	Glycine cleavage H-protein
+e_coli	NC_000913.3_3413	PF01609.22	1.7e-30	Transposase DDE domain
+e_coli	NC_000913.3_1781	PF01612.21	1.7e-47	3'-5' exonuclease
+e_coli	NC_000913.3_983	PF01613.19	2.2e-31	Flavin reductase like domain
+e_coli	NC_000913.3_2216	PF01614.19	1.1e-42	Bacterial transcriptional regulator
+e_coli	NC_000913.3_2950	PF01618.17	3.6e-34	MotA/TolQ/ExbB proton channel family
+e_coli	NC_000913.3_990	PF01619.19	2.7e-94	Proline dehydrogenase
+e_coli	NC_000913.3_2685	PF01624.21	1.1e-42	MutS domain I
+e_coli	NC_000913.3_4136	PF01625.22	2.2e-68	Peptide methionine sulfoxide reductase
+e_coli	NC_000913.3_1866	PF01627.24	3.9e-21	Hpt domain
+e_coli	NC_000913.3_1694	PF01632.20	7.6e-23	Ribosomal protein L35
+e_coli	NC_000913.3_1984	PF01634.19	5.4e-48	ATP phosphoribosyltransferase
+e_coli	NC_000913.3_1703	PF01636.24	1.2e-18	Phosphotransferase enzyme family
+e_coli	NC_000913.3_4129	PF01638.18	6.1e-33	HxlR-like helix-turn-helix
+e_coli	NC_000913.3_1756	PF01641.19	3.7e-55	SelR domain
+e_coli	NC_000913.3_2865	PF01642.23	1.4e-235	Methylmalonyl-CoA mutase
+e_coli	NC_000913.3_3145	PF01645.18	1e-158	Conserved region in glutamate synthase
+e_coli	NC_000913.3_2530	PF01648.21	2.6e-24	4'-phosphopantetheinyl transferase superfamily
+e_coli	NC_000913.3_22	PF01649.19	2.7e-28	Ribosomal protein S20
+e_coli	NC_000913.3_2375	PF01653.19	1.2e-143	NAD-dependent DNA ligase adenylation domain
+e_coli	NC_000913.3_716	PF01654.18	1.9e-173	Cytochrome bd terminal oxidase subunit I
+e_coli	NC_000913.3_1145	PF01656.24	1.5e-20	CobQ/CobB/MinD/ParA nucleotide binding domain
+e_coli	NC_000913.3_1019	PF01661.22	3.8e-42	Macro domain
+e_coli	NC_000913.3_2582	PF01668.19	5.7e-58	SmpB protein
+e_coli	NC_000913.3_4299	PF01676.19	1.2e-39	Metalloenzyme superfamily
+e_coli	NC_000913.3_3733	PF01678.20	9.2e-73	Diaminopimelate epimerase
+e_coli	NC_000913.3_2621	PF01679.18	6.5e-19	Proteolipid membrane potential modulator
+e_coli	NC_000913.3_23	PF01687.18	1.9e-38	Riboflavin kinase
+e_coli	NC_000913.3_3352	PF01694.23	1.1e-29	Rhomboid family
+e_coli	NC_000913.3_4278	PF01695.18	1.7e-18	IstB-like ATP binding protein
+e_coli	NC_000913.3_3129	PF01699.25	1.8e-55	Sodium/calcium exchanger protein
+e_coli	NC_000913.3_398	PF01702.19	7.9e-155	Queuine tRNA-ribosyltransferase
+e_coli	NC_000913.3_1911	PF01706.17	4.7e-41	FliG C-terminal domain
+e_coli	NC_000913.3_1842	PF01709.21	1.3e-94	Transcriptional regulator
+e_coli	NC_000913.3_1317	PF01713.22	1.6e-19	Smr domain
+e_coli	NC_000913.3_4088	PF01715.18	4.9e-88	IPP transferase
+e_coli	NC_000913.3_3752	PF01717.19	2.1e-172	Cobalamin-independent synthase, Catalytic domain
+e_coli	NC_000913.3_427	PF01722.19	6.8e-29	BolA-like protein
+e_coli	NC_000913.3_2899	PF01725.17	9e-63	Ham1 family
+e_coli	NC_000913.3_3958	PF01726.17	2.1e-32	LexA DNA binding domain
+e_coli	NC_000913.3_3112	PF01728.20	6.9e-60	FtsJ-like methyltransferase
+e_coli	NC_000913.3_104	PF01729.20	8.3e-64	Quinolinate phosphoribosyl transferase, C-terminal domain
+e_coli	NC_000913.3_4293	PF01734.23	2.8e-22	Patatin-like phospholipase
+e_coli	NC_000913.3_3753	PF01738.19	1.1e-78	Dienelactone hydrolase family
+e_coli	NC_000913.3_1862	PF01739.19	1.9e-63	CheR methyltransferase, SAM binding domain
+e_coli	NC_000913.3_3219	PF01741.19	7.2e-47	Large-conductance mechanosensitive channel, MscL
+e_coli	NC_000913.3_2997	PF01743.21	1.2e-19	Poly A polymerase head domain
+e_coli	NC_000913.3_2570	PF01746.22	5.8e-74	tRNA (Guanine-1)-methyltransferase
+e_coli	NC_000913.3_2668	PF01750.19	2.4e-31	Hydrogenase maturation protease
+e_coli	NC_000913.3_3635	PF01751.23	3.5e-19	Toprim domain
+e_coli	NC_000913.3_3494	PF01757.23	1.1e-35	Acyltransferase family
+e_coli	NC_000913.3_3318	PF01761.21	4e-110	3-dehydroquinate synthase
+e_coli	NC_000913.3_166	PF01765.20	1.4e-63	Ribosome recycling factor
+e_coli	NC_000913.3_2361	PF01773.21	1.5e-21	Na+ dependent nucleoside transporter N-terminus
+e_coli	NC_000913.3_2571	PF01782.19	7.2e-28	RimM N-terminal domain
+e_coli	NC_000913.3_1061	PF01783.24	3.6e-20	Ribosomal L32p protein family
+e_coli	NC_000913.3_693	PF01784.19	1.4e-58	NIF3 (NGG1p interacting factor 3)
+e_coli	NC_000913.3_2777	PF01790.19	7.5e-78	Prolipoprotein diacylglyceryl transferase
+e_coli	NC_000913.3_2063	PF01791.10	1.3e-77	DeoC/LacD family aldolase
+e_coli	NC_000913.3_79	PF01795.20	1.3e-124	MraW methylase family
+e_coli	NC_000913.3_1408	PF01797.17	2.2e-24	Transposase IS200 like
+e_coli	NC_000913.3_283	PF01799.21	1.1e-30	[2Fe-2S] binding domain
+e_coli	NC_000913.3_3007	PF01807.21	7.6e-42	CHC2 zinc finger
+e_coli	NC_000913.3_3920	PF01808.19	7.4e-124	AICARFT/IMPCHase bienzyme
+e_coli	NC_000913.3_3747	PF01810.19	1.7e-51	LysE type translocator
+e_coli	NC_000913.3_2860	PF01812.21	5e-46	5-formyltetrahydrofolate cyclo-ligase family
+e_coli	NC_000913.3_4126	PF01814.24	1.9e-28	Hemerythrin HHE cation binding domain
+e_coli	NC_000913.3_2563	PF01817.22	1.1e-20	Chorismate mutase type II
+e_coli	NC_000913.3_89	PF01820.22	5.1e-21	D-ala D-ala ligase N-terminus
+e_coli	NC_000913.3_1054	PF01832.21	1.8e-21	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+e_coli	NC_000913.3_2487	PF01835.20	1.2e-23	MG2 domain
+e_coli	NC_000913.3_161	PF01842.26	2.5e-19	ACT domain
+e_coli	NC_000913.3_1130	PF01844.24	1.7e-16	HNH endonuclease
+e_coli	NC_000913.3_1539	PF01848.17	1.4e-22	Hok/gef family
+e_coli	NC_000913.3_1353	PF01855.20	7.5e-82	Pyruvate flavodoxin/ferredoxin oxidoreductase, thiamine diP-bdg
+e_coli	NC_000913.3_4252	PF01869.21	6.3e-72	BadF/BadG/BcrA/BcrD ATPase family
+e_coli	NC_000913.3_406	PF01872.18	1.2e-64	RibD C-terminal domain
+e_coli	NC_000913.3_606	PF01874.17	3.2e-83	ATP:dephospho-CoA triphosphoribosyl transferase
+e_coli	NC_000913.3_4248	PF01885.17	7.5e-39	RNA 2'-phosphotransferase, Tpt1 / KptA family
+e_coli	NC_000913.3_3972	PF01894.18	2.8e-35	Uncharacterised protein family UPF0047
+e_coli	NC_000913.3_3659	PF01895.20	7.1e-39	PhoU domain
+e_coli	NC_000913.3_1846	PF01904.19	2.2e-52	Protein of unknown function DUF72
+e_coli	NC_000913.3_843	PF01906.18	1.5e-40	Putative heavy-metal-binding
+e_coli	NC_000913.3_1505	PF01914.18	4.2e-72	MarC family integral membrane protein
+e_coli	NC_000913.3_2100	PF01915.23	6.2e-63	Glycosyl hydrolase family 3 C-terminal domain
+e_coli	NC_000913.3_2680	PF01924.17	1.7e-152	Hydrogenase formation hypA family
+e_coli	NC_000913.3_2297	PF01925.20	4.1e-43	Sulfite exporter TauE/SafE
+e_coli	NC_000913.3_3116	PF01926.24	1.5e-24	50S ribosome-binding GTPase
+e_coli	NC_000913.3_2995	PF01928.22	7.4e-40	CYTH domain
+e_coli	NC_000913.3_4311	PF01931.19	2.3e-53	Protein of unknown function DUF84
+e_coli	NC_000913.3_757	PF01933.19	3.5e-80	Uncharacterised protein family UPF0052
+e_coli	NC_000913.3_654	PF01938.21	7.3e-22	TRAM domain
+e_coli	NC_000913.3_2003	PF01943.18	2.7e-74	Polysaccharide biosynthesis protein
+e_coli	NC_000913.3_4159	PF01948.19	2.6e-31	Aspartate carbamoyltransferase regulatory chain, allosteric domain
+e_coli	NC_000913.3_479	PF01957.19	1.5e-18	NfeD-like C-terminal, partner-binding
+e_coli	NC_000913.3_473	PF01963.18	3.5e-42	TraB family
+e_coli	NC_000913.3_3908	PF01964.19	3.2e-200	Radical SAM ThiC family
+e_coli	NC_000913.3_416	PF01965.25	2.2e-49	DJ-1/PfpI family
+e_coli	NC_000913.3_1933	PF01966.23	7.1e-16	HD domain
+e_coli	NC_000913.3_760	PF01967.22	3.1e-58	MoaC family
+e_coli	NC_000913.3_2696	PF01975.18	6.9e-58	Survival protein SurE
+e_coli	NC_000913.3_3764	PF01977.17	9.7e-174	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+e_coli	NC_000913.3_501	PF01979.21	1.1e-22	Amidohydrolase family
+e_coli	NC_000913.3_191	PF01980.17	1.4e-46	tRNA-methyltransferase O
+e_coli	NC_000913.3_3113	PF01985.22	5.4e-23	CRS1 / YhbY (CRM) domain
+e_coli	NC_000913.3_1162	PF02016.16	1.8e-21	LD-carboxypeptidase N-terminal domain
+e_coli	NC_000913.3_3083	PF02021.18	5.6e-25	Uncharacterised protein family UPF0102
+e_coli	NC_000913.3_1778	PF02028.18	5.8e-113	BCCT, betaine/carnitine/choline family transporter
+e_coli	NC_000913.3_3102	PF02033.19	5e-34	Ribosome-binding factor A
+e_coli	NC_000913.3_3092	PF02036.18	1.2e-17	SCP-2 sterol transfer family
+e_coli	NC_000913.3_2600	PF02040.16	1.6e-69	Arsenical pump membrane protein
+e_coli	NC_000913.3_1909	PF02049.19	4.1e-28	Flagellar hook-basal body complex protein FliE
+e_coli	NC_000913.3_1914	PF02050.17	1.1e-33	Flagellar FliJ protein
+e_coli	NC_000913.3_3617	PF02056.17	2.3e-67	Family 4 glycosyl hydrolase
+e_coli	NC_000913.3_1841	PF02075.18	1.4e-69	Crossover junction endodeoxyribonuclease RuvC
+e_coli	NC_000913.3_824	PF02080.22	1.9e-20	TrkA-C domain
+e_coli	NC_000913.3_2498	PF02082.21	1.3e-38	Iron-dependent Transcriptional regulator
+e_coli	NC_000913.3_3316	PF02086.16	3.7e-76	D12 class N6 adenine-specific DNA methyltransferase
+e_coli	NC_000913.3_3492	PF02091.16	2.7e-150	Glycyl-tRNA synthetase alpha subunit
+e_coli	NC_000913.3_3491	PF02092.18	2.8e-214	Glycyl-tRNA synthetase beta subunit
+e_coli	NC_000913.3_3641	PF02096.21	3.9e-61	60Kd inner membrane protein
+e_coli	NC_000913.3_1052	PF02107.17	5.9e-61	Flagellar L-ring protein
+e_coli	NC_000913.3_1912	PF02108.17	1.9e-41	Flagellar assembly protein FliH
+e_coli	NC_000913.3_2070	PF02110.16	1.2e-107	Hydroxyethylthiazole kinase family
+e_coli	NC_000913.3_3115	PF02113.16	5.3e-179	D-Ala-D-Ala carboxypeptidase 3 (S13) family
+e_coli	NC_000913.3_1053	PF02119.17	2.8e-138	Flagellar P-ring protein
+e_coli	NC_000913.3_1915	PF02120.17	1.3e-19	Flagellar hook-length control protein FliK
+e_coli	NC_000913.3_3308	PF02126.19	1.6e-143	Phosphotriesterase family
+e_coli	NC_000913.3_652	PF02130.18	1.3e-40	Uncharacterized protein family UPF0054
+e_coli	NC_000913.3_463	PF02132.16	1.9e-16	RecR protein
+e_coli	NC_000913.3_329	PF02133.16	1.6e-83	Permease for cytosine/purines, uracil, thiamine, allantoin
+e_coli	NC_000913.3_31	PF02142.23	1.5e-19	MGS-like domain
+e_coli	NC_000913.3_1092	PF02146.18	1.3e-51	Sir2 family
+e_coli	NC_000913.3_2999	PF02152.19	2.7e-32	Dihydroneopterin aldolase
+e_coli	NC_000913.3_2563	PF02153.18	7.3e-32	Prephenate dehydrogenase
+e_coli	NC_000913.3_1917	PF02154.16	3.9e-81	Flagellar motor switch protein FliM
+e_coli	NC_000913.3_171	PF02163.23	4.5e-90	Peptidase family M50
+e_coli	NC_000913.3_431	PF02190.17	6.4e-44	ATP-dependent protease La (LON) substrate-binding domain
+e_coli	NC_000913.3_594	PF02195.19	1.4e-18	ParB-like nuclease domain
+e_coli	NC_000913.3_1398	PF02203.16	3.7e-37	Tar ligand binding domain homologue
+e_coli	NC_000913.3_3862	PF02219.18	3.1e-109	Methylenetetrahydrofolate reductase
+e_coli	NC_000913.3_511	PF02222.23	1.5e-58	ATP-grasp domain
+e_coli	NC_000913.3_1070	PF02223.18	1.4e-61	Thymidylate kinase
+e_coli	NC_000913.3_886	PF02224.19	9.7e-86	Cytidylate kinase
+e_coli	NC_000913.3_2438	PF02230.17	3e-57	Phospholipase/Carboxylesterase
+e_coli	NC_000913.3_1578	PF02233.17	1.8e-204	NAD(P) transhydrogenase beta subunit
+e_coli	NC_000913.3_3744	PF02253.16	7.1e-91	Phospholipase A1
+e_coli	NC_000913.3_1224	PF02254.19	1.3e-20	TrkA-N domain
+e_coli	NC_000913.3_1714	PF02255.17	3.5e-33	PTS system, Lactose/Cellobiose specific IIA subunit
+e_coli	NC_000913.3_126	PF02261.17	4.1e-48	Aspartate decarboxylase
+e_coli	NC_000913.3_3949	PF02264.16	2.9e-146	LamB porin
+e_coli	NC_000913.3_2648	PF02272.20	8.4e-33	DHHA1 domain
+e_coli	NC_000913.3_1957	PF02277.18	1.2e-119	Phosphoribosyltransferase
+e_coli	NC_000913.3_1959	PF02283.17	3.6e-65	Cobinamide kinase / cobinamide phosphate guanyltransferase
+e_coli	NC_000913.3_4072	PF02300.18	2.5e-56	Fumarate reductase subunit C
+e_coli	NC_000913.3_3820	PF02302.18	1.1e-18	PTS system, Lactose/Cellobiose specific IIB subunit
+e_coli	NC_000913.3_3438	PF02308.17	1.1e-31	MgtC family
+e_coli	NC_000913.3_3931	PF02310.20	2.6e-19	B12 binding domain
+e_coli	NC_000913.3_62	PF02311.20	2.2e-27	AraC-like ligand binding domain
+e_coli	NC_000913.3_4071	PF02313.18	1.6e-51	Fumarate reductase subunit D
+e_coli	NC_000913.3_561	PF02321.19	1.1e-51	Outer membrane efflux protein
+e_coli	NC_000913.3_717	PF02322.16	4.9e-112	Cytochrome bd terminal oxidase subunit II
+e_coli	NC_000913.3_2897	PF02325.18	8.8e-37	YGGT family
+e_coli	NC_000913.3_3986	PF02335.16	8.5e-178	Cytochrome c552
+e_coli	NC_000913.3_2852	PF02347.17	6.5e-206	Glycine cleavage system P-protein
+e_coli	NC_000913.3_894	PF02348.20	2.4e-74	Cytidylyltransferase
+e_coli	NC_000913.3_3713	PF02350.20	5.6e-129	UDP-N-acetylglucosamine 2-epimerase
+e_coli	NC_000913.3_1640	PF02353.21	6.2e-107	Mycolic acid cyclopropane synthetase
+e_coli	NC_000913.3_400	PF02355.17	3e-16	Protein export membrane protein
+e_coli	NC_000913.3_3895	PF02357.20	2.4e-29	Transcription termination factor nusG
+e_coli	NC_000913.3_1875	PF02358.17	4.5e-57	Trehalose-phosphatase
+e_coli	NC_000913.3_2225	PF02366.19	2.5e-57	Dolichyl-phosphate-mannose-protein mannosyltransferase
+e_coli	NC_000913.3_4085	PF02367.18	3e-44	Threonylcarbamoyl adenosine biosynthesis protein TsaE
+e_coli	NC_000913.3_1948	PF02369.17	2.5e-174	Bacterial Ig-like domain (group 1)
+e_coli	NC_000913.3_3619	PF02378.19	1.1e-74	Phosphotransferase system, EIIC
+e_coli	NC_000913.3_78	PF02381.19	3.1e-50	MraZ protein, putative antitoxin-like
+e_coli	NC_000913.3_4266	PF02384.17	2.9e-101	N-6 DNA Methylase
+e_coli	NC_000913.3_1341	PF02386.17	1e-129	Cation transport protein
+e_coli	NC_000913.3_2905	PF02390.18	1.3e-62	Putative methyltransferase
+e_coli	NC_000913.3_762	PF02391.18	3e-36	MoaE protein
+e_coli	NC_000913.3_2013	PF02397.17	5.5e-68	Bacterial sugar transferase
+e_coli	NC_000913.3_27	PF02401.19	2e-92	LytB protein
+e_coli	NC_000913.3_869	PF02403.23	3.2e-35	Seryl-tRNA synthetase N-terminal domain
+e_coli	NC_000913.3_3127	PF02405.17	5.4e-73	Permease MlaE
+e_coli	NC_000913.3_630	PF02410.16	1.3e-29	Ribosomal silencing factor during starvation
+e_coli	NC_000913.3_2321	PF02413.18	1.4e-22	Caudovirales tail fibre assembly protein, lambda gpK
+e_coli	NC_000913.3_3759	PF02416.17	3.5e-16	mttA/Hcf106 family
+e_coli	NC_000913.3_2478	PF02421.19	1.3e-31	Ferrous iron transport protein B
+e_coli	NC_000913.3_2181	PF02424.16	1.8e-79	ApbE family
+e_coli	NC_000913.3_2281	PF02441.20	3e-24	Flavoprotein
+e_coli	NC_000913.3_727	PF02445.17	1.1e-106	Quinolinate synthetase A protein
+e_coli	NC_000913.3_3345	PF02446.18	3.6e-135	4-alpha-glucanotransferase
+e_coli	NC_000913.3_2334	PF02447.17	2.2e-166	GntP family permease
+e_coli	NC_000913.3_4141	PF02452.18	1e-17	PemK-like, MazF-like toxin of type II toxin-antitoxin system
+e_coli	NC_000913.3_2578	PF02463.20	1.4e-19	RecF/RecN/SMC N terminal domain
+e_coli	NC_000913.3_2651	PF02464.18	1.7e-61	Competence-damaged protein
+e_coli	NC_000913.3_1898	PF02465.19	5.3e-22	Flagellar hook-associated protein 2 N-terminus
+e_coli	NC_000913.3_927	PF02470.21	1.2e-37	MlaD protein
+e_coli	NC_000913.3_2949	PF02472.17	1.4e-31	Biopolymer transport protein ExbD/TolR
+e_coli	NC_000913.3_3214	PF02481.16	1.9e-72	DNA recombination-mediator protein A
+e_coli	NC_000913.3_3136	PF02482.20	2.2e-27	Sigma 54 modulation protein / S30EA ribosomal protein
+e_coli	NC_000913.3_91	PF02491.21	1.2e-30	SHS2 domain inserted in FTSA
+e_coli	NC_000913.3_2678	PF02492.20	1.6e-35	CobW/HypB/UreG, nucleotide-binding domain
+e_coli	NC_000913.3_4008	PF02502.19	8e-56	Ribose/Galactose Isomerase
+e_coli	NC_000913.3_2467	PF02503.18	4.6e-44	Polyphosphate kinase middle domain
+e_coli	NC_000913.3_1062	PF02504.16	6.9e-130	Fatty acid synthesis protein
+e_coli	NC_000913.3_1604	PF02508.15	2.6e-59	Rnf-Nqr subunit, membrane protein
+e_coli	NC_000913.3_2343	PF02515.18	2.8e-94	CoA-transferase family III
+e_coli	NC_000913.3_1866	PF02518.27	1.1e-18	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase
+e_coli	NC_000913.3_1388	PF02525.18	2.6e-48	Flavodoxin-like fold
+e_coli	NC_000913.3_3675	PF02527.16	4e-69	rRNA small subunit methyltransferase G
+e_coli	NC_000913.3_2980	PF02535.23	9.1e-33	ZIP Zinc transporter
+e_coli	NC_000913.3_617	PF02537.16	1.7e-24	CrcB-like protein, Camphor Resistance (CrcB)
+e_coli	NC_000913.3_1718	PF02540.18	3.4e-82	NAD synthase
+e_coli	NC_000913.3_3706	PF02541.17	3.8e-104	Ppx/GppA phosphatase family
+e_coli	NC_000913.3_2698	PF02542.17	8.8e-67	YgbB family
+e_coli	NC_000913.3_3181	PF02545.15	1.9e-63	Maf-like protein
+e_coli	NC_000913.3_397	PF02547.16	1.7e-133	Queuosine biosynthesis protein
+e_coli	NC_000913.3_129	PF02548.16	1.3e-105	Ketopantoate hydroxymethyltransferase
+e_coli	NC_000913.3_2868	PF02550.16	7.1e-77	Acetyl-CoA hydrolase/transferase N-terminal domain
+e_coli	NC_000913.3_444	PF02551.16	2.9e-69	Acyl-CoA thioesterase
+e_coli	NC_000913.3_4271	PF02554.15	3.5e-165	Carbon starvation protein CstA
+e_coli	NC_000913.3_3544	PF02556.15	6.7e-58	Preprotein translocase subunit SecB
+e_coli	NC_000913.3_417	PF02558.17	1.3e-25	Ketopantoate reductase PanE/ApbA
+e_coli	NC_000913.3_1086	PF02559.17	3.7e-26	CarD-like/TRCF domain
+e_coli	NC_000913.3_333	PF02560.15	7.5e-32	Cyanate lyase C-terminal domain
+e_coli	NC_000913.3_1899	PF02561.15	3.2e-34	Flagellar protein FliS
+e_coli	NC_000913.3_653	PF02562.17	2.1e-96	PhoH-like protein
+e_coli	NC_000913.3_959	PF02563.17	1.6e-28	Polysaccharide biosynthesis/export protein
+e_coli	NC_000913.3_2532	PF02565.16	2.6e-23	Recombination protein O C terminal
+e_coli	NC_000913.3_3286	PF02566.20	2.2e-20	OsmC-like protein
+e_coli	NC_000913.3_1440	PF02567.17	1.8e-92	Phenazine biosynthesis-like protein
+e_coli	NC_000913.3_415	PF02568.15	2.1e-82	Thiamine biosynthesis protein (ThiI)
+e_coli	NC_000913.3_128	PF02569.16	1.6e-104	Pantoate-beta-alanine ligase
+e_coli	NC_000913.3_1243	PF02572.16	1.5e-61	ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+e_coli	NC_000913.3_256	PF02574.17	1e-81	Homocysteine S-methyltransferase
+e_coli	NC_000913.3_462	PF02575.17	6.9e-36	YbaB/EbfC DNA-binding family
+e_coli	NC_000913.3_3105	PF02576.18	1.9e-29	RimP N-terminal domain
+e_coli	NC_000913.3_2558	PF02578.16	1.3e-83	Multi-copper polyphenol oxidoreductase laccase
+e_coli	NC_000913.3_3805	PF02580.17	7.2e-56	D-Tyr-tRNA(Tyr) deacylase
+e_coli	NC_000913.3_3907	PF02581.18	5.1e-57	Thiamine monophosphate synthase
+e_coli	NC_000913.3_350	PF02583.18	1.2e-22	Metal-sensitive transcriptional repressor
+e_coli	NC_000913.3_357	PF02585.18	6.3e-24	GlcNAc-PI de-N-acetylase
+e_coli	NC_000913.3_1905	PF02586.15	6.8e-49	SOS response associated peptidase (SRAP)
+e_coli	NC_000913.3_302	PF02589.16	2.1e-56	LUD domain
+e_coli	NC_000913.3_629	PF02590.18	3.7e-48	Predicted SPOUT methyltransferase
+e_coli	NC_000913.3_3399	PF02592.16	1.9e-36	Putative vitamin uptake transporter
+e_coli	NC_000913.3_2898	PF02594.17	1.1e-24	Uncharacterised ACR, YggU family COG1872
+e_coli	NC_000913.3_503	PF02595.16	1.3e-145	Glycerate kinase family
+e_coli	NC_000913.3_761	PF02597.21	1.7e-22	ThiS family
+e_coli	NC_000913.3_2647	PF02599.17	2.9e-27	Global regulator protein family
+e_coli	NC_000913.3_1155	PF02600.17	6e-45	Disulfide bond formation protein DsbB
+e_coli	NC_000913.3_2476	PF02601.16	4.1e-105	Exonuclease VII, large subunit
+e_coli	NC_000913.3_3728	PF02602.16	1.2e-40	Uroporphyrinogen-III synthase HemD
+e_coli	NC_000913.3_1983	PF02604.20	1e-25	Antitoxin Phd_YefM, type II toxin-antitoxin system
+e_coli	NC_000913.3_891	PF02606.15	5.3e-113	Tetraacyldisaccharide-1-P 4'-kinase
+e_coli	NC_000913.3_3931	PF02607.18	4.3e-26	B12 binding domain
+e_coli	NC_000913.3_414	PF02609.17	2.2e-22	Exonuclease VII small subunit
+e_coli	NC_000913.3_60	PF02610.16	1.6e-181	L-arabinose isomerase
+e_coli	NC_000913.3_3839	PF02611.16	2.5e-92	CDP-diacylglycerol pyrophosphatase
+e_coli	NC_000913.3_1567	PF02613.16	6.8e-22	Nitrate reductase delta subunit
+e_coli	NC_000913.3_3032	PF02614.15	1.7e-222	Glucuronate isomerase
+e_coli	NC_000913.3_778	PF02615.15	1.6e-112	Malate/L-lactate dehydrogenase
+e_coli	NC_000913.3_858	PF02617.18	9e-35	ATP-dependent Clp protease adaptor protein ClpS
+e_coli	NC_000913.3_1069	PF02618.17	8.8e-81	YceG-like family
+e_coli	NC_000913.3_1060	PF02620.18	3.8e-20	Large ribosomal RNA subunit accumulation protein YceD
+e_coli	NC_000913.3_2893	PF02622.16	5.7e-50	Uncharacterized ACR, COG1678
+e_coli	NC_000913.3_881	PF02624.17	1.4e-83	YcaO cyclodehydratase, ATP-ad Mg2+-binding
+e_coli	NC_000913.3_280	PF02625.17	1.5e-19	XdhC and CoxI family
+e_coli	NC_000913.3_695	PF02626.16	2.1e-97	Carboxyltransferase domain, subdomain A and B
+e_coli	NC_000913.3_712	PF02629.20	1.4e-31	CoA binding domain
+e_coli	NC_000913.3_2649	PF02631.17	8.6e-32	RecX family
+e_coli	NC_000913.3_3816	PF02634.16	2.3e-71	FdhD/NarQ family
+e_coli	NC_000913.3_1193	PF02635.16	2.5e-24	DsrE/DsrF-like family
+e_coli	NC_000913.3_1468	PF02638.16	4.5e-139	Glycosyl hydrolase-like 10
+e_coli	NC_000913.3_380	PF02639.15	5.6e-50	Uncharacterized BCR, YaiI/YqxD family COG1671
+e_coli	NC_000913.3_3755	PF02646.17	4.5e-108	RmuC family
+e_coli	NC_000913.3_2918	PF02652.15	1.5e-206	L-lactate permease
+e_coli	NC_000913.3_2115	PF02653.17	1.9e-42	Branched-chain amino acid transport system / permease component
+e_coli	NC_000913.3_1958	PF02654.16	3.2e-54	Cobalamin-5-phosphate synthase
+e_coli	NC_000913.3_3611	PF02656.16	7.2e-17	Domain of unknown function (DUF202)
+e_coli	NC_000913.3_1656	PF02657.16	5.1e-44	Fe-S metabolism associated domain
+e_coli	NC_000913.3_1798	PF02659.16	6.7e-55	Putative manganese efflux pump
+e_coli	NC_000913.3_3000	PF02660.16	1.1e-50	Glycerol-3-phosphate acyltransferase
+e_coli	NC_000913.3_2642	PF02664.16	1.3e-62	S-Ribosylhomocysteinase (LuxS)
+e_coli	NC_000913.3_1202	PF02665.15	1.2e-77	Nitrate reductase gamma subunit
+e_coli	NC_000913.3_4080	PF02666.16	2.8e-60	Phosphatidylserine decarboxylase
+e_coli	NC_000913.3_2190	PF02667.15	8.2e-232	Short chain fatty acid transporter
+e_coli	NC_000913.3_361	PF02668.17	9.6e-68	Taurine catabolism dioxygenase TauD, TfdA family
+e_coli	NC_000913.3_679	PF02669.16	1.9e-68	K+-transporting ATPase, c chain
+e_coli	NC_000913.3_167	PF02670.17	1.7e-50	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+e_coli	NC_000913.3_2998	PF02673.19	9.7e-90	Bacitracin resistance protein BacA
+e_coli	NC_000913.3_2283	PF02674.17	4.6e-36	Colicin V production protein
+e_coli	NC_000913.3_115	PF02675.16	2.7e-31	S-adenosylmethionine decarboxylase
+e_coli	NC_000913.3_3366	PF02678.17	1.2e-38	Pirin
+e_coli	NC_000913.3_694	PF02682.17	2.3e-71	Carboxyltransferase domain, subdomain C and D
+e_coli	NC_000913.3_4054	PF02683.16	1.9e-19	Cytochrome C biogenesis protein transmembrane region
+e_coli	NC_000913.3_177	PF02684.16	2e-159	Lipid-A-disaccharide synthetase
+e_coli	NC_000913.3_2357	PF02685.17	6.4e-126	Glucokinase
+e_coli	NC_000913.3_3932	PF02690.16	3.3e-43	Na+/Pi-cotransporter
+e_coli	NC_000913.3_1558	PF02694.16	1.4e-49	Uncharacterised BCR, YnfA/UPF0060 family
+e_coli	NC_000913.3_1684	PF02696.15	9.2e-155	Uncharacterized ACR, YdiU/UPF0061 family
+e_coli	NC_000913.3_896	PF02698.18	1.3e-28	DUF218 domain
+e_coli	NC_000913.3_399	PF02699.16	4.6e-27	Preprotein translocase subunit
+e_coli	NC_000913.3_678	PF02702.18	3.5e-98	Osmosensitive K+ channel His kinase sensor domain
+e_coli	NC_000913.3_3682	PF02705.17	4.8e-209	K+ potassium transporter
+e_coli	NC_000913.3_579	PF02706.16	1.2e-24	Chain length determinant protein
+e_coli	NC_000913.3_3715	PF02719.16	1.1e-16	Polysaccharide biosynthesis protein
+e_coli	NC_000913.3_1362	PF02727.17	6.2e-30	Copper amine oxidase, N2 domain
+e_coli	NC_000913.3_1362	PF02728.17	3.4e-29	Copper amine oxidase, N3 domain
+e_coli	NC_000913.3_4160	PF02729.22	1.1e-47	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+e_coli	NC_000913.3_1650	PF02730.16	1.5e-67	Aldehyde ferredoxin oxidoreductase, N-terminal domain
+e_coli	NC_000913.3_1170	PF02733.18	7.2e-127	Dak1 domain
+e_coli	NC_000913.3_1169	PF02734.18	4.9e-56	DAK2 domain
+e_coli	NC_000913.3_3767	PF02737.19	2.1e-61	3-hydroxyacyl-CoA dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_2815	PF02738.19	1.1e-161	Molybdopterin-binding domain of aldehyde dehydrogenase
+e_coli	NC_000913.3_2750	PF02739.17	5.5e-29	5'-3' exonuclease, N-terminal resolvase-like domain
+e_coli	NC_000913.3_735	PF02744.18	6.8e-74	Galactose-1-phosphate uridyl transferase, C-terminal domain
+e_coli	NC_000913.3_3628	PF02746.17	1.2e-31	Mandelate racemase / muconate lactonizing enzyme, N-terminal domain
+e_coli	NC_000913.3_4159	PF02748.16	3.2e-19	Aspartate carbamoyltransferase regulatory chain, metal binding domain
+e_coli	NC_000913.3_104	PF02749.17	5.9e-26	Quinolinate phosphoribosyl transferase, N-terminal domain
+e_coli	NC_000913.3_135	PF02753.18	1e-20	Pili assembly chaperone PapD, C-terminal domain
+e_coli	NC_000913.3_2921	PF02754.17	1.4e-30	Cysteine-rich domain
+e_coli	NC_000913.3_3637	PF02767.17	1.6e-47	DNA polymerase III beta subunit, central domain
+e_coli	NC_000913.3_3637	PF02768.16	1.5e-46	DNA polymerase III beta subunit, C-terminal domain
+e_coli	NC_000913.3_2524	PF02769.23	1.2e-42	AIR synthase related protein, C-terminal domain
+e_coli	NC_000913.3_4104	PF02770.20	3.8e-18	Acyl-CoA dehydrogenase, middle domain
+e_coli	NC_000913.3_37	PF02771.17	1e-15	Acyl-CoA dehydrogenase, N-terminal domain
+e_coli	NC_000913.3_2887	PF02772.17	1.2e-47	S-adenosylmethionine synthetase, central domain
+e_coli	NC_000913.3_2887	PF02773.17	1.1e-71	S-adenosylmethionine synthetase, C-terminal domain
+e_coli	NC_000913.3_2289	PF02774.19	1.2e-42	Semialdehyde dehydrogenase, dimerisation domain
+e_coli	NC_000913.3_497	PF02775.22	1.9e-36	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain
+e_coli	NC_000913.3_3606	PF02776.19	1.2e-57	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain
+e_coli	NC_000913.3_1634	PF02777.19	1.2e-40	Iron/manganese superoxide dismutases, C-terminal domain
+e_coli	NC_000913.3_2429	PF02779.25	1.9e-47	Transketolase, pyrimidine binding domain
+e_coli	NC_000913.3_2429	PF02780.21	1.5e-21	Transketolase, C-terminal domain
+e_coli	NC_000913.3_1829	PF02781.17	1.5e-120	Glucose-6-phosphate dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_2727	PF02782.17	1.2e-23	FGGY family of carbohydrate kinases, C-terminal domain
+e_coli	NC_000913.3_2885	PF02784.17	2.3e-73	Pyridoxal-dependent decarboxylase, pyridoxal binding domain
+e_coli	NC_000913.3_3188	PF02785.20	5.3e-39	Biotin carboxylase C-terminal domain
+e_coli	NC_000913.3_31	PF02786.18	2.5e-118	Carbamoyl-phosphate synthase L chain, ATP binding domain
+e_coli	NC_000913.3_31	PF02787.20	2.7e-25	Carbamoyl-phosphate synthetase large chain, oligomerisation domain
+e_coli	NC_000913.3_4172	PF02789.18	2.8e-35	Cytosol aminopeptidase family, N-terminal domain
+e_coli	NC_000913.3_3163	PF02798.21	2.5e-23	Glutathione S-transferase, N-terminal domain
+e_coli	NC_000913.3_2875	PF02800.21	1.4e-55	Glyceraldehyde 3-phosphate dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_1067	PF02801.23	1.7e-40	Beta-ketoacyl synthase, C-terminal domain
+e_coli	NC_000913.3_2794	PF02803.19	1.2e-52	Thiolase, C-terminal domain
+e_coli	NC_000913.3_2180	PF02805.17	6.5e-33	Metal binding domain of Ada
+e_coli	NC_000913.3_3360	PF02806.19	4.1e-24	Alpha amylase, C-terminal all-beta domain
+e_coli	NC_000913.3_1205	PF02810.16	1e-17	SEC-C motif
+e_coli	NC_000913.3_179	PF02811.20	5.7e-40	PHP domain
+e_coli	NC_000913.3_1739	PF02812.19	2.9e-49	Glu/Leu/Phe/Val dehydrogenase, dimerisation domain
+e_coli	NC_000913.3_110	PF02817.18	2.5e-16	e3 binding domain
+e_coli	NC_000913.3_3666	PF02823.17	1.6e-31	ATP synthase, Delta/Epsilon chain, beta-sandwich domain
+e_coli	NC_000913.3_3585	PF02824.22	2.3e-22	TGS domain
+e_coli	NC_000913.3_2290	PF02826.20	1.7e-32	D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_142	PF02834.17	6.5e-24	LigT like Phosphoesterase
+e_coli	NC_000913.3_337	PF02836.18	1.6e-127	Glycosyl hydrolases family 2, TIM barrel domain
+e_coli	NC_000913.3_337	PF02837.19	1.8e-76	Glycosyl hydrolases family 2, sugar binding domain
+e_coli	NC_000913.3_3919	PF02843.17	5.5e-32	Phosphoribosylglycinamide synthetase, C domain
+e_coli	NC_000913.3_3919	PF02844.16	3.5e-37	Phosphoribosylglycinamide synthetase, N domain
+e_coli	NC_000913.3_3429	PF02852.23	2.1e-37	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain
+e_coli	NC_000913.3_2557	PF02861.21	4.4e-29	Clp amino terminal domain, pathogenicity island component
+e_coli	NC_000913.3_3171	PF02863.19	1.9e-23	Arginine repressor, C-terminal domain
+e_coli	NC_000913.3_3170	PF02866.19	5.4e-54	lactate/malate dehydrogenase, alpha/beta C-terminal domain
+e_coli	NC_000913.3_2201	PF02867.16	1.3e-124	Ribonucleotide reductase, barrel domain
+e_coli	NC_000913.3_2180	PF02870.16	2.2e-22	6-O-methylguanine DNA methyltransferase, ribonuclease-like domain
+e_coli	NC_000913.3_4130	PF02872.19	3e-23	5'-nucleotidase, C-terminal domain
+e_coli	NC_000913.3_3890	PF02873.17	7.8e-40	UDP-N-acetylenolpyruvoylglucosamine reductase, C-terminal domain
+e_coli	NC_000913.3_3667	PF02874.24	7.3e-21	ATP synthase alpha/beta family, beta-barrel domain
+e_coli	NC_000913.3_83	PF02875.22	1.1e-16	Mur ligase family, glutamate ligase domain
+e_coli	NC_000913.3_2014	PF02878.17	2.3e-33	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I
+e_coli	NC_000913.3_3109	PF02879.17	1.1e-21	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II
+e_coli	NC_000913.3_2014	PF02880.17	2.1e-26	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III
+e_coli	NC_000913.3_2573	PF02881.20	2.9e-23	SRP54-type protein, helical bundle domain
+e_coli	NC_000913.3_518	PF02882.20	1.5e-69	Tetrahydrofolate dehydrogenase/cyclohydrolase, NAD(P)-binding domain
+e_coli	NC_000913.3_4298	PF02885.18	1.1e-19	Glycosyl transferase family, helical bundle domain
+e_coli	NC_000913.3_1653	PF02887.17	1.3e-30	Pyruvate kinase, alpha/beta domain
+e_coli	NC_000913.3_1601	PF02894.18	1.5e-41	Oxidoreductase family, C-terminal alpha/beta domain
+e_coli	NC_000913.3_1866	PF02895.15	3.7e-18	Signal transducing histidine kinase, homodimeric domain
+e_coli	NC_000913.3_1680	PF02896.19	1.4e-60	PEP-utilising enzyme, PEP-binding domain
+e_coli	NC_000913.3_1821	PF02897.16	4.1e-119	Prolyl oligopeptidase, N-terminal beta-propeller domain
+e_coli	NC_000913.3_2843	PF02899.18	1.2e-25	Phage integrase, N-terminal SAM-like domain
+e_coli	NC_000913.3_341	PF02900.19	3.9e-92	Catalytic LigB subunit of aromatic ring-opening dioxygenase
+e_coli	NC_000913.3_879	PF02901.16	1e-209	Pyruvate formate lyase-like
+e_coli	NC_000913.3_2238	PF02902.20	1.1e-34	Ulp1 protease family, C-terminal catalytic domain
+e_coli	NC_000913.3_707	PF02910.21	1.3e-37	Fumarate reductase flavoprotein C-term
+e_coli	NC_000913.3_2223	PF02911.19	1.1e-20	Formyl transferase, C-terminal domain
+e_coli	NC_000913.3_1692	PF02912.19	2.9e-28	Aminoacyl tRNA synthetase class II, N-terminal domain
+e_coli	NC_000913.3_2724	PF02913.20	1.5e-19	FAD linked oxidases, C-terminal domain
+e_coli	NC_000913.3_3360	PF02922.19	1e-31	Carbohydrate-binding module 48 (Isoamylase N-terminal domain)
+e_coli	NC_000913.3_924	PF02926.18	3.3e-21	THUMP domain
+e_coli	NC_000913.3_3016	PF02929.18	2.2e-65	Beta galactosidase small chain
+e_coli	NC_000913.3_1844	PF02938.15	9.2e-33	GAD domain
+e_coli	NC_000913.3_2892	PF02951.15	2e-47	Prokaryotic glutathione synthetase, N-terminal domain
+e_coli	NC_000913.3_2754	PF02952.18	1.4e-56	L-fucose isomerase, C-terminal domain
+e_coli	NC_000913.3_3786	PF02954.20	1.7e-16	Bacterial regulatory protein, Fis family
+e_coli	NC_000913.3_2892	PF02955.17	5.2e-81	Prokaryotic glutathione synthetase, ATP-grasp domain
+e_coli	NC_000913.3_3931	PF02965.18	1.5e-130	Vitamin B12 dependent methionine synthase, activation domain
+e_coli	NC_000913.3_2781	PF02976.16	6.6e-35	DNA mismatch repair enzyme MutH
+e_coli	NC_000913.3_2573	PF02978.20	4.8e-34	Signal peptide binding domain
+e_coli	NC_000913.3_2848	PF03006.21	5.4e-38	Haemolysin-III related
+e_coli	NC_000913.3_3377	PF03009.18	1.2e-43	Glycerophosphoryl diester phosphodiesterase family
+e_coli	NC_000913.3_1042	PF03023.15	2.3e-163	Lipid II flippase MurJ
+e_coli	NC_000913.3_87	PF03033.21	6.8e-50	Glycosyltransferase family 28 N-terminal domain
+e_coli	NC_000913.3_1105	PF03054.17	1.5e-145	tRNA methyl transferase
+e_coli	NC_000913.3_1663	PF03061.23	1.3e-17	Thioesterase superfamily
+e_coli	NC_000913.3_850	PF03063.21	1.6e-155	Prismane/CO dehydrogenase family
+e_coli	NC_000913.3_4055	PF03091.16	6e-35	CutA1 divalent ion tolerance protein
+e_coli	NC_000913.3_3891	PF03099.20	1.2e-26	Biotin/lipoate A/B protein ligase family
+e_coli	NC_000913.3_2163	PF03100.16	1.6e-46	CcmE
+e_coli	NC_000913.3_3758	PF03109.17	1.6e-35	ABC1 family
+e_coli	NC_000913.3_1607	PF03116.16	4.3e-109	NQR2, RnfD, RnfE family
+e_coli	NC_000913.3_3224	PF03118.16	1e-24	Bacterial RNA polymerase, alpha chain C terminal domain
+e_coli	NC_000913.3_3582	PF03120.17	1.3e-19	NAD-dependent DNA ligase OB-fold domain
+e_coli	NC_000913.3_3658	PF03123.16	3.3e-23	CAT RNA binding domain
+e_coli	NC_000913.3_190	PF03129.21	4.6e-22	Anticodon binding domain
+e_coli	NC_000913.3_3893	PF03143.18	2.7e-40	Elongation factor Tu C-terminal domain
+e_coli	NC_000913.3_3269	PF03144.26	6.3e-17	Elongation factor Tu domain 2
+e_coli	NC_000913.3_1691	PF03147.15	2.2e-29	Ferredoxin-fold anticodon binding domain
+e_coli	NC_000913.3_3449	PF03150.15	1.2e-52	Di-haem cytochrome c peroxidase
+e_coli	NC_000913.3_2547	PF03167.20	3.3e-29	Uracil DNA glycosylase superfamily
+e_coli	NC_000913.3_3463	PF03170.14	1.5e-218	Bacterial cellulose synthase subunit
+e_coli	NC_000913.3_3595	PF03180.15	2.2e-92	NLPA lipoprotein
+e_coli	NC_000913.3_4081	PF03193.17	1.9e-58	RsgA GTPase
+e_coli	NC_000913.3_3773	PF03205.15	7.1e-51	Molybdopterin guanine dinucleotide synthesis protein B
+e_coli	NC_000913.3_2608	PF03212.15	1.5e-45	Pertactin
+e_coli	NC_000913.3_1884	PF03222.14	2.5e-144	Tryptophan/tyrosine permease family
+e_coli	NC_000913.3_242	PF03230.14	5.4e-38	Antirestriction protein
+e_coli	NC_000913.3_994	PF03239.15	1.7e-63	Iron permease FTR1 family
+e_coli	NC_000913.3_545	PF03245.14	2.9e-49	Bacteriophage Rz lysis protein
+e_coli	NC_000913.3_180	PF03255.15	1.4e-62	Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit
+e_coli	NC_000913.3_972	PF03264.15	5.1e-71	NapC/NirT cytochrome c family, N-terminal region
+e_coli	NC_000913.3_2002	PF03275.14	6e-85	UDP-galactopyranose mutase
+e_coli	NC_000913.3_1833	PF03279.14	1.7e-110	Bacterial lipid A biosynthesis acyltransferase
+e_coli	NC_000913.3_2866	PF03308.17	2e-119	Methylmalonyl Co-A mutase-associated GTPase MeaB
+e_coli	NC_000913.3_3048	PF03313.16	2.5e-50	Serine dehydratase alpha chain
+e_coli	NC_000913.3_3050	PF03315.16	1.6e-54	Serine dehydratase beta chain
+e_coli	NC_000913.3_2420	PF03319.14	4.5e-30	Ethanolamine utilisation protein EutN/carboxysome
+e_coli	NC_000913.3_3846	PF03320.14	1.1e-133	Bacterial fructose-1,6-bisphosphatase, glpX-encoded
+e_coli	NC_000913.3_3061	PF03328.15	3.1e-64	HpcH/HpaI aldolase/citrate lyase family
+e_coli	NC_000913.3_626	PF03330.19	5.3e-21	Lytic transglycolase
+e_coli	NC_000913.3_93	PF03331.14	4.8e-108	UDP-3-O-acyl N-acetylglycosamine deacetylase
+e_coli	NC_000913.3_2314	PF03349.17	2.7e-156	Outer membrane protein transport protein (OMPP1/FadL/TodX)
+e_coli	NC_000913.3_2947	PF03350.17	7.9e-37	Uncharacterized protein family, UPF0114
+e_coli	NC_000913.3_3480	PF03352.14	3.2e-83	Methyladenine glycosylase
+e_coli	NC_000913.3_1120	PF03354.16	5.8e-52	Phage Terminase
+e_coli	NC_000913.3_3648	PF03358.16	3.3e-39	NADPH-dependent FMN reductase
+e_coli	NC_000913.3_2581	PF03364.21	3.2e-32	Polyketide cyclase / dehydrase and lipid transport
+e_coli	NC_000913.3_1727	PF03372.24	7.6e-24	Endonuclease/Exonuclease/phosphatase family
+e_coli	NC_000913.3_2166	PF03379.14	1.1e-92	CcmB protein
+e_coli	NC_000913.3_4207	PF03400.14	1.1e-36	IS1 transposase
+e_coli	NC_000913.3_1347	PF03406.14	7.3e-21	Phage tail fibre repeat
+e_coli	NC_000913.3_2298	PF03411.14	9.7e-93	Penicillin-insensitive murein endopeptidase
+e_coli	NC_000913.3_4216	PF03437.16	7.1e-110	BtpA family
+e_coli	NC_000913.3_691	PF03441.15	2.1e-86	FAD binding domain of DNA photolyase
+e_coli	NC_000913.3_3060	PF03446.16	1.1e-51	NAD binding domain of 6-phosphogluconate dehydrogenase
+e_coli	NC_000913.3_2	PF03447.17	1.3e-34	Homoserine dehydrogenase, NAD binding domain
+e_coli	NC_000913.3_3335	PF03449.16	8e-28	Transcription elongation factor, N-terminal
+e_coli	NC_000913.3_2816	PF03450.18	2.6e-25	CO dehydrogenase flavoprotein C-terminal domain
+e_coli	NC_000913.3_804	PF03453.18	2e-48	MoeA N-terminal region (domain I and II)
+e_coli	NC_000913.3_804	PF03454.16	1.4e-22	MoeA C-terminal region (domain IV)
+e_coli	NC_000913.3_3581	PF03458.14	2.8e-42	UPF0126 domain
+e_coli	NC_000913.3_742	PF03459.18	6.6e-20	TOBE domain
+e_coli	NC_000913.3_2715	PF03460.18	2.4e-31	Nitrite/Sulfite reductase ferredoxin-like half domain
+e_coli	NC_000913.3_1086	PF03461.16	4.4e-30	TRCF domain
+e_coli	NC_000913.3_1182	PF03462.19	1.4e-77	PCRF domain
+e_coli	NC_000913.3_248	PF03466.21	1.1e-29	LysR substrate binding domain
+e_coli	NC_000913.3_1793	PF03471.18	1.6e-18	Transporter associated domain
+e_coli	NC_000913.3_1890	PF03472.16	8.2e-33	Autoinducer binding domain
+e_coli	NC_000913.3_3831	PF03473.18	2.4e-22	MOSC domain
+e_coli	NC_000913.3_923	PF03476.17	1.3e-30	MOSC N-terminal beta barrel domain
+e_coli	NC_000913.3_4153	PF03477.17	3.7e-23	ATP cone domain
+e_coli	NC_000913.3_3512	PF03480.14	6.5e-105	Bacterial extracellular solute-binding protein, family 7
+e_coli	NC_000913.3_1691	PF03483.18	4.3e-73	B3/4 domain
+e_coli	NC_000913.3_1691	PF03484.16	1.4e-23	tRNA synthetase B5 domain
+e_coli	NC_000913.3_1854	PF03485.17	3.4e-23	Arginyl tRNA synthetase N terminal domain
+e_coli	NC_000913.3_3421	PF03486.15	3.2e-158	HI0933-like protein
+e_coli	NC_000913.3_403	PF03502.14	4e-83	Nucleoside-specific channel-forming protein, Tsx
+e_coli	NC_000913.3_3527	PF03527.15	2.3e-16	RHS protein
+e_coli	NC_000913.3_1226	PF03544.15	8.8e-20	Gram-negative bacterial TonB protein C-terminal
+e_coli	NC_000913.3_2341	PF03547.19	9.3e-64	Membrane transport protein
+e_coli	NC_000913.3_867	PF03548.16	3.8e-60	Outer membrane lipoprotein carrier protein LolA
+e_coli	NC_000913.3_1180	PF03550.15	2.2e-48	Outer membrane lipoprotein LolB
+e_coli	NC_000913.3_3011	PF03551.15	9.7e-17	Transcriptional regulator PadR-like family
+e_coli	NC_000913.3_3464	PF03552.15	2.5e-17	Cellulose synthase
+e_coli	NC_000913.3_2765	PF03562.18	1e-43	MltA specific insert domain
+e_coli	NC_000913.3_1806	PF03572.19	2.6e-54	Peptidase family S41
+e_coli	NC_000913.3_664	PF03573.14	5.8e-26	outer membrane porin, OprD family
+e_coli	NC_000913.3_3933	PF03575.18	2.6e-64	Peptidase family S51
+e_coli	NC_000913.3_861	PF03588.15	8e-71	Leucyl/phenylalanyl-tRNA protein transferase
+e_coli	NC_000913.3_1536	PF03589.14	4.2e-52	Antitermination protein
+e_coli	NC_000913.3_3679	PF03590.16	1.1e-94	Aspartate-ammonia ligase
+e_coli	NC_000913.3_2637	PF03591.15	6.5e-38	AzlC protein
+e_coli	NC_000913.3_1410	PF03594.14	3.1e-158	Benzoate membrane transport protein
+e_coli	NC_000913.3_1405	PF03595.18	1.6e-40	Voltage-dependent anion channel
+e_coli	NC_000913.3_3344	PF03600.17	1.2e-25	Citrate transporter
+e_coli	NC_000913.3_2125	PF03601.15	7.8e-120	Conserved hypothetical protein 698
+e_coli	NC_000913.3_3393	PF03602.16	1.3e-63	Conserved hypothetical protein 95
+e_coli	NC_000913.3_4287	PF03603.14	2.2e-45	DNA polymerase III psi subunit
+e_coli	NC_000913.3_4041	PF03605.15	3.1e-147	Anaerobic c4-dicarboxylate membrane transporter
+e_coli	NC_000913.3_3161	PF03606.16	2.3e-127	C4-dicarboxylate anaerobic carrier
+e_coli	NC_000913.3_2653	PF03608.14	8.2e-74	PTS system enzyme II sorbitol-specific factor
+e_coli	NC_000913.3_3074	PF03609.15	1.2e-66	PTS system sorbose-specific iic component
+e_coli	NC_000913.3_1794	PF03610.17	1.6e-36	PTS system fructose IIA component
+e_coli	NC_000913.3_4217	PF03611.15	1.5e-67	PTS system sugar-specific permease component
+e_coli	NC_000913.3_2654	PF03612.15	1.2e-66	Sorbitol phosphotransferase enzyme II N-terminus
+e_coli	NC_000913.3_3075	PF03613.15	1.6e-91	PTS system mannose/fructose/sorbose family IID component
+e_coli	NC_000913.3_3588	PF03616.15	5.7e-165	Sodium/glutamate symporter
+e_coli	NC_000913.3_1681	PF03618.15	2.4e-75	Kinase/pyrophosphorylase
+e_coli	NC_000913.3_577	PF03621.14	2.5e-21	MbtH-like protein
+e_coli	NC_000913.3_421	PF03626.15	2.9e-19	Prokaryotic Cytochrome C oxidase subunit IV
+e_coli	NC_000913.3_3453	PF03631.16	2.4e-53	Virulence factor BrkB
+e_coli	NC_000913.3_1292	PF03632.16	4.5e-155	Glycosyl hydrolase family 65 central catalytic domain
+e_coli	NC_000913.3_1292	PF03636.16	1.5e-49	Glycosyl hydrolase family 65, N-terminal domain
+e_coli	NC_000913.3_2747	PF03641.15	8e-35	Possible lysine decarboxylase
+e_coli	NC_000913.3_482	PF03649.14	4.7e-82	Uncharacterised protein family (UPF0014)
+e_coli	NC_000913.3_2894	PF03652.16	1.1e-44	Holliday junction resolvase
+e_coli	NC_000913.3_2580	PF03658.15	7.8e-35	RnfH family Ubiquitin
+e_coli	NC_000913.3_3138	PF03668.16	6.1e-148	P-loop ATPase protein family
+e_coli	NC_000913.3_3652	PF03691.15	4.4e-71	Uncharacterised protein family (UPF0167)
+e_coli	NC_000913.3_2858	PF03695.14	3.4e-41	Uncharacterised protein family (UPF0149)
+e_coli	NC_000913.3_1788	PF03701.15	1.2e-29	Uncharacterised protein family (UPF0181)
+e_coli	NC_000913.3_1618	PF03702.15	3e-179	Anhydro-N-acetylmuramic acid kinase
+e_coli	NC_000913.3_1862	PF03705.16	3e-19	CheR methyltransferase, all-alpha domain
+e_coli	NC_000913.3_765	PF03706.14	1.6e-16	Lysylphosphatidylglycerol synthase TM region
+e_coli	NC_000913.3_675	PF03709.16	2.2e-23	Orn/Lys/Arg decarboxylase, N-terminal domain
+e_coli	NC_000913.3_2994	PF03710.16	3.8e-208	Glutamate-ammonia ligase adenylyltransferase
+e_coli	NC_000913.3_4035	PF03711.16	1.3e-43	Orn/Lys/Arg decarboxylase, C-terminal domain
+e_coli	NC_000913.3_81	PF03717.16	1.1e-23	Penicillin-binding Protein dimerisation domain
+e_coli	NC_000913.3_3232	PF03719.16	2.5e-31	Ribosomal protein S5, C-terminal domain
+e_coli	NC_000913.3_3714	PF03720.16	4.5e-19	UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain
+e_coli	NC_000913.3_3714	PF03721.15	2.5e-64	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain
+e_coli	NC_000913.3_1355	PF03724.17	1.7e-23	META domain
+e_coli	NC_000913.3_3099	PF03725.16	1.2e-22	3' exoribonuclease family, domain 2
+e_coli	NC_000913.3_3099	PF03726.15	1e-26	Polyribonucleotide nucleotidyltransferase, RNA binding domain
+e_coli	NC_000913.3_3441	PF03729.14	6.3e-19	Short repeat of unknown function (DUF308)
+e_coli	NC_000913.3_937	PF03733.14	1.2e-26	Inner membrane component domain
+e_coli	NC_000913.3_901	PF03734.15	1.2e-31	L,D-transpeptidase catalytic domain
+e_coli	NC_000913.3_3850	PF03737.16	7.6e-37	Aldolase/RraA
+e_coli	NC_000913.3_2978	PF03738.15	1.5e-163	Glutathionylspermidine synthase preATP-grasp
+e_coli	NC_000913.3_4173	PF03739.15	8.1e-69	Lipopolysaccharide export system permease LptF/LptG
+e_coli	NC_000913.3_2531	PF03740.14	7.8e-110	Pyridoxal phosphate biosynthesis protein PdxJ
+e_coli	NC_000913.3_3028	PF03741.17	1.4e-56	Integral membrane protein TerC family
+e_coli	NC_000913.3_696	PF03746.17	1.7e-93	LamB/YcsF family
+e_coli	NC_000913.3_2065	PF03747.15	1.1e-61	ADP-ribosylglycohydrolase
+e_coli	NC_000913.3_1916	PF03748.15	3.6e-20	Flagellar basal body-associated protein FliL
+e_coli	NC_000913.3_141	PF03749.14	8e-52	Sugar fermentation stimulation protein RE domain
+e_coli	NC_000913.3_3579	PF03755.14	2.3e-43	YicC-like family, N-terminal region
+e_coli	NC_000913.3_3269	PF03764.19	1.4e-46	Elongation factor G, domain IV
+e_coli	NC_000913.3_3971	PF03767.15	1.2e-50	HAD superfamily, subfamily IIIB (Acid phosphatase)
+e_coli	NC_000913.3_889	PF03772.17	2e-53	Competence protein
+e_coli	NC_000913.3_3086	PF03773.14	1.9e-40	Predicted permease
+e_coli	NC_000913.3_1146	PF03775.17	2.1e-31	Septum formation inhibitor MinC, C-terminal domain
+e_coli	NC_000913.3_1144	PF03776.15	1.3e-25	Septum formation topological specificity factor MinE
+e_coli	NC_000913.3_1011	PF03783.15	5.2e-81	Curli production assembly/transport component CsgG
+e_coli	NC_000913.3_4237	PF03786.14	7.4e-169	D-mannonate dehydratase (UxuA)
+e_coli	NC_000913.3_2108	PF03788.15	1.5e-29	LrgA family
+e_coli	NC_000913.3_1225	PF03795.15	4.7e-31	YCII-related domain
+e_coli	NC_000913.3_3967	PF03796.16	7.1e-113	DnaB-like helicase C terminal domain
+e_coli	NC_000913.3_2200	PF03797.20	1.4e-35	Autotransporter beta-domain
+e_coli	NC_000913.3_90	PF03799.16	2.8e-28	Cell division protein FtsQ
+e_coli	NC_000913.3_607	PF03802.15	7.4e-54	Apo-citrate lyase phosphoribosyl-dephospho-CoA transferase
+e_coli	NC_000913.3_1313	PF03806.14	5.3e-208	AbgT putative transporter family
+e_coli	NC_000913.3_379	PF03807.18	2.5e-25	NADP oxidoreductase coenzyme F420-dependent
+e_coli	NC_000913.3_3722	PF03808.14	2.2e-52	Glycosyl transferase WecB/TagA/CpsF family
+e_coli	NC_000913.3_1872	PF03811.14	1.5e-22	InsA N-terminal domain
+e_coli	NC_000913.3_3830	PF03812.14	3.7e-117	2-keto-3-deoxygluconate permease
+e_coli	NC_000913.3_681	PF03814.16	4.2e-236	Potassium-transporting ATPase A subunit
+e_coli	NC_000913.3_2733	PF03819.18	2.9e-38	MazG nucleotide pyrophosphohydrolase domain
+e_coli	NC_000913.3_2072	PF03824.17	2.9e-67	High-affinity nickel-transport protein
+e_coli	NC_000913.3_2369	PF03825.17	1.2e-190	Nucleoside H+ symporter
+e_coli	NC_000913.3_2655	PF03829.14	2.3e-39	PTS system glucitol/sorbitol-specific IIA component
+e_coli	NC_000913.3_1794	PF03830.16	1.2e-55	PTS system sorbose subfamily IIB component
+e_coli	NC_000913.3_4025	PF03831.15	1.1e-35	PhnA domain
+e_coli	NC_000913.3_1326	PF03837.15	2.6e-57	RecT family
+e_coli	NC_000913.3_3108	PF03840.15	9.8e-22	Preprotein translocase SecG subunit
+e_coli	NC_000913.3_3525	PF03841.14	4.9e-182	L-seryl-tRNA selenium transferase
+e_coli	NC_000913.3_1783	PF03843.14	1.2e-49	Outer membrane lipoprotein Slp family
+e_coli	NC_000913.3_934	PF03846.15	3.6e-57	Cell division inhibitor SulA
+e_coli	NC_000913.3_1406	PF03848.15	1.3e-111	Tellurite resistance protein TehB
+e_coli	NC_000913.3_1931	PF03852.16	1.9e-40	DNA mismatch endonuclease Vsr
+e_coli	NC_000913.3_4084	PF03853.16	1.2e-45	YjeF-related protein N-terminus
+e_coli	NC_000913.3_2539	PF03872.14	1.3e-37	Anti sigma-E protein RseA, N-terminal domain
+e_coli	NC_000913.3_2539	PF03873.14	1.1e-26	Anti sigma-E protein RseA, C-terminal domain
+e_coli	NC_000913.3_1321	PF03880.16	2.4e-21	DbpA RNA binding domain
+e_coli	NC_000913.3_1703	PF03881.15	5.9e-112	Fructosamine kinase
+e_coli	NC_000913.3_898	PF03882.15	9.9e-59	MukF winged-helix domain
+e_coli	NC_000913.3_6	PF03883.15	9.4e-93	Peroxide stress protein YaaA
+e_coli	NC_000913.3_97	PF03884.15	8.5e-26	DNA gyrase inhibitor YacG
+e_coli	NC_000913.3_928	PF03886.14	7.7e-40	ABC-type transport auxiliary lipoprotein component
+e_coli	NC_000913.3_2264	PF03887.15	4e-70	YfbU domain
+e_coli	NC_000913.3_2538	PF03888.15	5.7e-62	MucB/RseB N-terminal domain
+e_coli	NC_000913.3_3220	PF03889.14	2.2e-26	Alternative ribosome-rescue factor A
+e_coli	NC_000913.3_1770	PF03891.16	9.4e-21	Domain of unknown function (DUF333)
+e_coli	NC_000913.3_2169	PF03892.15	3.7e-44	Nitrate reductase cytochrome c-type subunit (NapB)
+e_coli	NC_000913.3_3729	PF03900.16	3.1e-26	Porphobilinogen deaminase, C-terminal domain
+e_coli	NC_000913.3_2939	PF03916.15	2.5e-19	Polysulphide reductase, NrfD
+e_coli	NC_000913.3_2160	PF03918.15	3.8e-51	Cytochrome C biogenesis protein
+e_coli	NC_000913.3_1230	PF03922.15	4.2e-77	OmpW family
+e_coli	NC_000913.3_426	PF03923.14	1.4e-53	Uncharacterized lipoprotein
+e_coli	NC_000913.3_670	PF03925.14	2.5e-51	SeqA protein C-terminal domain
+e_coli	NC_000913.3_2173	PF03927.14	3.9e-27	NapD protein
+e_coli	NC_000913.3_2920	PF03928.15	3e-33	Haem-degrading
+e_coli	NC_000913.3_1852	PF03932.15	2e-86	CutC family
+e_coli	NC_000913.3_3261	PF03934.14	5e-67	Type II secretion system (T2SS), protein K
+e_coli	NC_000913.3_2846	PF03937.17	5.6e-26	Flavinator of succinate dehydrogenase
+e_coli	NC_000913.3_173	PF03938.15	1.3e-24	Outer membrane protein (OmpH-like)
+e_coli	NC_000913.3_2550	PF03942.16	5e-44	DTW domain
+e_coli	NC_000913.3_3896	PF03946.15	2.4e-33	Ribosomal protein L11, N-terminal domain
+e_coli	NC_000913.3_3246	PF03947.19	3.8e-57	Ribosomal Proteins L2, C-terminal domain
+e_coli	NC_000913.3_4120	PF03948.15	3.9e-26	Ribosomal protein L9, C-terminal domain
+e_coli	NC_000913.3_1456	PF03949.16	2.8e-106	Malic enzyme, NAD binding domain
+e_coli	NC_000913.3_663	PF03950.19	2e-64	tRNA synthetases class I (E and Q), anti-codon binding domain
+e_coli	NC_000913.3_3788	PF03951.20	3e-33	Glutamine synthetase, beta-Grasp domain
+e_coli	NC_000913.3_2731	PF03952.17	8.7e-59	Enolase, N-terminal domain
+e_coli	NC_000913.3_851	PF03956.14	5.9e-59	Lysine exporter LysO
+e_coli	NC_000913.3_3254	PF03958.18	2.2e-47	Bacterial type II/III secretion system short domain
+e_coli	NC_000913.3_2461	PF03960.16	3e-23	ArsC family
+e_coli	NC_000913.3_1048	PF03963.15	7.4e-26	Flagellar hook capping protein - N-terminal region
+e_coli	NC_000913.3_3133	PF03968.15	2.6e-33	LptA/(LptD N-terminal domain) LPS transport protein
+e_coli	NC_000913.3_3166	PF03969.17	8.8e-177	AFG1-like ATPase
+e_coli	NC_000913.3_327	PF03972.15	5.2e-158	MmgE/PrpD family
+e_coli	NC_000913.3_2176	PF03974.14	6.1e-52	Ecotin
+e_coli	NC_000913.3_3008	PF03979.15	1.1e-30	Sigma-70 factor, region 1.1
+e_coli	NC_000913.3_11	PF03981.13	5.2e-24	Ubiquinol-cytochrome C chaperone
+e_coli	NC_000913.3_2198	PF03989.14	2.4e-78	DNA gyrase C-terminal domain, beta-propeller
+e_coli	NC_000913.3_2970	PF03992.17	3.4e-29	Antibiotic biosynthesis monooxygenase
+e_coli	NC_000913.3_4101	PF03994.15	3e-19	Domain of Unknown Function (DUF350)
+e_coli	NC_000913.3_3573	PF04002.16	1.8e-44	RadC-like JAB domain
+e_coli	NC_000913.3_1280	PF04012.13	2.4e-48	PspA/IM30 family
+e_coli	NC_000913.3_1282	PF04024.13	6.2e-16	PspC domain
+e_coli	NC_000913.3_724	PF04052.14	2e-31	TolB amino-terminal domain
+e_coli	NC_000913.3_2958	PF04055.22	1.1e-20	Radical SAM superfamily
+e_coli	NC_000913.3_2634	PF04069.13	1.2e-56	Substrate binding domain of ABC-type glycine betaine transport system
+e_coli	NC_000913.3_1765	PF04073.16	3.8e-27	Aminoacyl-tRNA editing domain
+e_coli	NC_000913.3_4164	PF04074.13	2.2e-45	YhcH/YjgK/YiaL
+e_coli	NC_000913.3_2966	PF04076.14	4e-48	Bacterial OB fold (BOF) protein
+e_coli	NC_000913.3_3272	PF04077.13	6.3e-30	DsrH like protein
+e_coli	NC_000913.3_3183	PF04085.15	1.8e-36	rod shape-determining protein MreC
+e_coli	NC_000913.3_3182	PF04093.13	4.1e-47	rod shape-determining protein MreD
+e_coli	NC_000913.3_907	PF04095.17	6.1e-75	Nicotinate phosphoribosyltransferase (NAPRTase) family
+e_coli	NC_000913.3_87	PF04101.17	1.1e-37	Glycosyltransferase family 28 C-terminal domain
+e_coli	NC_000913.3_3277	PF04102.13	8e-24	SlyX
+e_coli	NC_000913.3_570	PF04107.14	1.7e-94	Glutamate-cysteine ligase family 2(GCS2)
+e_coli	NC_000913.3_495	PF04115.13	8e-45	Ureidoglycolate lyase
+e_coli	NC_000913.3_3574	PF04127.16	4.6e-74	DNA / pantothenate metabolism flavoprotein
+e_coli	NC_000913.3_3157	PF04131.15	2.6e-93	Putative N-acetylmannosamine-6-phosphate epimerase
+e_coli	NC_000913.3_1903	PF04143.15	1.4e-50	Sulphur transport
+e_coli	NC_000913.3_50	PF04166.13	1.1e-110	Pyridoxal phosphate biosynthetic protein PdxA
+e_coli	NC_000913.3_188	PF04170.13	5.6e-28	NlpE N-terminal domain
+e_coli	NC_000913.3_2109	PF04172.17	8.6e-80	LrgB-like family
+e_coli	NC_000913.3_2313	PF04175.13	3.7e-39	Protein of unknown function (DUF406)
+e_coli	NC_000913.3_4058	PF04186.14	7e-34	FxsA cytoplasmic membrane protein
+e_coli	NC_000913.3_4208	PF04198.14	1e-83	Putative sugar-binding domain
+e_coli	NC_000913.3_3925	PF04204.17	3.5e-133	Homoserine O-succinyltransferase
+e_coli	NC_000913.3_1608	PF04205.15	2.3e-19	FMN-binding domain
+e_coli	NC_000913.3_3811	PF04216.13	5.3e-118	Protein involved in formate dehydrogenase formation
+e_coli	NC_000913.3_2265	PF04217.14	1.5e-56	Protein of unknown function, DUF412
+e_coli	NC_000913.3_3693	PF04219.13	5.1e-39	Protein of unknown function, DUF
+e_coli	NC_000913.3_3783	PF04220.13	4.1e-55	Der GTPase activator (YihI)
+e_coli	NC_000913.3_1541	PF04221.13	1.1e-28	RelB antitoxin
+e_coli	NC_000913.3_3913	PF04222.13	3.6e-83	Protein of unknown function (DUF416)
+e_coli	NC_000913.3_608	PF04223.13	1.5e-274	Citrate lyase, alpha subunit (CitF)
+e_coli	NC_000913.3_298	PF04224.13	4.6e-81	Protein of unknown function, DUF417
+e_coli	NC_000913.3_4123	PF04225.13	3.9e-35	Opacity-associated protein A LysM-like domain
+e_coli	NC_000913.3_1772	PF04226.14	1.1e-17	Transglycosylase associated protein
+e_coli	NC_000913.3_2132	PF04227.13	9.2e-131	Indigoidine synthase A like protein
+e_coli	NC_000913.3_2440	PF04228.14	2.1e-145	Putative neutral zinc metallopeptidase
+e_coli	NC_000913.3_2011	PF04230.14	7.6e-41	Polysaccharide pyruvyl transferase
+e_coli	NC_000913.3_2890	PF04231.14	3.2e-49	Endonuclease I
+e_coli	NC_000913.3_1817	PF04234.13	5.8e-28	CopC domain
+e_coli	NC_000913.3_2119	PF04235.13	1.9e-47	Protein of unknown function (DUF418)
+e_coli	NC_000913.3_3973	PF04237.14	2.8e-19	YjbR
+e_coli	NC_000913.3_882	PF04239.13	3.6e-16	Protein of unknown function (DUF421)
+e_coli	NC_000913.3_2759	PF04241.16	5.6e-24	Protein of unknown function (DUF423)
+e_coli	NC_000913.3_2154	PF04245.14	3.8e-97	37-kD nucleoid-associated bacterial protein
+e_coli	NC_000913.3_2537	PF04246.13	1.8e-32	Positive regulator of sigma(E), RseC/MucC
+e_coli	NC_000913.3_1184	PF04247.13	1.7e-34	Invasion gene expression up-regulator, SirB
+e_coli	NC_000913.3_2771	PF04257.15	0	Exodeoxyribonuclease V, gamma subunit
+e_coli	NC_000913.3_996	PF04261.13	2.3e-124	Dyp-type peroxidase family
+e_coli	NC_000913.3_2643	PF04262.15	1.5e-171	Glutamate-cysteine ligase
+e_coli	NC_000913.3_1029	PF04264.14	3.2e-44	YceI-like domain
+e_coli	NC_000913.3_2849	PF04266.15	1.9e-16	ASCH domain
+e_coli	NC_000913.3_1222	PF04269.13	3.4e-48	Protein of unknown function, DUF440
+e_coli	NC_000913.3_1228	PF04279.16	3.2e-73	Intracellular septation protein A
+e_coli	NC_000913.3_1766	PF04284.14	2.3e-45	Protein of unknown function (DUF441)
+e_coli	NC_000913.3_1762	PF04285.13	7.5e-189	Protein of unknown function (DUF444)
+e_coli	NC_000913.3_4254	PF04286.13	1.2e-106	Protein of unknown function (DUF445)
+e_coli	NC_000913.3_2744	PF04287.13	1.7e-34	tRNA pseudouridine synthase C
+e_coli	NC_000913.3_899	PF04288.14	1e-126	MukE-like family
+e_coli	NC_000913.3_3510	PF04290.13	1.7e-30	Tripartite ATP-independent periplasmic transporters, DctQ component
+e_coli	NC_000913.3_1158	PF04293.14	1.3e-177	SpoVR like protein
+e_coli	NC_000913.3_3031	PF04295.14	1.2e-153	D-galactarate dehydratase / Altronate hydrolase, C terminus
+e_coli	NC_000913.3_746	PF04303.14	1.6e-155	PrpF protein
+e_coli	NC_000913.3_459	PF04304.14	8e-42	Protein of unknown function (DUF454)
+e_coli	NC_000913.3_516	PF04307.15	1.1e-34	LexA-binding, inner membrane-associated putative hydrolase
+e_coli	NC_000913.3_2720	PF04309.13	2.4e-63	Glycerol-3-phosphate responsive antiterminator
+e_coli	NC_000913.3_900	PF04310.13	3.7e-125	MukB N-terminal
+e_coli	NC_000913.3_4267	PF04313.15	1.3e-25	Type I restriction enzyme R protein N terminus (HSDR_N)
+e_coli	NC_000913.3_2296	PF04315.13	1.2e-81	Elongation factor P hydroxylase
+e_coli	NC_000913.3_1297	PF04317.13	1.5e-182	YcjX-like family, DUF463
+e_coli	NC_000913.3_2904	PF04320.15	1.7e-43	Protein with unknown function (DUF469)
+e_coli	NC_000913.3_2006	PF04321.18	7.1e-110	RmlD substrate binding domain
+e_coli	NC_000913.3_3295	PF04324.16	9.2e-22	BFD-like [2Fe-2S] binding domain
+e_coli	NC_000913.3_4270	PF04328.14	5.5e-28	Selenoprotein, putative
+e_coli	NC_000913.3_2316	PF04333.14	4.2e-66	MlaA lipoprotein
+e_coli	NC_000913.3_396	PF04336.13	2.6e-29	Acyl carrier protein phosphodiesterase
+e_coli	NC_000913.3_1040	PF04337.13	5.2e-64	Protein of unknown function, DUF480
+e_coli	NC_000913.3_1700	PF04338.13	2.8e-55	Protein of unknown function, DUF481
+e_coli	NC_000913.3_3734	PF04340.13	4.2e-90	Protein of unknown function, DUF484
+e_coli	NC_000913.3_3984	PF04341.13	2.8e-33	Protein of unknown function, DUF485
+e_coli	NC_000913.3_1769	PF04343.14	4.5e-32	Protein of unknown function, DUF488
+e_coli	NC_000913.3_1859	PF04344.14	7.2e-78	Chemotaxis phosphatase, CheZ
+e_coli	NC_000913.3_3954	PF04345.14	1.7e-31	Chorismate lyase
+e_coli	NC_000913.3_2416	PF04346.13	7.6e-144	Ethanolamine utilisation protein, EutH
+e_coli	NC_000913.3_1919	PF04347.14	8.2e-20	Flagellar biosynthesis protein, FliO
+e_coli	NC_000913.3_3082	PF04348.14	4.1e-136	LppC putative lipoprotein
+e_coli	NC_000913.3_1401	PF04349.13	4e-182	Periplasmic glucan biosynthesis protein, MdoG
+e_coli	NC_000913.3_1807	PF04352.14	1.4e-41	ProQ/FINO family
+e_coli	NC_000913.3_3909	PF04353.14	2.5e-52	Regulator of RNA polymerase sigma(70) subunit, Rsd/AlgQ
+e_coli	NC_000913.3_2376	PF04354.14	1.1e-46	ZipA, C-terminal FtsZ-binding domain
+e_coli	NC_000913.3_2579	PF04355.14	1e-27	SmpA / OmlA family
+e_coli	NC_000913.3_1104	PF04356.13	4.7e-76	Protein of unknown function (DUF489)
+e_coli	NC_000913.3_4138	PF04357.14	2.7e-71	TamB, inner membrane protein subunit of TAM complex
+e_coli	NC_000913.3_945	PF04358.14	2.1e-45	DsrC like protein
+e_coli	NC_000913.3_624	PF04359.15	2.1e-28	Protein of unknown function (DUF493)
+e_coli	NC_000913.3_3213	PF04361.14	3.6e-58	Protein of unknown function (DUF494)
+e_coli	NC_000913.3_2907	PF04362.15	4.3e-41	Bacterial Fe(2+) trafficking
+e_coli	NC_000913.3_1972	PF04363.13	9.8e-47	Protein of unknown function (DUF496)
+e_coli	NC_000913.3_4171	PF04364.14	2.8e-42	DNA polymerase III chi subunit, HolC
+e_coli	NC_000913.3_3727	PF04375.15	2.6e-106	HemX, putative uroporphyrinogen-III C-methyltransferase
+e_coli	NC_000913.3_3428	PF04378.14	2.8e-122	Ribosomal RNA large subunit methyltransferase D, RlmJ
+e_coli	NC_000913.3_48	PF04379.15	2.4e-34	ApaG domain
+e_coli	NC_000913.3_2983	PF04380.14	9.9e-29	Membrane fusogenic activity
+e_coli	NC_000913.3_386	PF04381.13	3.5e-126	Putative exonuclease, RdgC
+e_coli	NC_000913.3_2491	PF04384.14	7.1e-33	Iron-sulphur cluster assembly
+e_coli	NC_000913.3_3162	PF04386.14	4.2e-45	Stringent starvation protein B
+e_coli	NC_000913.3_2705	PF04389.18	3.4e-36	Peptidase family M28
+e_coli	NC_000913.3_1822	PF04391.13	6.4e-48	Protein of unknown function (DUF533)
+e_coli	NC_000913.3_854	PF04393.14	2e-102	Protein of unknown function (DUF535)
+e_coli	NC_000913.3_2350	PF04397.16	1.9e-34	LytTr DNA-binding domain
+e_coli	NC_000913.3_1037	PF04399.14	3.3e-49	Glutaredoxin 2, C terminal domain
+e_coli	NC_000913.3_2870	PF04402.15	3.8e-44	Protein of unknown function (DUF541)
+e_coli	NC_000913.3_1809	PF04403.14	2.1e-82	Paraquat-inducible protein A
+e_coli	NC_000913.3_4126	PF04405.15	1.5e-21	Domain of Unknown function (DUF542)
+e_coli	NC_000913.3_1389	PF04408.24	2.5e-18	Helicase associated domain (HA2)
+e_coli	NC_000913.3_3568	PF04413.17	4.7e-70	3-Deoxy-D-manno-octulosonic-acid transferase (kdotransferase)
+e_coli	NC_000913.3_3426	PF04445.14	4.6e-104	Putative SAM-dependent methyltransferase
+e_coli	NC_000913.3_2891	PF04452.15	9.9e-75	RNA methyltransferase
+e_coli	NC_000913.3_52	PF04453.15	1.6e-113	LPS transport system D
+e_coli	NC_000913.3_418	PF04461.14	6e-66	Protein of unknown function (DUF520)
+e_coli	NC_000913.3_4268	PF04471.13	9.6e-39	Restriction endonuclease
+e_coli	NC_000913.3_2911	PF04474.13	1.2e-68	Protein of unknown function (DUF554)
+e_coli	NC_000913.3_3912	PF04493.15	9.5e-74	Endonuclease V
+e_coli	NC_000913.3_2730	PF04536.15	1.1e-34	TPM domain
+e_coli	NC_000913.3_1896	PF04539.17	1.5e-20	Sigma-70 region 3
+e_coli	NC_000913.3_1896	PF04542.15	1.4e-17	Sigma-70 region 2
+e_coli	NC_000913.3_1896	PF04545.17	1.4e-17	Sigma-70, region 4
+e_coli	NC_000913.3_3008	PF04546.14	4.5e-75	Sigma-70, non-essential region
+e_coli	NC_000913.3_2482	PF04551.15	5.1e-134	GcpE protein
+e_coli	NC_000913.3_3135	PF04552.14	4e-71	Sigma-54, DNA binding domain
+e_coli	NC_000913.3_3900	PF04560.21	2.6e-28	RNA polymerase Rpb2, domain 7
+e_coli	NC_000913.3_3900	PF04561.15	5.1e-26	RNA polymerase Rpb2, domain 2
+e_coli	NC_000913.3_3900	PF04563.16	2.5e-59	RNA polymerase beta subunit
+e_coli	NC_000913.3_3900	PF04565.17	1.8e-30	RNA polymerase Rpb2, domain 3
+e_coli	NC_000913.3_2049	PF04606.13	1e-21	Ogr/Delta-like zinc finger
+e_coli	NC_000913.3_3585	PF04607.18	1.1e-36	Region found in RelA / SpoT proteins
+e_coli	NC_000913.3_410	PF04608.14	1.5e-51	Phosphatidylglycerophosphatase A
+e_coli	NC_000913.3_3263	PF04612.13	1.1e-33	Type II secretion system (T2SS), protein M
+e_coli	NC_000913.3_174	PF04613.15	5.9e-22	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase, LpxD
+e_coli	NC_000913.3_267	PF04616.15	3.7e-110	Glycosyl hydrolases family 43
+e_coli	NC_000913.3_3998	PF04632.13	1.1e-33	Fusaric acid resistance protein family
+e_coli	NC_000913.3_1424	PF04657.14	9.6e-22	Putative inner membrane exporter, YdcZ
+e_coli	NC_000913.3_1789	PF04715.14	6.8e-28	Anthranilate synthase component I, N terminal region
+e_coli	NC_000913.3_1654	PF04728.14	2.7e-25	Lipoprotein leucine-zipper
+e_coli	NC_000913.3_3549	PF04748.14	2.6e-74	Divergent polysaccharide deacetylase
+e_coli	NC_000913.3_4149	PF04751.15	2.8e-55	Protein of unknown function (DUF615)
+e_coli	NC_000913.3_1192	PF04752.13	2.6e-55	ChaC-like protein
+e_coli	NC_000913.3_127	PF04754.13	1.6e-86	Putative transposase, YhgA-like
+e_coli	NC_000913.3_3103	PF04760.16	8.7e-25	Translation initiation factor IF-2, N-terminal region
+e_coli	NC_000913.3_4205	PF04773.14	5.3e-17	FecR protein
+e_coli	NC_000913.3_1711	PF04794.13	4.7e-59	YdjC-like protein
+e_coli	NC_000913.3_952	PF04809.14	3.1e-43	HupH hydrogenase expression protein, C-terminal conserved region
+e_coli	NC_000913.3_2152	PF04851.16	1.6e-26	Type III restriction enzyme, res subunit
+e_coli	NC_000913.3_1122	PF04860.13	6.1e-22	Phage portal protein
+e_coli	NC_000913.3_1123	PF04865.15	4.7e-51	Baseplate J-like protein
+e_coli	NC_000913.3_870	PF04879.17	1.1e-18	Molybdopterin oxidoreductase Fe4S4 domain
+e_coli	NC_000913.3_2103	PF04893.18	6.7e-27	Yip1 domain
+e_coli	NC_000913.3_3145	PF04898.15	8e-106	Glutamate synthase central domain
+e_coli	NC_000913.3_1134	PF04940.13	1.2e-24	Sensors of blue-light using FAD
+e_coli	NC_000913.3_1722	PF04952.15	7.2e-76	Succinylglutamate desuccinylase / Aspartoacylase family
+e_coli	NC_000913.3_3010	PF04954.14	2.4e-21	Siderophore-interacting protein
+e_coli	NC_000913.3_929	PF04957.13	1.3e-30	Ribosome modulation factor
+e_coli	NC_000913.3_1725	PF04958.13	2.4e-145	Arginine N-succinyltransferase beta subunit
+e_coli	NC_000913.3_1500	PF04960.16	1e-114	Glutaminase
+e_coli	NC_000913.3_2793	PF04962.13	8.3e-43	KduI/IolB family
+e_coli	NC_000913.3_3135	PF04963.14	2.6e-62	Sigma-54 factor, core binding domain
+e_coli	NC_000913.3_1532	PF04971.13	1.2e-33	Bacteriophage P21 holin S
+e_coli	NC_000913.3_3085	PF04972.18	5.2e-34	BON domain
+e_coli	NC_000913.3_728	PF04973.13	1.3e-50	Nicotinamide mononucleotide transporter
+e_coli	NC_000913.3_872	PF04976.13	1.4e-124	DMSO reductase anchor subunit (DmsC)
+e_coli	NC_000913.3_2700	PF04977.16	6.6e-31	Septum formation initiator
+e_coli	NC_000913.3_3901	PF04983.19	5.1e-28	RNA polymerase Rpb1, domain 3
+e_coli	NC_000913.3_935	PF04993.14	1.1e-25	TfoX N-terminal domain
+e_coli	NC_000913.3_935	PF04994.14	6.4e-27	TfoX C-terminal domain
+e_coli	NC_000913.3_2164	PF04995.15	4.7e-17	Heme exporter protein D (CcmD)
+e_coli	NC_000913.3_1723	PF04996.13	4.9e-212	Succinylarginine dihydrolase
+e_coli	NC_000913.3_3901	PF04997.13	1.1e-90	RNA polymerase Rpb1, domain 1
+e_coli	NC_000913.3_3901	PF04998.18	9e-79	RNA polymerase Rpb1, domain 5
+e_coli	NC_000913.3_80	PF04999.14	2.7e-36	Cell division protein FtsL
+e_coli	NC_000913.3_3901	PF05000.18	3.5e-19	RNA polymerase Rpb1, domain 4
+e_coli	NC_000913.3_3683	PF05025.14	1.2e-48	RbsD / FucU transport protein family
+e_coli	NC_000913.3_3630	PF05035.13	2.8e-97	2-keto-3-deoxy-galactonokinase
+e_coli	NC_000913.3_626	PF05036.14	1.7e-17	SPOR domain
+e_coli	NC_000913.3_2877	PF05068.13	1e-55	Mannitol repressor
+e_coli	NC_000913.3_3633	PF05116.14	1.6e-16	Sucrose-6F-phosphate phosphohydrolase
+e_coli	NC_000913.3_2768	PF05127.15	2.2e-25	Helicase
+e_coli	NC_000913.3_1298	PF05128.13	2.7e-54	Domain of unknown function (DUF697)
+e_coli	NC_000913.3_1043	PF05130.13	8.7e-20	FlgN protein
+e_coli	NC_000913.3_3262	PF05134.14	8.8e-73	Type II secretion system (T2SS), protein L
+e_coli	NC_000913.3_1364	PF05138.13	1.5e-95	Phenylacetic acid catabolic protein
+e_coli	NC_000913.3_698	PF05145.13	2.2e-99	Transition state regulatory protein AbrB
+e_coli	NC_000913.3_558	PF05157.16	8.4e-19	Type II secretion system (T2SS), protein E, N-terminal domain
+e_coli	NC_000913.3_2859	PF05164.14	1.1e-20	Cell division protein ZapA
+e_coli	NC_000913.3_1149	PF05166.14	2e-34	YcgL domain
+e_coli	NC_000913.3_3590	PF05170.15	1.3e-26	AsmA family
+e_coli	NC_000913.3_29	PF05173.15	1e-43	Dihydrodipicolinate reductase, C-terminus
+e_coli	NC_000913.3_4286	PF05175.15	1.5e-61	Methyltransferase small domain
+e_coli	NC_000913.3_2685	PF05188.18	6e-34	MutS domain II
+e_coli	NC_000913.3_2685	PF05190.19	1.5e-29	MutS family domain IV
+e_coli	NC_000913.3_465	PF05191.15	1.2e-17	Adenylate kinase, active site lid
+e_coli	NC_000913.3_2685	PF05192.19	1.2e-41	MutS domain III
+e_coli	NC_000913.3_3458	PF05193.22	1.9e-19	Peptidase M16 inactive domain
+e_coli	NC_000913.3_2857	PF05195.17	7.3e-37	Aminopeptidase P, N-terminal domain
+e_coli	NC_000913.3_1695	PF05198.17	4.6e-22	Translation initiation factor IF-3, N-terminal domain
+e_coli	NC_000913.3_305	PF05199.14	2.2e-43	GMC oxidoreductase
+e_coli	NC_000913.3_1181	PF05201.16	1.4e-53	Glutamyl-tRNAGlu reductase, N-terminal domain
+e_coli	NC_000913.3_1146	PF05209.14	4.1e-41	Septum formation inhibitor MinC, N-terminal domain
+e_coli	NC_000913.3_1579	PF05222.16	1.8e-52	Alanine dehydrogenase/PNT, N-terminal domain
+e_coli	NC_000913.3_378	PF05230.12	7.7e-32	MASE2 domain
+e_coli	NC_000913.3_2364	PF05231.15	1.4e-61	MASE1
+e_coli	NC_000913.3_1870	PF05247.14	3.4e-41	Flagellar transcriptional activator (FlhD)
+e_coli	NC_000913.3_1869	PF05280.12	3.6e-82	Flagellar transcriptional activator (FlhC)
+e_coli	NC_000913.3_1602	PF05321.12	2.3e-25	Haemolysin expression modulating protein
+e_coli	NC_000913.3_3822	PF05336.14	6.3e-30	L-rhamnose mutarotase
+e_coli	NC_000913.3_3819	PF05343.15	2.3e-102	M42 glutamyl aminopeptidase
+e_coli	NC_000913.3_1551	PF05358.12	4.2e-49	DicB protein
+e_coli	NC_000913.3_3495	PF05360.15	3.5e-41	yiaA/B two helix domain
+e_coli	NC_000913.3_431	PF05362.14	1.7e-98	Lon protease (S16) C-terminal proteolytic domain
+e_coli	NC_000913.3_4128	PF05368.14	8.1e-25	NmrA-like family
+e_coli	NC_000913.3_1900	PF05400.14	4.5e-20	Flagellar protein FliT
+e_coli	NC_000913.3_2384	PF05406.16	2.3e-17	WGR domain
+e_coli	NC_000913.3_3461	PF05420.12	2.3e-115	Cellulose synthase operon protein C C-terminus (BCSC_C)
+e_coli	NC_000913.3_1816	PF05425.14	8.3e-25	Copper resistance protein D
+e_coli	NC_000913.3_2294	PF05430.12	4.7e-52	S-adenosyl-L-methionine-dependent methyltransferase
+e_coli	NC_000913.3_2638	PF05437.13	8.2e-16	Branched-chain amino acid transport protein (AzlD)
+e_coli	NC_000913.3_1586	PF05472.12	5.1e-137	DNA replication terminus site-binding protein (Ter protein)
+e_coli	NC_000913.3_1838	PF05491.14	5.6e-26	RuvB C-terminal winged helix domain
+e_coli	NC_000913.3_3125	PF05494.13	7.9e-54	MlaC protein
+e_coli	NC_000913.3_1838	PF05496.13	7e-83	Holliday junction DNA helicase RuvB P-loop domain
+e_coli	NC_000913.3_2778	PF05524.14	1.3e-24	PEP-utilising enzyme, N-terminal
+e_coli	NC_000913.3_393	PF05525.14	2.1e-161	Branched-chain amino acid transport protein
+e_coli	NC_000913.3_3960	PF05532.13	1.5e-22	CsbD-like
+e_coli	NC_000913.3_3527	PF05593.15	2e-66	RHS Repeat
+e_coli	NC_000913.3_1345	PF05598.12	6.7e-22	Transposase domain (DUF772)
+e_coli	NC_000913.3_157	PF05651.14	1.6e-49	Putative sugar diacid recognition
+e_coli	NC_000913.3_3842	PF05656.15	1.9e-22	Protein of unknown function (DUF805)
+e_coli	NC_000913.3_1929	PF05661.13	3e-114	Protein of unknown function (DUF808)
+e_coli	NC_000913.3_1147	PF05666.12	3.2e-37	Fels-1 Prophage Protein-like
+e_coli	NC_000913.3_1588	PF05681.15	3.5e-87	Fumarate hydratase (Fumerase)
+e_coli	NC_000913.3_3003	PF05683.13	1.7e-41	Fumarase C-terminus
+e_coli	NC_000913.3_3904	PF05690.15	4.6e-112	Thiazole biosynthesis protein ThiG
+e_coli	NC_000913.3_428	PF05697.14	3.4e-41	Bacterial trigger factor protein (TF)
+e_coli	NC_000913.3_428	PF05698.15	2.3e-41	Bacterial trigger factor protein (TF) C-terminus
+e_coli	NC_000913.3_1840	PF05708.13	1.5e-44	Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family
+e_coli	NC_000913.3_1080	PF05728.13	1.6e-72	Uncharacterised protein family (UPF0227)
+e_coli	NC_000913.3_1854	PF05746.16	1.3e-36	DALR anticodon binding domain
+e_coli	NC_000913.3_2088	PF05762.15	1.3e-70	VWA domain containing CoxE-like protein
+e_coli	NC_000913.3_4018	PF05845.13	8.2e-63	Bacterial phosphonate metabolism protein (PhnH)
+e_coli	NC_000913.3_4017	PF05861.13	2.4e-153	Bacterial phosphonate metabolism protein (PhnI)
+e_coli	NC_000913.3_537	PF05866.12	1.3e-22	Endodeoxyribonuclease RusA
+e_coli	NC_000913.3_2324	PF05869.12	2.1e-24	DNA N-6-adenine-methyltransferase (Dam)
+e_coli	NC_000913.3_4175	PF05872.13	2.4e-252	Bacterial protein of unknown function (DUF853)
+e_coli	NC_000913.3_504	PF05899.13	5.2e-16	Protein of unknown function (DUF861)
+e_coli	NC_000913.3_2586	PF05930.13	2.9e-26	Prophage CP4-57 regulatory protein (AlpA)
+e_coli	NC_000913.3_902	PF05951.14	4.9e-64	Bacterial protein of unknown function (DUF882)
+e_coli	NC_000913.3_3885	PF05958.12	1.2e-192	tRNA (Uracil-5-)-methyltransferase
+e_coli	NC_000913.3_1720	PF05962.12	1.9e-44	HutD
+e_coli	NC_000913.3_784	PF05971.13	5.9e-155	RNA methyltransferase
+e_coli	NC_000913.3_1231	PF05974.13	1.2e-48	Domain of unknown function (DUF892)
+e_coli	NC_000913.3_583	PF05977.14	1.6e-21	Transmembrane secretion effector
+e_coli	NC_000913.3_4314	PF05981.13	4.9e-59	CreA protein
+e_coli	NC_000913.3_2404	PF05985.12	3.1e-79	Ethanolamine ammonia-lyase light chain (EutC)
+e_coli	NC_000913.3_4169	PF05987.14	3.3e-43	Bacterial protein of unknown function (DUF898)
+e_coli	NC_000913.3_370	PF05992.13	2.9e-168	SbmA/BacA-like family
+e_coli	NC_000913.3_2761	PF06004.13	2e-25	Bacterial protein of unknown function (DUF903)
+e_coli	NC_000913.3_3849	PF06005.13	1.2e-24	Cell division protein ZapB
+e_coli	NC_000913.3_243	PF06006.13	5.8e-42	Bacterial protein of unknown function (DUF905)
+e_coli	NC_000913.3_4016	PF06007.12	7.8e-149	Phosphonate metabolism protein PhnJ
+e_coli	NC_000913.3_2862	PF06026.15	3.2e-59	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)
+e_coli	NC_000913.3_2034	PF06029.12	3.5e-28	AlkA N-terminal domain
+e_coli	NC_000913.3_2177	PF06039.16	4.4e-242	Malate:quinone oxidoreductase (Mqo)
+e_coli	NC_000913.3_4253	PF06050.14	1.6e-85	2-hydroxyglutaryl-CoA dehydratase, D-component
+e_coli	NC_000913.3_114	PF06062.12	1.1e-40	Uncharacterised protein family (UPF0231)
+e_coli	NC_000913.3_246	PF06067.12	1.3e-56	Domain of unknown function (DUF932)
+e_coli	NC_000913.3_1174	PF06071.14	1.7e-39	Protein of unknown function (DUF933)
+e_coli	NC_000913.3_960	PF06082.12	3.3e-268	Exopolysaccharide biosynthesis protein YbjH
+e_coli	NC_000913.3_4139	PF06094.13	1.3e-25	Gamma-glutamyl cyclotransferase, AIG2-like
+e_coli	NC_000913.3_1590	PF06097.12	4.3e-135	Bacterial protein of unknown function (DUF945)
+e_coli	NC_000913.3_1152	PF06109.14	2e-125	Haemolysin E (HlyE)
+e_coli	NC_000913.3_4317	PF06123.13	7.8e-143	Inner membrane protein CreD
+e_coli	NC_000913.3_3824	PF06134.12	7.4e-240	L-rhamnose isomerase (RhaA)
+e_coli	NC_000913.3_633	PF06144.14	1.1e-48	DNA polymerase III, delta subunit
+e_coli	NC_000913.3_3942	PF06146.13	7.9e-16	Phosphate-starvation-inducible E
+e_coli	NC_000913.3_1537	PF06147.12	1.5e-23	Protein of unknown function (DUF968)
+e_coli	NC_000913.3_1191	PF06150.13	1.6e-27	ChaB
+e_coli	NC_000913.3_1969	PF06154.12	1.9e-51	CbeA_antitoxin, type IV, cytoskeleton bundling-enhancing factor A
+e_coli	NC_000913.3_1946	PF06167.13	7.9e-63	Glucose-regulated metallo-peptidase M90
+e_coli	NC_000913.3_1797	PF06173.13	9.7e-64	Protein of unknown function (DUF986)
+e_coli	NC_000913.3_1968	PF06174.12	1.5e-39	Protein of unknown function (DUF987)
+e_coli	NC_000913.3_3560	PF06176.12	2.6e-135	Lipopolysaccharide core biosynthesis protein (WaaY)
+e_coli	NC_000913.3_4226	PF06178.14	1.8e-29	Oligogalacturonate-specific porin protein (KdgM)
+e_coli	NC_000913.3_1034	PF06183.14	1.8e-29	DinI-like family
+e_coli	NC_000913.3_1853	PF06185.13	1.1e-72	YecM protein
+e_coli	NC_000913.3_3189	PF06196.13	5.5e-31	Protein of unknown function (DUF997)
+e_coli	NC_000913.3_892	PF06224.13	7.7e-82	Winged helix DNA-binding domain
+e_coli	NC_000913.3_1365	PF06243.12	1.9e-39	Phenylacetic acid degradation B
+e_coli	NC_000913.3_2424	PF06249.13	9.2e-71	Ethanolamine utilisation protein EutQ
+e_coli	NC_000913.3_3154	PF06250.12	1.4e-55	YhcG PDDEXK nuclease domain
+e_coli	NC_000913.3_3940	PF06251.12	2.3e-94	Capsule biosynthesis GfcC
+e_coli	NC_000913.3_4284	PF06276.13	4e-31	Ferric iron reductase FhuF-like transporter
+e_coli	NC_000913.3_2415	PF06277.12	2.8e-180	Ethanolamine utilisation protein EutA
+e_coli	NC_000913.3_3775	PF06288.14	1.7e-46	Protein of unknown function (DUF1040)
+e_coli	NC_000913.3_546	PF06291.12	2.5e-32	Bor protein
+e_coli	NC_000913.3_2204	PF06293.15	4.2e-73	Lipopolysaccharide kinase (Kdo/WaaP) family
+e_coli	NC_000913.3_3167	PF06295.13	1.5e-47	Protein of unknown function (DUF1043)
+e_coli	NC_000913.3_932	PF06303.13	9.5e-45	MatP N-terminal domain
+e_coli	NC_000913.3_1255	PF06305.12	2.6e-21	Lipopolysaccharide assembly protein A domain
+e_coli	NC_000913.3_3928	PF06315.12	6.3e-243	Isocitrate dehydrogenase kinase/phosphatase (AceK)
+e_coli	NC_000913.3_791	PF06316.12	5.1e-24	Enterobacterial Ail/Lom protein
+e_coli	NC_000913.3_3191	PF06325.14	3.8e-106	Ribosomal protein L11 methyltransferase (PrmA)
+e_coli	NC_000913.3_1856	PF06366.14	1.5e-38	Flagellar protein FlhE
+e_coli	NC_000913.3_3828	PF06379.13	3.9e-216	L-rhamnose-proton symport protein (RhaT)
+e_coli	NC_000913.3_3439	PF06411.12	2e-25	HdeA/HdeB family
+e_coli	NC_000913.3_3547	PF06415.14	3e-84	BPG-independent PGAM N-terminus (iPGM_N)
+e_coli	NC_000913.3_2732	PF06418.15	3.7e-126	CTP synthase N-terminus
+e_coli	NC_000913.3_2536	PF06421.13	2.2e-50	GTP-binding protein LepA C-terminus
+e_coli	NC_000913.3_3542	PF06426.15	7.2e-40	Serine acetyltransferase, N-terminal
+e_coli	NC_000913.3_1049	PF06429.14	1.2e-21	Flagellar basal body rod FlgEFG protein C-terminal
+e_coli	NC_000913.3_113	PF06434.14	7e-100	Aconitate hydratase 2 N-terminus
+e_coli	NC_000913.3_1818	PF06440.12	2.1e-39	DNA polymerase III, theta subunit
+e_coli	NC_000913.3_4313	PF06445.16	1.2e-22	GyrI-like small molecule binding domain
+e_coli	NC_000913.3_1156	PF06450.13	0	Bacterial Na+/H+ antiporter B (NhaB)
+e_coli	NC_000913.3_758	PF06463.14	1.3e-40	Molybdenum Cofactor Synthesis C
+e_coli	NC_000913.3_1473	PF06472.16	1.7e-47	ABC transporter transmembrane region 2
+e_coli	NC_000913.3_3037	PF06476.13	8.2e-37	Protein of unknown function (DUF1090)
+e_coli	NC_000913.3_3111	PF06480.16	4e-17	FtsH Extracellular
+e_coli	NC_000913.3_424	PF06481.15	5.2e-20	COX Aromatic Rich Motif
+e_coli	NC_000913.3_1010	PF06496.12	1.3e-38	Protein of unknown function (DUF1097)
+e_coli	NC_000913.3_230	PF06500.12	3.4e-223	Alpha/beta hydrolase of unknown function (DUF1100)
+e_coli	NC_000913.3_323	PF06506.12	5.8e-51	Propionate catabolism activator
+e_coli	NC_000913.3_436	PF06508.14	1.9e-85	Queuosine biosynthesis protein QueC
+e_coli	NC_000913.3_723	PF06519.12	1.1e-38	TolA C-terminal
+e_coli	NC_000913.3_4134	PF06526.13	3.4e-30	Protein of unknown function (DUF1107)
+e_coli	NC_000913.3_539	PF06530.13	5.8e-54	Phage antitermination protein Q
+e_coli	NC_000913.3_315	PF06545.12	1.6e-88	Protein of unknown function (DUF1116)
+e_coli	NC_000913.3_3153	PF06551.13	2.7e-48	Protein of unknown function (DUF1120)
+e_coli	NC_000913.3_94	PF06558.13	1.7e-55	Secretion monitor precursor protein (SecM)
+e_coli	NC_000913.3_3465	PF06564.13	2.5e-106	Cellulose biosynthesis protein BcsQ
+e_coli	NC_000913.3_2396	PF06572.13	1.3e-82	Protein of unknown function (DUF1131)
+e_coli	NC_000913.3_23	PF06574.13	1.2e-58	FAD synthetase
+e_coli	NC_000913.3_2093	PF06580.14	2.9e-26	Histidine kinase
+e_coli	NC_000913.3_2625	PF06610.14	2.3e-67	L-alanine exporter
+e_coli	NC_000913.3_3394	PF06611.13	1.3e-27	Protein of unknown function (DUF1145)
+e_coli	NC_000913.3_1710	PF06628.13	2.5e-18	Catalase-related immune-responsive
+e_coli	NC_000913.3_1760	PF06629.13	1.6e-51	MltA-interacting protein MipA
+e_coli	NC_000913.3_1327	PF06630.12	3.8e-87	Enterobacterial exodeoxyribonuclease VIII
+e_coli	NC_000913.3_569	PF06643.12	2.4e-46	Protein of unknown function (DUF1158)
+e_coli	NC_000913.3_1562	PF06649.13	1.7e-21	Protein of unknown function (DUF1161)
+e_coli	NC_000913.3_1281	PF06667.13	7.1e-33	Phage shock protein B
+e_coli	NC_000913.3_2196	PF06672.12	1.1e-71	Protein of unknown function (DUF1175)
+e_coli	NC_000913.3_2430	PF06674.12	1.2e-103	Protein of unknown function (DUF1176)
+e_coli	NC_000913.3_1325	PF06688.12	2.2e-39	Protein of unknown function (DUF1187)
+e_coli	NC_000913.3_430	PF06689.14	1.1e-21	ClpX C4-type zinc finger
+e_coli	NC_000913.3_2977	PF06693.12	2.5e-56	Protein of unknown function (DUF1190)
+e_coli	NC_000913.3_3598	PF06711.12	7.9e-69	Protein of unknown function (DUF1198)
+e_coli	NC_000913.3_2901	PF06717.12	2.4e-198	Protein of unknown function (DUF1202)
+e_coli	NC_000913.3_2953	PF06719.14	9.4e-38	AraC-type transcriptional regulator N-terminus
+e_coli	NC_000913.3_3184	PF06723.14	3.1e-151	MreB/Mbl protein
+e_coli	NC_000913.3_2765	PF06725.12	3.8e-26	3D domain
+e_coli	NC_000913.3_4281	PF06738.13	2.4e-68	Putative threonine/serine exporter
+e_coli	NC_000913.3_4305	PF06745.14	1.7e-18	KaiC
+e_coli	NC_000913.3_2916	PF06750.14	2.6e-35	Bacterial Peptidase A24 N-terminal domain
+e_coli	NC_000913.3_2405	PF06751.12	9.6e-203	Ethanolamine ammonia lyase large subunit (EutB)
+e_coli	NC_000913.3_4019	PF06754.13	2.8e-53	Phosphonate metabolism protein PhnG
+e_coli	NC_000913.3_238	PF06755.13	4.3e-69	CbtA_toxin of type IV toxin-antitoxin system
+e_coli	NC_000913.3_1982	PF06769.15	4.6e-44	YoeB-like toxin of bacterial type II toxin-antitoxin system
+e_coli	NC_000913.3_4249	PF06779.15	1.1e-141	Uncharacterised MFS-type transporter YbfB
+e_coli	NC_000913.3_185	PF06786.13	1.8e-35	Uncharacterised protein family (UPF0253)
+e_coli	NC_000913.3_1561	PF06788.14	3.9e-131	Uncharacterised protein family (UPF0257)
+e_coli	NC_000913.3_1229	PF06790.12	3.7e-105	Uncharacterised protein family (UPF0259)
+e_coli	NC_000913.3_1344	PF06791.14	2.2e-16	Prophage tail length tape measure protein
+e_coli	NC_000913.3_3284	PF06794.13	3.7e-36	Uncharacterised protein family (UPF0270)
+e_coli	NC_000913.3_1761	PF06798.13	2.7e-71	PrkA serine protein kinase C-terminal domain
+e_coli	NC_000913.3_2443	PF06804.12	1e-110	NlpB/DapX lipoprotein
+e_coli	NC_000913.3_1324	PF06806.13	1.2e-21	Putative excisionase (DUF1233)
+e_coli	NC_000913.3_3511	PF06808.13	1.3e-128	Tripartite ATP-independent periplasmic transporter, DctM component
+e_coli	NC_000913.3_824	PF06826.13	4.3e-84	Predicted Permease Membrane Region
+e_coli	NC_000913.3_3570	PF06831.15	5.5e-34	Formamidopyrimidine-DNA glycosylase H2TH domain
+e_coli	NC_000913.3_2486	PF06832.13	1.8e-17	Penicillin-Binding Protein C-terminus Family
+e_coli	NC_000913.3_3132	PF06835.14	8.3e-55	Lipopolysaccharide-assembly, LptC-related
+e_coli	NC_000913.3_2974	PF06853.13	4.8e-42	Protein of unknown function (DUF1249)
+e_coli	NC_000913.3_610	PF06857.12	5.7e-29	Malonate decarboxylase delta subunit (MdcD)
+e_coli	NC_000913.3_384	PF06865.12	4.8e-34	Pyrimidine/purine nucleoside phosphorylase
+e_coli	NC_000913.3_4167	PF06877.12	8.9e-35	Regulator of ribonuclease activity B
+e_coli	NC_000913.3_1740	PF06889.12	1.8e-24	Protein of unknown function (DUF1266)
+e_coli	NC_000913.3_3721	PF06899.12	7.2e-267	WzyE protein, O-antigen assembly polymerase
+e_coli	NC_000913.3_4044	PF06902.12	2e-29	Divergent 4Fe-4S mono-cluster
+e_coli	NC_000913.3_2657	PF06923.12	1.2e-34	Glucitol operon activator protein (GutM)
+e_coli	NC_000913.3_1559	PF06932.12	2.6e-42	Protein of unknown function (DUF1283)
+e_coli	NC_000913.3_3865	PF06940.12	7.2e-73	Domain of unknown function (DUF1287)
+e_coli	NC_000913.3_1583	PF06942.13	7.2e-50	GlpM protein
+e_coli	NC_000913.3_1626	PF06945.14	4.9e-20	Protein of unknown function (DUF1289)
+e_coli	NC_000913.3_3350	PF06956.12	1.3e-86	Regulator of RNA terminal phosphate cyclase
+e_coli	NC_000913.3_18	PF06965.13	8.2e-152	Na+/H+ antiporter 1
+e_coli	NC_000913.3_3903	PF06968.14	2.6e-21	Biotin and Thiamin Synthesis associated domain
+e_coli	NC_000913.3_4250	PF06977.12	1.1e-93	SdiA-regulated
+e_coli	NC_000913.3_2090	PF06998.12	1.1e-43	Protein of unknown function (DUF1307)
+e_coli	NC_000913.3_2689	PF07005.12	2.6e-69	Sugar-binding N-terminal domain
+e_coli	NC_000913.3_1855	PF07007.13	2.4e-19	Lysozyme inhibitor LprI
+e_coli	NC_000913.3_1016	PF07012.13	2.7e-25	Curlin associated repeat
+e_coli	NC_000913.3_615	PF07017.12	2.2e-67	Antimicrobial peptide resistance and lipid A acylation protein PagP
+e_coli	NC_000913.3_1755	PF07023.13	2.5e-28	Protein of unknown function (DUF1315)
+e_coli	NC_000913.3_1359	PF07027.13	3.7e-31	Protein of unknown function (DUF1318)
+e_coli	NC_000913.3_2365	PF07037.12	2.2e-52	Putative transcription regulator (DUF1323)
+e_coli	NC_000913.3_1531	PF07041.12	2e-45	Protein of unknown function (DUF1327)
+e_coli	NC_000913.3_1400	PF07063.14	4.3e-121	Domain of unknown function (DUF1338)
+e_coli	NC_000913.3_98	PF07072.12	2.2e-77	Cell division protein
+e_coli	NC_000913.3_184	PF07073.13	1.2e-28	Modulator of Rho-dependent transcription termination (ROF)
+e_coli	NC_000913.3_2267	PF07085.13	1.9e-30	DRTGG domain
+e_coli	NC_000913.3_3327	PF07095.12	0	Intracellular growth attenuator protein IgaA
+e_coli	NC_000913.3_536	PF07102.13	2.5e-43	Protein of unknown function (DUF1364)
+e_coli	NC_000913.3_1337	PF07120.12	1.3e-27	Protein of unknown function (DUF1376)
+e_coli	NC_000913.3_922	PF07126.13	8.5e-67	Cell-division protein ZapC
+e_coli	NC_000913.3_1825	PF07130.13	2.7e-34	YebG protein
+e_coli	NC_000913.3_3950	PF07148.13	4.9e-51	Maltose operon periplasmic protein precursor (MalM)
+e_coli	NC_000913.3_1332	PF07151.13	3.6e-41	Protein of unknown function (DUF1391)
+e_coli	NC_000913.3_186	PF07152.13	6.8e-72	YaeQ protein
+e_coli	NC_000913.3_547	PF07166.12	1.8e-45	Protein of unknown function (DUF1398)
+e_coli	NC_000913.3_2489	PF07179.13	4.7e-25	SseB protein N-terminal domain
+e_coli	NC_000913.3_2477	PF07191.13	2e-29	zinc-ribbons
+e_coli	NC_000913.3_1898	PF07195.13	9.3e-63	Flagellar hook-associated protein 2 C-terminus
+e_coli	NC_000913.3_2155	PF07208.12	3.5e-25	Protein of unknown function (DUF1414)
+e_coli	NC_000913.3_827	PF07214.13	1.8e-40	Protein of unknown function (DUF1418)
+e_coli	NC_000913.3_3726	PF07219.14	2.8e-36	HemY protein N-terminus
+e_coli	NC_000913.3_3798	PF07221.12	5.4e-134	N-acylglucosamine 2-epimerase (GlcNAc 2-epimerase)
+e_coli	NC_000913.3_3884	PF07226.12	1.7e-54	Protein of unknown function (DUF1422)
+e_coli	NC_000913.3_1076	PF07233.13	6.8e-26	Protein of unknown function (DUF1425)
+e_coli	NC_000913.3_447	PF07237.12	5.8e-48	Protein of unknown function (DUF1428)
+e_coli	NC_000913.3_172	PF07244.16	1.1e-61	Surface antigen variable number repeat
+e_coli	NC_000913.3_2845	PF07254.13	2.5e-56	Membrane-bound toxin component of toxin-antitoxin system
+e_coli	NC_000913.3_4285	PF07256.13	2.1e-36	Protein of unknown function (DUF1435)
+e_coli	NC_000913.3_2377	PF07264.12	3.2e-44	Etoposide-induced protein 2.4 (EI24)
+e_coli	NC_000913.3_1036	PF07273.13	5.2e-55	Protein of unknown function (DUF1439)
+e_coli	NC_000913.3_284	PF07274.13	1.2e-55	Protein of unknown function (DUF1440)
+e_coli	NC_000913.3_1409	PF07282.12	1.9e-25	Putative transposase DNA-binding domain
+e_coli	NC_000913.3_2991	PF07290.12	6.5e-46	Protein of unknown function (DUF1449)
+e_coli	NC_000913.3_636	PF07295.12	2.6e-53	Zinc-ribbon containing domain
+e_coli	NC_000913.3_383	PF07302.12	5.6e-71	AroM protein
+e_coli	NC_000913.3_3841	PF07305.13	4e-85	Protein of unknown function (DUF1454)
+e_coli	NC_000913.3_2091	PF07308.14	1.9e-49	Protein of unknown function (DUF1456)
+e_coli	NC_000913.3_1164	PF07317.13	2e-25	Flagellar regulator YcgR
+e_coli	NC_000913.3_3039	PF07332.12	1e-22	Putative Actinobacterial Holin-X, holin superfamily III
+e_coli	NC_000913.3_4116	PF07338.14	1.7e-19	Protein of unknown function (DUF1471)
+e_coli	NC_000913.3_2745	PF07348.13	9.7e-72	Syd protein (SUKH-2)
+e_coli	NC_000913.3_798	PF07350.13	4.9e-143	Protein of unknown function (DUF1479)
+e_coli	NC_000913.3_1812	PF07351.14	6.1e-39	Protein of unknown function (DUF1480)
+e_coli	NC_000913.3_3915	PF07356.13	4.3e-70	Protein of unknown function (DUF1481)
+e_coli	NC_000913.3_1552	PF07358.12	1.5e-26	Protein of unknown function (DUF1482)
+e_coli	NC_000913.3_4151	PF07361.12	1e-31	Cytochrome b562
+e_coli	NC_000913.3_3209	PF07369.12	2.6e-31	Protein of unknown function (DUF1488)
+e_coli	NC_000913.3_1738	PF07383.13	1.9e-24	Protein of unknown function (DUF1496)
+e_coli	NC_000913.3_2047	PF07411.13	2.8e-45	Domain of unknown function (DUF1508)
+e_coli	NC_000913.3_233	PF07417.13	2.2e-31	Sigma factor-binding transcriptional regulator Crl
+e_coli	NC_000913.3_3720	PF07429.12	2.9e-185	4-alpha-L-fucosyltransferase glycosyl transferase group 56
+e_coli	NC_000913.3_2218	PF07437.12	1e-92	YfaZ precursor
+e_coli	NC_000913.3_458	PF07445.13	4.7e-47	Primosomal replication protein priC
+e_coli	NC_000913.3_951	PF07449.12	1.4e-46	Hydrogenase-1 expression protein HyaE
+e_coli	NC_000913.3_2669	PF07450.12	1.1e-57	Formate hydrogenlyase maturation protein HycH
+e_coli	NC_000913.3_1525	PF07471.13	1.2e-90	Phage DNA packaging protein Nu1
+e_coli	NC_000913.3_374	PF07478.14	1.9e-83	D-ala D-ala ligase C-terminus
+e_coli	NC_000913.3_3543	PF07479.15	2.5e-54	NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus
+e_coli	NC_000913.3_3709	PF07497.13	3.9e-33	Rho termination factor, RNA-binding domain
+e_coli	NC_000913.3_3709	PF07498.13	1.3e-18	Rho termination factor, N-terminal domain
+e_coli	NC_000913.3_1839	PF07499.14	5e-16	RuvA, C-terminal domain
+e_coli	NC_000913.3_2663	PF07503.13	2.8e-33	HypF finger
+e_coli	NC_000913.3_95	PF07516.14	2e-69	SecA Wing and Scaffold domain
+e_coli	NC_000913.3_95	PF07517.15	1.3e-132	SecA DEAD-like domain
+e_coli	NC_000913.3_1049	PF07559.15	9.7e-21	Flagellar basal body protein FlaE
+e_coli	NC_000913.3_3243	PF07650.18	1e-19	KH domain
+e_coli	NC_000913.3_2361	PF07662.14	4.3e-64	Na+ dependent nucleoside transporter C-terminus
+e_coli	NC_000913.3_2654	PF07663.12	1.3e-43	Sorbitol phosphotransferase enzyme II C-terminus
+e_coli	NC_000913.3_3338	PF07664.13	9.4e-21	Ferrous iron transport protein B C terminus
+e_coli	NC_000913.3_3338	PF07670.15	1.7e-50	Nucleoside recognition
+e_coli	NC_000913.3_724	PF07676.13	1.5e-37	WD40-like Beta Propeller Repeat
+e_coli	NC_000913.3_2510	PF07681.13	1.3e-17	DoxX
+e_coli	NC_000913.3_4269	PF07683.15	7e-20	Cobalamin synthesis protein cobW C-terminal domain
+e_coli	NC_000913.3_3877	PF07687.15	3.7e-26	Peptidase dimerisation domain
+e_coli	NC_000913.3_336	PF07690.17	1.1e-23	Major Facilitator Superfamily
+e_coli	NC_000913.3_2349	PF07694.13	1.5e-41	5TMR of 5TMR-LYT
+e_coli	NC_000913.3_4020	PF07702.14	2.3e-32	UTRA domain
+e_coli	NC_000913.3_2195	PF07703.15	1e-17	Alpha-2-macroglobulin bait region domain
+e_coli	NC_000913.3_1428	PF07715.16	2.1e-23	TonB-dependent Receptor Plug Domain
+e_coli	NC_000913.3_1389	PF07717.17	2e-20	Oligonucleotide/oligosaccharide-binding (OB)-fold
+e_coli	NC_000913.3_3461	PF07719.18	1.9e-17	Tetratricopeptide repeat
+e_coli	NC_000913.3_2803	PF07720.13	4.2e-23	Tetratricopeptide repeat
+e_coli	NC_000913.3_1274	PF07722.14	5e-69	Peptidase C26
+e_coli	NC_000913.3_3852	PF07724.15	1.9e-52	AAA domain (Cdc48 subfamily)
+e_coli	NC_000913.3_859	PF07728.15	1.1e-19	AAA domain (dynein-related subfamily)
+e_coli	NC_000913.3_3690	PF07729.13	1.5e-20	FCD domain
+e_coli	NC_000913.3_1196	PF07730.14	1.7e-19	Histidine kinase
+e_coli	NC_000913.3_118	PF07731.15	5.1e-26	Multicopper oxidase
+e_coli	NC_000913.3_118	PF07732.16	1.4e-32	Multicopper oxidase
+e_coli	NC_000913.3_179	PF07733.13	7.4e-107	Bacterial DNA polymerase III alpha NTPase domain
+e_coli	NC_000913.3_2494	PF07743.14	7.8e-19	HSCB C-terminal oligomerisation domain
+e_coli	NC_000913.3_715	PF07748.14	2.3e-20	Glycosyl hydrolases family 38 C-terminal domain
+e_coli	NC_000913.3_371	PF07759.13	1.1e-147	Protein of unknown function (DUF1615)
+e_coli	NC_000913.3_377	PF07769.15	7.3e-35	psiF repeat
+e_coli	NC_000913.3_1339	PF07789.13	1.6e-35	Protein of unknown function (DUF1627)
+e_coli	NC_000913.3_4301	PF07804.13	1.2e-20	HipA-like C-terminal domain
+e_coli	NC_000913.3_3834	PF07813.13	2e-22	LTXXQ motif family protein
+e_coli	NC_000913.3_4298	PF07831.14	1.1e-26	Pyrimidine nucleoside phosphorylase C-terminal domain
+e_coli	NC_000913.3_345	PF07836.12	1.2e-31	DmpG-like communication domain
+e_coli	NC_000913.3_1157	PF07840.13	5.9e-74	FadR C-terminal domain
+e_coli	NC_000913.3_1375	PF07848.13	5.3e-30	PaaX-like protein
+e_coli	NC_000913.3_467	PF07859.14	6.5e-54	alpha/beta hydrolase fold
+e_coli	NC_000913.3_3176	PF07869.13	4.1e-21	Protein of unknown function (DUF1656)
+e_coli	NC_000913.3_2754	PF07881.13	2.7e-84	L-fucose isomerase, first N-terminal domain
+e_coli	NC_000913.3_2754	PF07882.13	2.5e-82	L-fucose isomerase, second N-terminal domain
+e_coli	NC_000913.3_1275	PF07883.12	2.9e-18	Cupin domain
+e_coli	NC_000913.3_1224	PF07885.17	9.3e-16	Ion channel
+e_coli	NC_000913.3_3929	PF07906.14	5.6e-97	ShET2 enterotoxin, N-terminal region
+e_coli	NC_000913.3_1975	PF07943.14	1.1e-21	Penicillin-binding protein 5, C-terminal domain
+e_coli	NC_000913.3_3396	PF07947.15	4.4e-41	YhhN family
+e_coli	NC_000913.3_330	PF07969.12	3.3e-58	Amidohydrolase family
+e_coli	NC_000913.3_2629	PF07972.12	7e-49	NrdI Flavodoxin like
+e_coli	NC_000913.3_2648	PF07973.15	1.5e-18	Threonyl and Alanyl tRNA synthetase second additional domain
+e_coli	NC_000913.3_930	PF07977.14	2e-54	FabA-like domain
+e_coli	NC_000913.3_3702	PF07991.13	2.3e-59	Acetohydroxy acid isomeroreductase, NADPH-binding domain
+e_coli	NC_000913.3_3295	PF07992.15	1.6e-52	Pyridine nucleotide-disulphide oxidoreductase
+e_coli	NC_000913.3_814	PF07995.12	7.6e-132	Glucose / Sorbosone dehydrogenase
+e_coli	NC_000913.3_1849	PF08003.12	2e-173	Protein of unknown function (DUF1698)
+e_coli	NC_000913.3_1100	PF08007.13	2.8e-105	Cupin superfamily protein
+e_coli	NC_000913.3_2061	PF08013.12	6.2e-193	D-tagatose-1,6-bisphosphate aldolase subunit GatZ/KbaZ-like
+e_coli	NC_000913.3_3477	PF08019.13	1.2e-19	Phosphoethanolamine transferase EptA/EptB
+e_coli	NC_000913.3_3010	PF08021.12	7e-36	Siderophore-interacting FAD-binding domain
+e_coli	NC_000913.3_1672	PF08028.12	2.7e-20	Acyl-CoA dehydrogenase, C-terminal domain
+e_coli	NC_000913.3_1984	PF08029.12	1.2e-24	HisG, C-terminal domain
+e_coli	NC_000913.3_4097	PF08032.13	7.2e-20	RNA 2'-O ribose methyltransferase substrate binding
+e_coli	NC_000913.3_1497	PF08125.14	2.2e-85	Mannitol dehydrogenase C-terminal domain
+e_coli	NC_000913.3_1457	PF08136.12	4.9e-32	30S ribosomal protein subunit S22 family
+e_coli	NC_000913.3_967	PF08178.12	1.4e-36	GnsA/GnsB toxin of bacterial toxin-antitoxin system
+e_coli	NC_000913.3_1263	PF08206.12	2.3e-20	Ribonuclease B OB domain
+e_coli	NC_000913.3_4065	PF08207.13	1.4e-24	Elongation factor P (EF-P) KOW-like domain
+e_coli	NC_000913.3_2110	PF08211.13	9.5e-46	Cytidine and deoxycytidylate deaminase zinc-binding region
+e_coli	NC_000913.3_4069	PF08212.13	1.3e-46	Lipocalin-like domain
+e_coli	NC_000913.3_611	PF08218.12	2.7e-85	Citrate lyase ligase C-terminal domain
+e_coli	NC_000913.3_2055	PF08220.13	1.1e-17	DeoR-like helix-turn-helix domain
+e_coli	NC_000913.3_1375	PF08223.12	3.5e-31	PaaX-like protein C-terminal domain
+e_coli	NC_000913.3_3994	PF08238.13	1.5e-16	Sel1 repeat
+e_coli	NC_000913.3_3551	PF08240.13	1.7e-32	Alcohol dehydrogenase GroES-like domain
+e_coli	NC_000913.3_3756	PF08241.13	2.2e-23	Methyltransferase domain
+e_coli	NC_000913.3_897	PF08242.13	3.7e-16	Methyltransferase domain
+e_coli	NC_000913.3_4148	PF08245.13	2.1e-18	Mur ligase middle domain
+e_coli	NC_000913.3_4170	PF08264.14	3.9e-43	Anticodon-binding domain of tRNA ligase
+e_coli	NC_000913.3_3752	PF08267.13	3.9e-135	Cobalamin-independent synthase, N-terminal domain
+e_coli	NC_000913.3_1247	PF08272.12	1.6e-38	Topoisomerase I zinc-ribbon-like
+e_coli	NC_000913.3_4025	PF08274.13	3.4e-16	PhnA Zinc-Ribbon
+e_coli	NC_000913.3_3007	PF08275.12	1.6e-44	DNA primase catalytic core, N-terminal domain
+e_coli	NC_000913.3_3007	PF08278.12	5.7e-32	DNA primase DnaG DnaB-binding
+e_coli	NC_000913.3_2540	PF08281.13	4.3e-20	Sigma-70, region 4
+e_coli	NC_000913.3_821	PF08282.13	1.9e-55	haloacid dehalogenase-like hydrolase
+e_coli	NC_000913.3_1761	PF08298.12	4.2e-181	PrkA AAA domain
+e_coli	NC_000913.3_3638	PF08299.12	6.2e-34	Bacterial dnaA protein helix-turn-helix
+e_coli	NC_000913.3_3357	PF08323.12	7.7e-73	Starch synthase catalytic domain
+e_coli	NC_000913.3_1103	PF08328.12	1.7e-53	Adenylosuccinate lyase C-terminal
+e_coli	NC_000913.3_4083	PF08331.11	1.3e-24	Domain of unknown function (DUF1730)
+e_coli	NC_000913.3_3257	PF08334.12	6.5e-38	Type II secretion system (T2SS), protein G
+e_coli	NC_000913.3_161	PF08335.12	1.3e-35	GlnD PII-uridylyltransferase
+e_coli	NC_000913.3_2274	PF08338.12	5e-20	Domain of unknown function (DUF1731)
+e_coli	NC_000913.3_3579	PF08340.12	4.1e-34	Domain of unknown function (DUF1732)
+e_coli	NC_000913.3_2630	PF08343.11	8.4e-30	Ribonucleotide reductase N-terminal
+e_coli	NC_000913.3_1910	PF08345.12	9.2e-53	Flagellar M-ring protein C-terminal
+e_coli	NC_000913.3_3275	PF08348.12	1.2e-36	YheO-like PAS domain
+e_coli	NC_000913.3_690	PF08349.12	7.3e-36	Protein of unknown function (DUF1722)
+e_coli	NC_000913.3_3472	PF08352.13	1.1e-19	Oligopeptide/dipeptide transporter, C-terminal region
+e_coli	NC_000913.3_455	PF08361.12	1.6e-52	MAATS-type transcriptional repressor, C-terminal region
+e_coli	NC_000913.3_989	PF08362.12	1.4e-59	YcdC-like protein, C-terminal region
+e_coli	NC_000913.3_3103	PF08364.12	2.2e-16	Bacterial translation initiation factor IF-2 associated region
+e_coli	NC_000913.3_832	PF08402.11	1.1e-20	TOBE domain
+e_coli	NC_000913.3_1976	PF08411.11	8.2e-102	Exonuclease C-terminal
+e_coli	NC_000913.3_167	PF08436.13	3.2e-37	1-deoxy-D-xylulose 5-phosphate reductoisomerase C-terminal domain
+e_coli	NC_000913.3_3561	PF08437.11	1.7e-23	Glycosyl transferase family 8 C-terminal
+e_coli	NC_000913.3_711	PF08442.11	1.1e-83	ATP-grasp domain
+e_coli	NC_000913.3_829	PF08443.12	3.4e-84	RimK-like ATP-grasp domain
+e_coli	NC_000913.3_2033	PF08447.13	6.8e-27	PAS fold
+e_coli	NC_000913.3_2033	PF08448.11	1.8e-24	PAS fold
+e_coli	NC_000913.3_1887	PF08459.12	2.5e-48	UvrC RIbonuclease H-like domain
+e_coli	NC_000913.3_4267	PF08463.11	6.3e-28	EcoEI R protein C-terminal
+e_coli	NC_000913.3_4286	PF08468.12	3.3e-57	Methyltransferase small domain N-terminal
+e_coli	NC_000913.3_90	PF08478.11	1.1e-20	POTRA domain, FtsQ-type
+e_coli	NC_000913.3_143	PF08482.11	4.3e-55	ATP-dependent helicase C-terminal
+e_coli	NC_000913.3_1631	PF08494.12	4.7e-71	DEAD/H associated
+e_coli	NC_000913.3_1245	PF08496.11	9.1e-61	Peptidase family S49 N-terminal
+e_coli	NC_000913.3_2958	PF08497.11	2.2e-147	Radical SAM N-terminal
+e_coli	NC_000913.3_1669	PF08501.12	1.3e-27	Shikimate dehydrogenase substrate binding domain
+e_coli	NC_000913.3_73	PF08502.11	1.3e-36	LeuA allosteric (dimerisation) domain
+e_coli	NC_000913.3_3104	PF08529.12	5.4e-38	NusA N-terminal domain
+e_coli	NC_000913.3_1300	PF08534.11	1.2e-32	Redoxin
+e_coli	NC_000913.3_1063	PF08541.11	5.7e-38	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III C terminal
+e_coli	NC_000913.3_2382	PF08543.13	2.5e-26	Phosphomethylpyrimidine kinase
+e_coli	NC_000913.3_1063	PF08545.11	1.9e-30	3-Oxoacyl-[acyl-carrier-protein (ACP)] synthase III
+e_coli	NC_000913.3_417	PF08546.12	4e-39	Ketopantoate reductase PanE/ApbA C terminal
+e_coli	NC_000913.3_1065	PF08659.11	1.6e-20	KR domain
+e_coli	NC_000913.3_3031	PF08666.13	6e-16	SAF domain
+e_coli	NC_000913.3_4087	PF08676.12	9.2e-26	MutL C terminal dimerisation domain
+e_coli	NC_000913.3_775	PF08719.12	1e-39	NADAR domain
+e_coli	NC_000913.3_3409	PF08753.12	1.7e-28	NikR C terminal nickel binding domain
+e_coli	NC_000913.3_942	PF08755.12	4.4e-19	Hemimethylated DNA-binding protein YccV like
+e_coli	NC_000913.3_3400	PF08786.12	3.2e-31	DcrB
+e_coli	NC_000913.3_2708	PF08798.12	1.5e-41	CRISPR associated protein
+e_coli	NC_000913.3_1644	PF08803.12	3.2e-42	Putative mono-oxygenase ydhR
+e_coli	NC_000913.3_211	PF08816.12	2.4e-35	Inhibitor of vertebrate lysozyme (Ivy)
+e_coli	NC_000913.3_4264	PF08845.11	7.1e-21	Toxin SymE, type I toxin-antitoxin system
+e_coli	NC_000913.3_2590	PF08878.12	6.2e-36	Domain of unknown function (DUF1837)
+e_coli	NC_000913.3_2295	PF08891.12	3.4e-35	YfcL protein
+e_coli	NC_000913.3_1101	PF08918.11	3.4e-85	PhoQ Sensor
+e_coli	NC_000913.3_2614	PF08943.11	8.7e-154	CsiD
+e_coli	NC_000913.3_4028	PF08946.11	1.4e-23	Osmosensory transporter coiled coil
+e_coli	NC_000913.3_1773	PF08956.11	1.4e-32	Domain of unknown function (DUF1869)
+e_coli	NC_000913.3_1666	PF08965.11	1.7e-60	Domain of unknown function (DUF1870)
+e_coli	NC_000913.3_2990	PF08971.12	7.8e-47	Glycogen synthesis protein
+e_coli	NC_000913.3_2241	PF08974.11	2.6e-34	Domain of unknown function (DUF1877)
+e_coli	NC_000913.3_1787	PF08986.11	3e-68	Domain of unknown function (DUF1889)
+e_coli	NC_000913.3_1112	PF09003.11	3.2e-33	Bacteriophage lambda integrase, Arm DNA-binding domain
+e_coli	NC_000913.3_1866	PF09078.12	8.9e-19	CheY binding
+e_coli	NC_000913.3_358	PF09084.12	3.3e-18	NMT1/THI5 like
+e_coli	NC_000913.3_3524	PF09107.12	3.7e-20	Elongation factor SelB, winged helix
+e_coli	NC_000913.3_1071	PF09115.11	4.2e-38	DNA polymerase III, delta subunit, C terminal
+e_coli	NC_000913.3_1948	PF09134.11	1.6e-145	Invasin, domain 3
+e_coli	NC_000913.3_3101	PF09157.12	2.7e-20	Pseudouridine synthase II TruB, C-terminal
+e_coli	NC_000913.3_1479	PF09160.11	2.8e-69	FimH, mannose binding
+e_coli	NC_000913.3_3813	PF09163.12	6.3e-21	Formate dehydrogenase N, transmembrane
+e_coli	NC_000913.3_183	PF09179.12	1.9e-19	TilS substrate binding domain
+e_coli	NC_000913.3_515	PF09190.12	8.3e-27	DALR domain
+e_coli	NC_000913.3_773	PF09209.12	4e-37	HTH-type transcriptional dual regulator CecR, C-terminal domain
+e_coli	NC_000913.3_1944	PF09223.12	2.1e-86	ZinT (YodA) periplasmic lipocalin-like zinc-recruitment
+e_coli	NC_000913.3_3221	PF09278.12	2.4e-21	MerR, DNA binding
+e_coli	NC_000913.3_4065	PF09285.12	3.6e-27	Elongation factor P, C-terminal
+e_coli	NC_000913.3_344	PF09290.12	2.6e-64	Prokaryotic acetaldehyde dehydrogenase, dimerisation
+e_coli	NC_000913.3_51	PF09312.12	2.4e-46	SurA N-terminal domain
+e_coli	NC_000913.3_1774	PF09313.12	5.9e-25	Domain of unknown function (DUF1971)
+e_coli	NC_000913.3_212	PF09317.12	6e-118	Domain of unknown function (DUF1974)
+e_coli	NC_000913.3_2101	PF09330.12	8.2e-149	D-lactate dehydrogenase, membrane binding
+e_coli	NC_000913.3_4170	PF09334.12	2.7e-18	tRNA synthetases class I (M)
+e_coli	NC_000913.3_3035	PF09335.12	1.2e-22	SNARE associated Golgi protein
+e_coli	NC_000913.3_268	PF09339.11	1.8e-19	IclR helix-turn-helix domain
+e_coli	NC_000913.3_2710	PF09344.11	4.8e-100	CT1975-like protein
+e_coli	NC_000913.3_3222	PF09350.11	5.2e-24	Domain of unknown function (DUF1992)
+e_coli	NC_000913.3_3336	PF09371.11	2.6e-73	Tex-like protein N-terminal domain
+e_coli	NC_000913.3_995	PF09375.11	2.8e-46	Imelysin
+e_coli	NC_000913.3_1295	PF09381.11	1.6e-115	Outer membrane protein G (OmpG)
+e_coli	NC_000913.3_3745	PF09382.11	7.8e-36	RQC domain
+e_coli	NC_000913.3_195	PF09383.11	7.9e-21	NIL domain
+e_coli	NC_000913.3_866	PF09397.11	2.8e-29	Ftsk gamma domain
+e_coli	NC_000913.3_2626	PF09400.11	1.1e-61	Protein of unknown function (DUF2002)
+e_coli	NC_000913.3_2185	PF09456.11	3.8e-36	RcsC Alpha-Beta-Loop (ABL)
+e_coli	NC_000913.3_2712	PF09481.11	4.4e-73	CRISPR-associated protein Cse1 (CRISPR_cse1)
+e_coli	NC_000913.3_3806	PF09500.11	2e-49	Putative thioesterase (yiiD_Cterm)
+e_coli	NC_000913.3_3279	PF09526.11	1.7e-18	Probable metal-binding protein (DUF2387)
+e_coli	NC_000913.3_3965	PF09583.11	3.9e-26	Phage shock protein G (Phageshock_PspG)
+e_coli	NC_000913.3_1283	PF09584.11	7.5e-37	Phage shock protein PspD (Phageshock_PspD)
+e_coli	NC_000913.3_719	PF09600.11	1.1e-34	Cyd operon protein YbgE (Cyd_oper_YbgE)
+e_coli	NC_000913.3_3553	PF09612.11	5.3e-133	Bacterial protein of unknown function (HtrL_YibB)
+e_coli	NC_000913.3_445	PF09619.11	3e-41	Type III secretion system lipoprotein chaperone (YscW)
+e_coli	NC_000913.3_4133	PF09695.11	7.5e-73	Bacterial protein of unknown function (YtfJ_HI0045)
+e_coli	NC_000913.3_2709	PF09704.11	1.8e-41	CRISPR-associated protein (Cas_Cas5)
+e_coli	NC_000913.3_2706	PF09707.11	5.7e-38	CRISPR-associated protein (Cas_Cas2CT1978)
+e_coli	NC_000913.3_940	PF09829.10	1.4e-46	Uncharacterized protein conserved in bacteria (DUF2057)
+e_coli	NC_000913.3_347	PF09831.10	3.9e-61	Uncharacterized protein conserved in bacteria (DUF2058)
+e_coli	NC_000913.3_4093	PF09838.10	5.3e-22	Uncharacterized protein conserved in bacteria (DUF2065)
+e_coli	NC_000913.3_4222	PF09857.10	3.6e-38	Putative toxin of bacterial toxin-antitoxin pair
+e_coli	NC_000913.3_1617	PF09864.10	1e-17	Membrane-bound lysozyme-inhibitor of c-type lysozyme
+e_coli	NC_000913.3_2192	PF09906.10	1.9e-20	Uncharacterized protein conserved in bacteria (DUF2135)
+e_coli	NC_000913.3_3023	PF09907.10	2.6e-22	HigB_toxin, RelE-like toxic component of a toxin-antitoxin system
+e_coli	NC_000913.3_2197	PF09909.10	9.2e-245	Uncharacterized protein conserved in bacteria (DUF2138)
+e_coli	NC_000913.3_4098	PF09938.10	2.6e-44	Uncharacterized protein conserved in bacteria (DUF2170)
+e_coli	NC_000913.3_1241	PF09972.10	3.7e-73	Predicted membrane protein (DUF2207)
+e_coli	NC_000913.3_2480	PF09976.10	1.9e-55	Tetratricopeptide repeat-like domain
+e_coli	NC_000913.3_2738	PF09984.10	4e-53	Single cache domain 4
+e_coli	NC_000913.3_3738	PF09992.10	5.4e-17	Phosphodiester glycosidase
+e_coli	NC_000913.3_4039	PF09997.10	5.8e-57	Predicted membrane protein (DUF2238)
+e_coli	NC_000913.3_2193	PF10062.10	1.1e-81	Predicted secreted protein (DUF2300)
+e_coli	NC_000913.3_2328	PF10065.10	3.1e-89	Uncharacterized conserved protein (DUF2303)
+e_coli	NC_000913.3_1124	PF10076.10	6.2e-42	Uncharacterised protein conserved in bacteria (DUF2313)
+e_coli	NC_000913.3_2037	PF10077.10	5.3e-29	Uncharacterized protein conserved in bacteria (DUF2314)
+e_coli	NC_000913.3_4262	PF10117.10	1.9e-27	McrBC 5-methylcytosine restriction system component
+e_coli	NC_000913.3_1054	PF10135.10	7.3e-19	Rod binding protein
+e_coli	NC_000913.3_4303	PF10144.10	4e-68	Bacterial virulence factor haemolysin
+e_coli	NC_000913.3_3180	PF10150.10	3.1e-102	Ribonuclease E/G family
+e_coli	NC_000913.3_2889	PF10263.10	5.9e-17	SprT-like family
+e_coli	NC_000913.3_744	PF10282.10	4.9e-88	Lactonase, 7-bladed beta-propeller
+e_coli	NC_000913.3_76	PF10369.10	1.5e-24	Small subunit of acetolactate synthase
+e_coli	NC_000913.3_1353	PF10371.10	4e-24	Domain of unknown function
+e_coli	NC_000913.3_3900	PF10385.10	1.9e-29	RNA polymerase beta subunit external 1 domain
+e_coli	NC_000913.3_3642	PF10396.10	8.9e-36	GTP-binding protein TrmE N-terminus
+e_coli	NC_000913.3_3298	PF10414.10	2.6e-18	Sirohaem synthase dimerisation region
+e_coli	NC_000913.3_1587	PF10415.10	1.6e-26	Fumarase C C-terminus
+e_coli	NC_000913.3_1951	PF10423.10	1.9e-53	Bacterial AMP nucleoside phosphorylase N-terminus
+e_coli	NC_000913.3_2557	PF10431.10	2.8e-29	C-terminal, D2-small domain, of ClpB protein
+e_coli	NC_000913.3_4302	PF10437.10	5.3e-20	Bacterial lipoate protein ligase C-terminus
+e_coli	NC_000913.3_4170	PF10458.10	3.7e-17	Valyl tRNA synthetase tRNA binding arm
+e_coli	NC_000913.3_1111	PF10463.10	1.6e-98	Peptidase U49
+e_coli	NC_000913.3_2535	PF10502.10	4.8e-59	Signal peptidase, peptidase S26
+e_coli	NC_000913.3_734	PF10509.10	1.6e-22	Galactokinase galactose-binding signature
+e_coli	NC_000913.3_959	PF10531.10	3.5e-16	SLBB domain
+e_coli	NC_000913.3_2252	PF10588.10	6.3e-16	NADH-ubiquinone oxidoreductase-G iron-sulfur binding region
+e_coli	NC_000913.3_2253	PF10589.10	5.6e-27	NADH-ubiquinone oxidoreductase-F iron-sulfur binding region
+e_coli	NC_000913.3_1616	PF10590.10	5e-19	Pyridoxine 5'-phosphate oxidase C-terminal dimerisation region
+e_coli	NC_000913.3_2079	PF10609.10	4.2e-102	NUBPL iron-transfer P-loop NTPase
+e_coli	NC_000913.3_1017	PF10610.10	7.5e-51	Thin aggregative fimbriae synthesis protein
+e_coli	NC_000913.3_1012	PF10614.10	1.3e-39	Type VIII secretion system (T8SS), CsgF protein
+e_coli	NC_000913.3_3423	PF10625.10	3.3e-55	Universal stress protein B (UspB)
+e_coli	NC_000913.3_1013	PF10627.10	5.4e-34	Curli assembly protein CsgE
+e_coli	NC_000913.3_1683	PF10636.10	5.3e-16	Hemin uptake protein hemP
+e_coli	NC_000913.3_2425	PF10662.10	2.1e-30	Ethanolamine utilisation - propanediol utilisation
+e_coli	NC_000913.3_924	PF10672.10	1.2e-20	S-adenosylmethionine-dependent methyltransferase
+e_coli	NC_000913.3_1883	PF10678.10	9.8e-37	Protein of unknown function (DUF2492)
+e_coli	NC_000913.3_4100	PF10679.10	4.8e-69	Protein of unknown function (DUF2491)
+e_coli	NC_000913.3_1458	PF10684.10	5.7e-53	Putative biofilm-dependent modulation protein
+e_coli	NC_000913.3_1233	PF10685.10	2.2e-19	Stress-induced bacterial acidophilic repeat motif
+e_coli	NC_000913.3_3030	PF10688.10	1.8e-61	Bacterial inner membrane protein
+e_coli	NC_000913.3_457	PF10689.10	3.5e-24	Protein of unknown function (DUF2496)
+e_coli	NC_000913.3_1246	PF10692.10	2.3e-43	Protein of unknown function (DUF2498)
+e_coli	NC_000913.3_3395	PF10694.10	1.5e-31	Protein of unknown function (DUF2500)
+e_coli	NC_000913.3_4277	PF10696.10	3.4e-29	Protein of unknown function (DUF2501)
+e_coli	NC_000913.3_5	PF10697.10	1.2e-17	Protein of unknown function (DUF2502)
+e_coli	NC_000913.3_3140	PF10707.10	1.4e-67	PhoP regulatory network protein YrbL
+e_coli	NC_000913.3_1815	PF10709.10	9.1e-45	Protein of unknown function (DUF2511)
+e_coli	NC_000913.3_2773	PF10713.10	3.5e-35	Protein of unknown function (DUF2509)
+e_coli	NC_000913.3_1529	PF10721.10	1.2e-37	Protein of unknown function (DUF2514)
+e_coli	NC_000913.3_830	PF10722.10	2.4e-17	Putative bacterial sensory transduction regulator
+e_coli	NC_000913.3_682	PF10725.10	1.4e-34	Protein of unknown function (DUF2517)
+e_coli	NC_000913.3_1709	PF10729.10	2.3e-46	Cell division activator CedA
+e_coli	NC_000913.3_1925	PF10733.10	1.5e-34	Protein of unknown function (DUF2525)
+e_coli	NC_000913.3_1423	PF10735.10	2.9e-47	Protein of unknown function (DUF2526)
+e_coli	NC_000913.3_3321	PF10748.10	6e-81	DNA utilization proteins HofP
+e_coli	NC_000913.3_1309	PF10749.10	8.4e-42	Protein of unknown function (DUF2534)
+e_coli	NC_000913.3_4047	PF10753.10	3.9e-26	Toxin GhoT_OrtT
+e_coli	NC_000913.3_1603	PF10754.10	5.2e-40	Protein of unknown function (DUF2569)
+e_coli	NC_000913.3_452	PF10757.10	5.6e-65	Biofilm formation regulator YbaJ
+e_coli	NC_000913.3_1176	PF10762.10	1.8e-47	Protein of unknown function (DUF2583)
+e_coli	NC_000913.3_739	PF10766.10	9.3e-30	Multidrug efflux pump-associated protein AcrZ
+e_coli	NC_000913.3_835	PF10767.10	5.9e-64	Protein of unknown function (DUF2593)
+e_coli	NC_000913.3_1889	PF10769.10	7.4e-38	Protein of unknown function (DUF2594)
+e_coli	NC_000913.3_449	PF10777.10	9.5e-68	Inner membrane protein YlaC
+e_coli	NC_000913.3_1924	PF10781.10	4.6e-36	Dextransucrase DSRB
+e_coli	NC_000913.3_375	PF10796.10	4e-33	Sigma-S stabilisation anti-adaptor protein
+e_coli	NC_000913.3_3306	PF10797.10	1.1e-170	Protein of unknown function
+e_coli	NC_000913.3_1136	PF10798.9	1.5e-25	Biofilm development protein YmgB/AriR
+e_coli	NC_000913.3_813	PF10799.9	2.6e-76	Biofilm formation protein (YliH/bssR)
+e_coli	NC_000913.3_12	PF10807.9	9.1e-65	Protein of unknown function (DUF2541)
+e_coli	NC_000913.3_2112	PF10808.9	1.7e-46	Protein of unknown function (DUF2542)
+e_coli	NC_000913.3_2346	PF10810.9	6.7e-42	Protein of unknown function (DUF2545)
+e_coli	NC_000913.3_1271	PF10820.9	2.9e-49	Protein of unknown function (DUF2543)
+e_coli	NC_000913.3_1413	PF10829.9	8.3e-37	Protein of unknown function (DUF2554)
+e_coli	NC_000913.3_3195	PF10831.9	3.4e-35	Protein of unknown function (DUF2556)
+e_coli	NC_000913.3_3292	PF10832.9	1.3e-24	Protein of unknown function (DUF2559)
+e_coli	NC_000913.3_2078	PF10836.9	2.9e-53	Protein of unknown function (DUF2574)
+e_coli	NC_000913.3_4078	PF10840.9	2.1e-40	Protein of unknown function (DUF2645)
+e_coli	NC_000913.3_4121	PF10887.9	1.4e-145	Protein of unknown function (DUF2686)
+e_coli	NC_000913.3_3963	PF10897.9	2.7e-168	Protein of unknown function (DUF2713)
+e_coli	NC_000913.3_3537	PF10928.9	1.3e-32	Protein of unknown function (DUF2810)
+e_coli	NC_000913.3_2344	PF10938.9	1.2e-47	YfdX protein
+e_coli	NC_000913.3_3307	PF10941.9	8.1e-50	Protein of unknown function DUF2620
+e_coli	NC_000913.3_3466	PF10945.9	1.4e-22	Cellulose biosynthesis protein BcsR
+e_coli	NC_000913.3_673	PF10946.9	4.1e-25	Protein of unknown function DUF2625
+e_coli	NC_000913.3_3420	PF10951.9	4.2e-156	Protein of unknown function (DUF2776)
+e_coli	NC_000913.3_373	PF10953.9	7.8e-50	Protein of unknown function (DUF2754)
+e_coli	NC_000913.3_372	PF10954.9	4.2e-50	Protein of unknown function (DUF2755)
+e_coli	NC_000913.3_3376	PF10956.9	4.7e-55	Protein of unknown function (DUF2756)
+e_coli	NC_000913.3_1880	PF10964.9	3.7e-49	Protein of unknown function (DUF2766)
+e_coli	NC_000913.3_1652	PF10965.9	7e-37	Protein of unknown function (DUF2767)
+e_coli	NC_000913.3_1031	PF10968.9	5.7e-22	Protein of unknown function (DUF2770)
+e_coli	NC_000913.3_1383	PF10971.9	1.6e-46	Protein of unknown function (DUF2773)
+e_coli	NC_000913.3_2565	PF10973.9	2.1e-18	Protein of unknown function (DUF2799)
+e_coli	NC_000913.3_3467	PF10995.9	2.6e-215	Cellulose biosynthesis GIL
+e_coli	NC_000913.3_825	PF11045.9	1e-48	Putative inner membrane protein of Enterobacteriaceae
+e_coli	NC_000913.3_2676	PF11046.9	5.9e-79	Transcriptional repressor of hyc and hyp operons
+e_coli	NC_000913.3_768	PF11076.9	3.7e-71	Putative inner membrane protein YbhQ
+e_coli	NC_000913.3_1702	PF11080.9	2.8e-44	Endoribonuclease GhoS
+e_coli	NC_000913.3_2903	PF11101.9	2.9e-42	Protein of unknown function (DUF2884)
+e_coli	NC_000913.3_962	PF11102.9	5.5e-64	Group 4 capsule polysaccharide lipoprotein gfcB, YjbF
+e_coli	NC_000913.3_3938	PF11106.9	1.5e-31	Exopolysaccharide production protein YjbE
+e_coli	NC_000913.3_2942	PF11115.9	1e-49	Protein of unknown function (DUF2623)
+e_coli	NC_000913.3_2471	PF11119.9	6.6e-32	Protein of unknown function (DUF2633)
+e_coli	NC_000913.3_3468	PF11120.9	1.1e-33	Cellulose biosynthesis protein BcsF
+e_coli	NC_000913.3_2397	PF11143.9	3.6e-47	Protein of unknown function (DUF2919)
+e_coli	NC_000913.3_2228	PF11183.9	3.7e-41	Polymyxin resistance protein PmrD
+e_coli	NC_000913.3_4296	PF11230.9	2.9e-223	Protein of unknown function (DUF3029)
+e_coli	NC_000913.3_2302	PF11245.9	8.5e-139	Protein of unknown function (DUF2544)
+e_coli	NC_000913.3_3485	PF11254.9	1.5e-95	Protein of unknown function (DUF3053)
+e_coli	NC_000913.3_2914	PF11356.9	1.9e-32	Type II secretion system protein C
+e_coli	NC_000913.3_313	PF11392.9	1.3e-27	Protein of unknown function (DUF2877)
+e_coli	NC_000913.3_853	PF11398.9	6.2e-156	Protein of unknown function (DUF2813)
+e_coli	NC_000913.3_4054	PF11412.9	2e-36	Disulphide bond corrector protein DsbC
+e_coli	NC_000913.3_562	PF11604.9	1.9e-22	Copper binding periplasmic protein CusF
+e_coli	NC_000913.3_404	PF11622.9	1.2e-82	Protein of unknown function (DUF3251)
+e_coli	NC_000913.3_3638	PF11638.9	2.3e-21	DnaA N-terminal domain
+e_coli	NC_000913.3_3935	PF11656.9	4.9e-41	YjbD family (DUF3811)
+e_coli	NC_000913.3_3469	PF11658.9	8.9e-242	Cellulose biosynthesis protein BcsG
+e_coli	NC_000913.3_3065	PF11663.9	1.6e-55	Toxin with endonuclease activity, of toxin-antitoxin system
+e_coli	NC_000913.3_273	PF11726.9	1.2e-67	Inovirus Gp2
+e_coli	NC_000913.3_183	PF11734.9	1.6e-27	TilS substrate C-terminal domain
+e_coli	NC_000913.3_112	PF11737.9	3.3e-83	Protein of unknown function (DUF3300)
+e_coli	NC_000913.3_1357	PF11739.9	2.6e-63	Dicarboxylate transport
+e_coli	NC_000913.3_2766	PF11741.9	1.8e-26	AMIN domain
+e_coli	NC_000913.3_3532	PF11742.9	3.5e-41	Protein of unknown function (DUF3302)
+e_coli	NC_000913.3_2683	PF11756.9	2.3e-41	Nitrous oxide-stimulated promoter
+e_coli	NC_000913.3_60	PF11762.9	3.8e-47	L-arabinose isomerase C-terminal domain
+e_coli	NC_000913.3_1407	PF11769.9	1.1e-53	Protein of unknown function (DUF3313)
+e_coli	NC_000913.3_2073	PF11776.9	1.3e-19	Nickel/cobalt transporter regulator
+e_coli	NC_000913.3_113	PF11791.9	6.3e-70	Aconitate B N-terminal domain
+e_coli	NC_000913.3_576	PF11806.9	2.8e-43	Domain of unknown function (DUF3327)
+e_coli	NC_000913.3_392	PF11808.9	9e-28	Phosphate regulon sensor protein PhoR
+e_coli	NC_000913.3_1806	PF11818.9	4.7e-41	C-terminal domain of tail specific protease (DUF3340)
+e_coli	NC_000913.3_2958	PF11842.9	1e-45	Domain of unknown function (DUF3362)
+e_coli	NC_000913.3_3384	PF11862.9	2.6e-24	Domain of unknown function (DUF3382)
+e_coli	NC_000913.3_2908	PF11873.9	1.5e-69	Membrane-bound lytic murein transglycosylase C, N-terminal domain
+e_coli	NC_000913.3_2290	PF11890.9	2e-27	Domain of unknown function (DUF3410)
+e_coli	NC_000913.3_2747	PF11892.9	3.2e-56	Domain of unknown function (DUF3412)
+e_coli	NC_000913.3_2156	PF11893.9	4e-105	Domain of unknown function (DUF3413)
+e_coli	NC_000913.3_1389	PF11898.9	1.1e-236	Domain of unknown function (DUF3418)
+e_coli	NC_000913.3_595	PF11922.9	1.4e-32	Domain of unknown function (DUF3440)
+e_coli	NC_000913.3_294	PF11924.9	1.7e-91	Inverse autotransporter, beta-domain
+e_coli	NC_000913.3_2936	PF11939.9	7.7e-43	[NiFe]-hydrogenase assembly, chaperone, HybE
+e_coli	NC_000913.3_908	PF11940.9	9.8e-34	Domain of unknown function (DUF3458) Ig-like fold
+e_coli	NC_000913.3_158	PF11944.9	7.9e-56	Protein of unknown function (DUF3461)
+e_coli	NC_000913.3_2532	PF11967.9	7.6e-23	Recombination protein O N terminal
+e_coli	NC_000913.3_1075	PF11969.9	2.3e-23	Scavenger mRNA decapping enzyme C-term binding
+e_coli	NC_000913.3_2487	PF11974.9	4.3e-23	Bacterial alpha-2-macroglobulin MG3 domain
+e_coli	NC_000913.3_4037	PF11975.9	7.6e-68	Family 4 glycosyl hydrolase C-terminal domain
+e_coli	NC_000913.3_3103	PF11987.9	5e-38	Translation-initiation factor 2
+e_coli	NC_000913.3_868	PF12002.9	2.7e-65	MgsA AAA+ ATPase C terminal
+e_coli	NC_000913.3_2239	PF12034.9	1.8e-65	Domain of unknown function (DUF3520)
+e_coli	NC_000913.3_2701	PF12084.9	2e-50	Protein of unknown function (DUF3561)
+e_coli	NC_000913.3_3586	PF12105.9	1.9e-25	SpoU, rRNA methylase, C-terminal
+e_coli	NC_000913.3_1057	PF12111.9	3.8e-17	Polyribonucleotide phosphorylase C terminal
+e_coli	NC_000913.3_3352	PF12122.9	2.8e-28	Cytoplasmic N-terminal domain of rhomboid serine protease
+e_coli	NC_000913.3_57	PF12137.9	7.7e-159	RNA polymerase recycling family C-terminal
+e_coli	NC_000913.3_1386	PF12146.9	2.1e-64	Serine aminopeptidase, S33
+e_coli	NC_000913.3_1386	PF12147.9	1.1e-152	Putative methyltransferase
+e_coli	NC_000913.3_1323	PF12167.9	7.2e-26	Arm DNA-binding domain
+e_coli	NC_000913.3_461	PF12168.9	2.2e-22	DNA polymerase III subunits tau domain IV DnaB-binding
+e_coli	NC_000913.3_461	PF12169.9	2.2e-33	DNA polymerase III subunits gamma and tau domain III
+e_coli	NC_000913.3_461	PF12170.9	1e-58	DNA polymerase III tau subunit V interacting with alpha
+e_coli	NC_000913.3_4091	PF12221.9	8.9e-16	Bacterial membrane protein N terminal
+e_coli	NC_000913.3_390	PF12320.9	4.9e-25	Type 5 capsule protein repressor C-terminal domain
+e_coli	NC_000913.3_92	PF12327.9	2.1e-38	FtsZ family, C-terminal domain
+e_coli	NC_000913.3_756	PF12344.9	6e-23	Ultra-violet resistance protein B
+e_coli	NC_000913.3_1028	PF12368.9	7.9e-20	Rhodanase C-terminal
+e_coli	NC_000913.3_1412	PF12392.9	1.4e-18	Collagenase
+e_coli	NC_000913.3_2490	PF12404.9	1.2e-34	Peptidase
+e_coli	NC_000913.3_2239	PF12450.9	4.1e-34	von Willebrand factor
+e_coli	NC_000913.3_938	PF12462.9	1.2e-60	DNA helicase IV / RNA helicase N terminal
+e_coli	NC_000913.3_450	PF12464.9	4.9e-17	Maltose acetyltransferase
+e_coli	NC_000913.3_2772	PF12528.9	3.4e-26	Type II secretion prepilin peptidase dependent protein C
+e_coli	NC_000913.3_3625	PF12566.9	2.4e-57	Protein of unknown function (DUF3748)
+e_coli	NC_000913.3_3387	PF12568.9	6.2e-51	Acetyltransferase (GNAT) domain, PanZ
+e_coli	NC_000913.3_3681	PF12592.9	4.4e-23	Protein of unknown function (DUF3763)
+e_coli	NC_000913.3_138	PF12626.8	2.9e-41	Polymerase A arginine-rich C-terminus
+e_coli	NC_000913.3_2997	PF12627.8	4.7e-17	Probable RNA and SrmB- binding site of polymerase A
+e_coli	NC_000913.3_3642	PF12631.8	1.4e-62	MnmE helical domain
+e_coli	NC_000913.3_3730	PF12633.8	7.9e-85	Adenylate cyclase NT domain
+e_coli	NC_000913.3_3415	PF12679.8	1e-17	ABC-2 family transporter protein
+e_coli	NC_000913.3_1327	PF12684.8	2.9e-34	PDDEXK-like domain of unknown function (DUF3799)
+e_coli	NC_000913.3_3262	PF12693.8	1.7e-42	GspL periplasmic domain
+e_coli	NC_000913.3_342	PF12697.8	1.4e-23	Alpha/beta hydrolase family
+e_coli	NC_000913.3_769	PF12698.8	2.4e-49	ABC-2 family transporter protein
+e_coli	NC_000913.3_1090	PF12704.8	7.2e-16	MacB-like periplasmic core domain
+e_coli	NC_000913.3_2237	PF12706.8	5e-19	Beta-lactamase superfamily domain
+e_coli	NC_000913.3_4304	PF12710.8	2.6e-19	haloacid dehalogenase-like hydrolase
+e_coli	NC_000913.3_3771	PF12724.8	4.3e-54	Flavodoxin domain
+e_coli	NC_000913.3_260	PF12759.8	3e-31	InsA C-terminal domain
+e_coli	NC_000913.3_1579	PF12769.8	6.1e-37	4TM region of pyridine nucleotide transhydrogenase, mitoch
+e_coli	NC_000913.3_3977	PF12792.8	1.8e-43	CSS motif domain associated with EAL
+e_coli	NC_000913.3_437	PF12793.8	2.3e-38	Sugar transport-related sRNA regulator N-term
+e_coli	NC_000913.3_4079	PF12794.8	1.6e-116	Mechanosensitive ion channel inner membrane domain 1
+e_coli	NC_000913.3_4079	PF12795.8	5.1e-51	Mechanosensitive ion channel porin domain
+e_coli	NC_000913.3_312	PF12796.8	2.7e-23	Ankyrin repeats (3 copies)
+e_coli	NC_000913.3_1447	PF12799.8	1.4e-17	Leucine Rich repeats (2 copies)
+e_coli	NC_000913.3_2170	PF12801.8	2.2e-16	4Fe-4S binding domain
+e_coli	NC_000913.3_3774	PF12804.8	1.3e-34	MobA-like NTP transferase domain
+e_coli	NC_000913.3_936	PF12805.8	1.6e-112	FUSC-like inner membrane protein yccS
+e_coli	NC_000913.3_4280	PF12821.8	1.4e-34	Threonine/Serine exporter, ThrE
+e_coli	NC_000913.3_2375	PF12826.8	1.2e-25	Helix-hairpin-helix motif
+e_coli	NC_000913.3_2503	PF12832.8	1.3e-45	MFS_1 like family
+e_coli	NC_000913.3_3502	PF12833.8	1.1e-20	Helix-turn-helix domain
+e_coli	NC_000913.3_3336	PF12836.8	1.2e-29	Helix-hairpin-helix motif
+e_coli	NC_000913.3_3988	PF12838.8	2.1e-16	4Fe-4S dicluster domain
+e_coli	NC_000913.3_2374	PF12843.8	6.1e-30	Putative quorum-sensing-regulated virulence factor
+e_coli	NC_000913.3_797	PF12848.8	4.8e-25	ABC transporter
+e_coli	NC_000913.3_3663	PF12849.8	1.1e-57	PBP superfamily domain
+e_coli	NC_000913.3_2270	PF12850.8	4.7e-26	Calcineurin-like phosphoesterase superfamily domain
+e_coli	NC_000913.3_300	PF12852.8	8.1e-21	Cupin
+e_coli	NC_000913.3_2956	PF12883.8	1.4e-38	Protein of unknown function (DUF3828)
+e_coli	NC_000913.3_3817	PF12889.8	2.6e-95	Protein of unknown function (DUF3829)
+e_coli	NC_000913.3_3474	PF12911.8	3.8e-17	N-terminal TM domain of oligopeptide transport permease C
+e_coli	NC_000913.3_2261	PF12917.8	1.5e-77	HD containing hydrolase-like enzyme
+e_coli	NC_000913.3_4022	PF12974.8	1.4e-71	ABC transporter, phosphonate, periplasmic substrate-binding protein
+e_coli	NC_000913.3_4189	PF13006.8	1.3e-32	Insertion element 4 transposase N-terminal
+e_coli	NC_000913.3_2261	PF13023.7	2.2e-17	HD domain
+e_coli	NC_000913.3_1077	PF13036.7	3.3e-36	Peptidoglycan-synthase activator LpoB
+e_coli	NC_000913.3_4073	PF13085.7	1.3e-30	2Fe-2S iron-sulfur cluster binding domain
+e_coli	NC_000913.3_4223	PF13087.7	1.9e-20	AAA domain
+e_coli	NC_000913.3_2467	PF13089.7	8.2e-32	Polyphosphate kinase N-terminal domain
+e_coli	NC_000913.3_2467	PF13090.7	1.3e-70	Polyphosphate kinase C-terminal domain 2
+e_coli	NC_000913.3_766	PF13091.7	1.6e-42	PLD-like domain
+e_coli	NC_000913.3_597	PF13098.7	8e-17	Thioredoxin-like domain
+e_coli	NC_000913.3_11	PF13099.7	2.9e-16	Domain of unknown function (DUF3944)
+e_coli	NC_000913.3_3179	PF13116.7	2.2e-95	Protein of unknown function
+e_coli	NC_000913.3_1045	PF13144.7	9.3e-26	Chaperone for flagella basal body P-ring formation
+e_coli	NC_000913.3_433	PF13145.7	1e-34	PPIC-type PPIASE domain
+e_coli	NC_000913.3_2587	PF13148.7	9.1e-102	Protein of unknown function (DUF3987)
+e_coli	NC_000913.3_4090	PF13167.7	1.7e-31	GTP-binding GTPase N-terminal
+e_coli	NC_000913.3_726	PF13174.7	5.6e-23	Tetratricopeptide repeat
+e_coli	NC_000913.3_461	PF13177.7	2.1e-43	DNA polymerase III, delta subunit
+e_coli	NC_000913.3_156	PF13180.7	5.5e-28	PDZ domain
+e_coli	NC_000913.3_3104	PF13184.7	7e-30	NusA-like KH domain
+e_coli	NC_000913.3_3985	PF13193.7	3.5e-27	AMP-binding enzyme C-terminal domain
+e_coli	NC_000913.3_465	PF13207.7	1.2e-27	AAA domain
+e_coli	NC_000913.3_214	PF13230.7	3e-114	Glutamine amidotransferases class-II
+e_coli	NC_000913.3_3298	PF13241.7	1.2e-27	Putative NAD(P)-binding
+e_coli	NC_000913.3_657	PF13242.7	1.5e-20	HAD-hyrolase-like
+e_coli	NC_000913.3_2768	PF13245.7	1.2e-30	AAA domain
+e_coli	NC_000913.3_1648	PF13247.7	1.4e-22	4Fe-4S dicluster domain
+e_coli	NC_000913.3_3418	PF13258.7	1.9e-68	Domain of unknown function (DUF4049)
+e_coli	NC_000913.3_517	PF13275.7	9.6e-25	S4 domain
+e_coli	NC_000913.3_435	PF13279.7	1.7e-16	Thioesterase-like superfamily
+e_coli	NC_000913.3_557	PF13283.7	3e-53	Bacteriophage N adsorption protein A C-term
+e_coli	NC_000913.3_167	PF13288.7	5.6e-42	DXP reductoisomerase C-terminal domain
+e_coli	NC_000913.3_3585	PF13291.7	1.1e-16	ACT domain
+e_coli	NC_000913.3_412	PF13292.7	1.6e-118	1-deoxy-D-xylulose-5-phosphate synthase
+e_coli	NC_000913.3_1039	PF13302.8	1.1e-19	Acetyltransferase (GNAT) domain
+e_coli	NC_000913.3_3415	PF13304.7	1.1e-18	AAA domain, putative AbiEii toxin, Type IV TA system
+e_coli	NC_000913.3_776	PF13307.7	2.4e-26	Helicase C-terminal domain
+e_coli	NC_000913.3_3275	PF13309.7	7.3e-20	HTH domain
+e_coli	NC_000913.3_2917	PF13322.7	2.8e-94	Domain of unknown function (DUF4092)
+e_coli	NC_000913.3_2736	PF13328.7	2.8e-41	HD domain
+e_coli	NC_000913.3_3490	PF13333.7	1.6e-21	Integrase core domain
+e_coli	NC_000913.3_3694	PF13335.7	1.7e-30	Magnesium chelatase, subunit ChlI C-terminal
+e_coli	NC_000913.3_2868	PF13336.7	6.1e-42	Acetyl-CoA hydrolase/transferase C-terminal domain
+e_coli	NC_000913.3_66	PF13343.7	1.8e-17	Bacterial extracellular solute-binding protein
+e_coli	NC_000913.3_657	PF13344.7	4.1e-23	Haloacid dehalogenase-like hydrolase
+e_coli	NC_000913.3_266	PF13347.7	1.8e-97	MFS/sugar transport protein
+e_coli	NC_000913.3_878	PF13353.7	1.3e-19	4Fe-4S single cluster domain
+e_coli	NC_000913.3_2584	PF13356.7	1.1e-18	Arm DNA-binding domain
+e_coli	NC_000913.3_2479	PF13360.7	1.1e-61	PQQ-like domain
+e_coli	NC_000913.3_2769	PF13361.7	1.3e-21	UvrD-like helicase C-terminal domain
+e_coli	NC_000913.3_156	PF13365.7	3.5e-32	Trypsin-like peptidase domain
+e_coli	NC_000913.3_1185	PF13369.7	1.6e-39	Transglutaminase-like superfamily
+e_coli	NC_000913.3_1185	PF13371.7	2.8e-27	Tetratricopeptide repeat
+e_coli	NC_000913.3_1606	PF13375.7	4.1e-34	RnfC Barrel sandwich hybrid domain
+e_coli	NC_000913.3_2787	PF13377.7	1.1e-36	Periplasmic binding protein-like domain
+e_coli	NC_000913.3_1301	PF13378.7	1.2e-26	Enolase C-terminal domain-like
+e_coli	NC_000913.3_358	PF13379.7	6.4e-21	NMT1-like family
+e_coli	NC_000913.3_2551	PF13380.7	6.3e-23	CoA binding domain
+e_coli	NC_000913.3_3600	PF13382.7	2e-56	Adenine deaminase C-terminal domain
+e_coli	NC_000913.3_2481	PF13393.7	8.6e-49	Histidyl-tRNA synthetase
+e_coli	NC_000913.3_4152	PF13394.7	6e-36	4Fe-4S single cluster domain
+e_coli	NC_000913.3_2917	PF13402.7	3.9e-45	Peptidase M60, enhancin and enhancin-like
+e_coli	NC_000913.3_439	PF13404.7	1.8e-17	AsnC-type helix-turn-helix domain
+e_coli	NC_000913.3_2652	PF13406.7	4.3e-92	Transglycosylase SLT domain
+e_coli	NC_000913.3_2515	PF13407.7	1.1e-31	Periplasmic binding protein domain
+e_coli	NC_000913.3_3042	PF13409.7	5.2e-22	Glutathione S-transferase, N-terminal domain
+e_coli	NC_000913.3_3221	PF13411.7	1.3e-21	MerR HTH family regulatory protein
+e_coli	NC_000913.3_439	PF13412.7	2.6e-17	Winged helix-turn-helix DNA-binding
+e_coli	NC_000913.3_2483	PF13413.7	3.3e-16	Helix-turn-helix domain
+e_coli	NC_000913.3_1732	PF13416.7	1.4e-18	Bacterial extracellular solute-binding protein
+e_coli	NC_000913.3_3163	PF13417.7	2.6e-17	Glutathione S-transferase, N-terminal domain
+e_coli	NC_000913.3_2645	PF13419.7	1.2e-29	Haloacid dehalogenase-like hydrolase
+e_coli	NC_000913.3_1425	PF13420.8	1.9e-18	Acetyltransferase (GNAT) domain
+e_coli	NC_000913.3_1466	PF13426.8	2e-27	PAS domain
+e_coli	NC_000913.3_3461	PF13428.7	4.3e-16	Tetratricopeptide repeat
+e_coli	NC_000913.3_3461	PF13432.7	3e-16	Tetratricopeptide repeat
+e_coli	NC_000913.3_3386	PF13433.7	5.2e-19	Periplasmic binding protein domain
+e_coli	NC_000913.3_3416	PF13437.7	1.1e-17	HlyD family secretion protein
+e_coli	NC_000913.3_1154	PF13438.7	8.5e-22	Domain of unknown function (DUF4113)
+e_coli	NC_000913.3_2012	PF13440.7	4.6e-69	Polysaccharide biosynthesis protein
+e_coli	NC_000913.3_2002	PF13450.7	7.1e-20	NAD(P)-binding Rossmann-like domain
+e_coli	NC_000913.3_1645	PF13454.7	4.8e-32	FAD-NAD(P)-binding
+e_coli	NC_000913.3_3388	PF13458.7	3.4e-56	Periplasmic binding protein
+e_coli	NC_000913.3_846	PF13460.7	1.3e-16	NAD(P)H-binding
+e_coli	NC_000913.3_2483	PF13464.7	1.5e-24	Domain of unknown function (DUF4115)
+e_coli	NC_000913.3_3124	PF13466.7	1.4e-16	STAS domain
+e_coli	NC_000913.3_485	PF13472.7	6.8e-27	GDSL-like Lipase/Acylhydrolase family
+e_coli	NC_000913.3_995	PF13473.7	2.7e-25	Cupredoxin-like domain
+e_coli	NC_000913.3_2578	PF13476.7	2.2e-19	AAA domain
+e_coli	NC_000913.3_2824	PF13478.7	2.4e-33	XdhC Rossmann domain
+e_coli	NC_000913.3_4305	PF13481.7	9.3e-16	AAA domain
+e_coli	NC_000913.3_4083	PF13484.7	1.4e-19	4Fe-4S double cluster binding domain
+e_coli	NC_000913.3_2199	PF13489.7	3.5e-25	Methyltransferase domain
+e_coli	NC_000913.3_866	PF13491.7	7e-43	4TM region of DNA translocase FtsK/SpoIIIE
+e_coli	NC_000913.3_678	PF13493.7	3.1e-29	Domain of unknown function (DUF4118)
+e_coli	NC_000913.3_755	PF13500.7	1.1e-39	AAA domain
+e_coli	NC_000913.3_2030	PF13502.7	4.1e-25	AsmA-like C-terminal region
+e_coli	NC_000913.3_791	PF13505.7	2e-24	Outer membrane protein beta-barrel domain
+e_coli	NC_000913.3_2524	PF13507.7	1.1e-107	CobB/CobQ-like glutamine amidotransferase domain
+e_coli	NC_000913.3_2560	PF13512.7	4.5e-72	Tetratricopeptide repeat
+e_coli	NC_000913.3_936	PF13515.7	1.3e-25	Fusaric acid resistance protein-like
+e_coli	NC_000913.3_3489	PF13518.7	1.9e-22	Helix-turn-helix domain
+e_coli	NC_000913.3_2618	PF13520.7	1.1e-38	Amino acid permease
+e_coli	NC_000913.3_4306	PF13521.7	1.1e-28	AAA domain
+e_coli	NC_000913.3_656	PF13522.7	4.3e-38	Glutamine amidotransferase domain
+e_coli	NC_000913.3_2560	PF13525.7	2.3e-86	Outer membrane lipoprotein
+e_coli	NC_000913.3_2389	PF13531.7	3.2e-41	Bacterial extracellular solute-binding protein
+e_coli	NC_000913.3_2179	PF13532.7	1.6e-55	2OG-Fe(II) oxygenase superfamily
+e_coli	NC_000913.3_110	PF13533.7	1e-16	Biotin-lipoyl like
+e_coli	NC_000913.3_656	PF13537.7	2e-43	Glutamine amidotransferase domain
+e_coli	NC_000913.3_3694	PF13541.7	8.4e-45	Subunit ChlI of Mg-chelatase
+e_coli	NC_000913.3_1311	PF13545.7	7.9e-17	Crp-like helix-turn-helix domain
+e_coli	NC_000913.3_2551	PF13549.7	4.7e-74	ATP-grasp domain
+e_coli	NC_000913.3_492	PF13551.7	6.2e-20	Winged helix-turn helix
+e_coli	NC_000913.3_157	PF13556.7	1.6e-23	PucR C-terminal helix-turn-helix domain
+e_coli	NC_000913.3_900	PF13558.7	4.2e-16	Putative exonuclease SbcCD, C subunit
+e_coli	NC_000913.3_1516	PF13561.7	1.1e-37	Enoyl-(Acyl carrier protein) reductase
+e_coli	NC_000913.3_2083	PF13569.7	1.5e-46	Domain of unknown function (DUF4132)
+e_coli	NC_000913.3_2479	PF13570.7	2.8e-38	PQQ-like domain
+e_coli	NC_000913.3_2016	PF13579.7	4.5e-30	Glycosyl transferase 4-like domain
+e_coli	NC_000913.3_3084	PF13580.7	8.1e-34	SIS domain
+e_coli	NC_000913.3_975	PF13591.7	1.8e-28	MerR HTH family regulatory protein
+e_coli	NC_000913.3_2373	PF13593.7	4.9e-103	SBF-like CPA transporter family (DUF4137)
+e_coli	NC_000913.3_4153	PF13597.7	5e-186	Anaerobic ribonucleoside-triphosphate reductase
+e_coli	NC_000913.3_3982	PF13599.7	1.2e-17	Pentapeptide repeats (9 copies)
+e_coli	NC_000913.3_3966	PF13602.7	1.8e-19	Zinc-binding dehydrogenase
+e_coli	NC_000913.3_635	PF13603.7	7.4e-80	Leucyl-tRNA synthetase, Domain 2
+e_coli	NC_000913.3_2768	PF13604.7	9.1e-34	AAA domain
+e_coli	NC_000913.3_312	PF13606.7	2.3e-18	Ankyrin repeat
+e_coli	NC_000913.3_2551	PF13607.7	4.1e-47	Succinyl-CoA ligase like flavodoxin domain
+e_coli	NC_000913.3_1352	PF13609.7	1.4e-25	Gram-negative porin
+e_coli	NC_000913.3_1145	PF13614.7	3.2e-20	AAA domain
+e_coli	NC_000913.3_51	PF13616.7	2.5e-48	PPIC-type PPIASE domain
+e_coli	NC_000913.3_1358	PF13617.7	1.8e-17	YnbE-like lipoprotein
+e_coli	NC_000913.3_1948	PF13620.7	8.9e-24	Carboxypeptidase regulatory-like domain
+e_coli	NC_000913.3_444	PF13622.7	7.4e-59	Thioesterase-like superfamily
+e_coli	NC_000913.3_433	PF13623.7	3.6e-37	SurA N-terminal domain
+e_coli	NC_000913.3_433	PF13624.7	3.2e-54	SurA N-terminal domain
+e_coli	NC_000913.3_999	PF13632.7	3.6e-25	Glycosyl transferase family group 2
+e_coli	NC_000913.3_312	PF13637.7	6.8e-25	Ankyrin repeats (many copies)
+e_coli	NC_000913.3_781	PF13640.7	9.1e-16	2OG-Fe(II) oxygenase superfamily
+e_coli	NC_000913.3_558	PF13641.7	1.5e-37	Glycosyltransferase like family 2
+e_coli	NC_000913.3_3528	PF13646.7	2.3e-25	HEAT repeats
+e_coli	NC_000913.3_2199	PF13649.7	1e-18	Methyltransferase domain
+e_coli	NC_000913.3_931	PF13654.7	2.9e-20	AAA domain
+e_coli	NC_000913.3_1483	PF13657.7	2.8e-25	HipA N-terminal domain
+e_coli	NC_000913.3_463	PF13662.7	8.4e-26	Toprim domain
+e_coli	NC_000913.3_3908	PF13667.7	1.6e-33	ThiC-associated domain
+e_coli	NC_000913.3_2038	PF13672.7	2.4e-38	Protein phosphatase 2C
+e_coli	NC_000913.3_2236	PF13673.8	2.8e-17	Acetyltransferase (GNAT) domain
+e_coli	NC_000913.3_2433	PF13675.7	1.7e-21	Type IV pili methyl-accepting chemotaxis transducer N-term
+e_coli	NC_000913.3_1867	PF13677.7	1.5e-20	Membrane MotB of proton-channel complex MotA/MotB
+e_coli	NC_000913.3_1554	PF13683.7	1.1e-18	Integrase core domain
+e_coli	NC_000913.3_3523	PF13685.7	2.7e-19	Iron-containing alcohol dehydrogenase
+e_coli	NC_000913.3_3331	PF13687.7	3.5e-47	Domain of unknown function (DUF4153)
+e_coli	NC_000913.3_2566	PF13689.7	1.1e-29	YfiR/HmsC-like
+e_coli	NC_000913.3_2010	PF13692.7	2.1e-27	Glycosyl transferases group 1
+e_coli	NC_000913.3_3121	PF13693.7	9.5e-36	Winged helix-turn-helix DNA-binding
+e_coli	NC_000913.3_4062	PF13698.7	3.5e-33	Domain of unknown function (DUF4156)
+e_coli	NC_000913.3_76	PF13710.7	2.1e-16	ACT domain
+e_coli	NC_000913.3_324	PF13714.7	3.7e-47	Phosphoenolpyruvate phosphomutase
+e_coli	NC_000913.3_2439	PF13718.7	8.9e-27	GNAT acetyltransferase 2
+e_coli	NC_000913.3_176	PF13720.7	1e-29	Udp N-acetylglucosamine O-acyltransferase; Domain 2
+e_coli	NC_000913.3_3036	PF13721.7	2.7e-18	SecD export protein N-terminal TM region
+e_coli	NC_000913.3_4271	PF13722.7	5.8e-36	5TM C-terminal transporter carbon starvation CstA
+e_coli	NC_000913.3_2013	PF13727.7	1.4e-40	CoA-binding domain
+e_coli	NC_000913.3_3429	PF13738.7	1.7e-16	Pyridine nucleotide-disulphide oxidoreductase
+e_coli	NC_000913.3_2445	PF13740.7	2e-27	ACT domain
+e_coli	NC_000913.3_2476	PF13742.7	1e-34	OB-fold nucleic acid binding domain
+e_coli	NC_000913.3_1178	PF13793.7	6.7e-51	N-terminal domain of ribose phosphate pyrophosphokinase
+e_coli	NC_000913.3_3916	PF13801.7	1.1e-22	Heavy-metal resistance
+e_coli	NC_000913.3_3591	PF13802.7	8e-17	Galactose mutarotase-like
+e_coli	NC_000913.3_3296	PF13806.7	2.5e-40	Rieske-like [2Fe-2S] domain
+e_coli	NC_000913.3_2026	PF13807.7	1.1e-30	G-rich domain on putative tyrosine kinase
+e_coli	NC_000913.3_1436	PF13808.7	1.2e-32	DDE_Tnp_1-associated
+e_coli	NC_000913.3_1499	PF13811.7	1.5e-52	Domain of unknown function (DUF4186)
+e_coli	NC_000913.3_2	PF13840.7	9.9e-20	ACT domain
+e_coli	NC_000913.3_2199	PF13847.7	1.6e-16	Methyltransferase domain
+e_coli	NC_000913.3_312	PF13857.7	3.6e-18	Ankyrin repeats (many copies)
+e_coli	NC_000913.3_1048	PF13860.7	4.5e-24	FlgD Ig-like domain
+e_coli	NC_000913.3_1048	PF13861.7	1e-16	FlgD Tudor-like domain
+e_coli	NC_000913.3_3676	PF13932.7	4.6e-80	GidA associated domain
+e_coli	NC_000913.3_1380	PF13936.7	7.4e-26	Helix-turn-helix domain
+e_coli	NC_000913.3_3470	PF13940.7	1.3e-27	Toxin Ldr, type I toxin-antitoxin system
+e_coli	NC_000913.3_2522	PF13942.7	4.1e-77	YfhG lipoprotein
+e_coli	NC_000913.3_916	PF13953.7	1.8e-18	PapC C-terminal domain
+e_coli	NC_000913.3_521	PF13954.7	1.1e-50	PapC N-terminal domain
+e_coli	NC_000913.3_224	PF13957.7	1.7e-37	Toxin YafO, type II toxin-antitoxin system
+e_coli	NC_000913.3_4225	PF13964.7	2.4e-16	Kelch motif
+e_coli	NC_000913.3_1801	PF13974.7	7.9e-34	YebO-like protein
+e_coli	NC_000913.3_307	PF13977.7	2.1e-29	BetI-type transcriptional repressor, C-terminal
+e_coli	NC_000913.3_3299	PF13978.7	2.3e-36	Protein of unknown function (DUF4223)
+e_coli	NC_000913.3_2437	PF13980.7	1.6e-35	Uncharacterised protein family (UPF0370)
+e_coli	NC_000913.3_3953	PF13981.7	7e-54	SopA-like central domain
+e_coli	NC_000913.3_665	PF13982.7	1.1e-49	YbfN-like lipoprotein
+e_coli	NC_000913.3_3493	PF13983.7	5.3e-43	YsaB-like lipoprotein
+e_coli	NC_000913.3_1025	PF13984.7	2.3e-64	MsyB protein
+e_coli	NC_000913.3_730	PF13985.7	2.7e-56	YbgS-like protein
+e_coli	NC_000913.3_1902	PF13987.7	1.9e-56	YedD-like protein
+e_coli	NC_000913.3_2149	PF13989.7	6.4e-50	YejG-like protein
+e_coli	NC_000913.3_4027	PF13990.7	2.7e-144	YjcZ-like protein
+e_coli	NC_000913.3_1033	PF13991.7	1.7e-29	BssS protein family
+e_coli	NC_000913.3_1881	PF13992.7	1e-29	YecR-like lipoprotein
+e_coli	NC_000913.3_979	PF13993.7	2.4e-39	YccJ-like protein
+e_coli	NC_000913.3_998	PF13994.7	1.6e-18	PgaD-like protein
+e_coli	NC_000913.3_1824	PF13995.7	4.4e-41	YebF-like protein
+e_coli	NC_000913.3_1802	PF13996.7	1.2e-40	YobH-like protein
+e_coli	NC_000913.3_3040	PF13997.7	4.5e-27	YqjK-like protein
+e_coli	NC_000913.3_1508	PF13999.7	2.9e-36	MarB protein
+e_coli	NC_000913.3_1518	PF14001.7	1.4e-34	YdfZ protein
+e_coli	NC_000913.3_1704	PF14002.7	3.5e-77	YniB-like protein
+e_coli	NC_000913.3_2590	PF14130.7	2.4e-52	Domain of unknown function (DUF4297)
+e_coli	NC_000913.3_1331	PF14163.7	2.1e-30	Super-infection exclusion protein B
+e_coli	NC_000913.3_3410	PF14220.7	3.1e-37	Domain of unknown function (DUF4329)
+e_coli	NC_000913.3_1542	PF14282.7	2.7e-16	FlxA-like protein
+e_coli	NC_000913.3_2100	PF14310.7	4.2e-24	Fibronectin type III-like domain
+e_coli	NC_000913.3_4268	PF14338.7	4.3e-21	Mrr N-terminal domain
+e_coli	NC_000913.3_3449	PF14376.7	2.6e-34	Haem-binding domain
+e_coli	NC_000913.3_2526	PF14437.7	1.5e-33	MafB19-like deaminase
+e_coli	NC_000913.3_91	PF14450.7	1.5e-32	Cell division protein FtsA
+e_coli	NC_000913.3_556	PF14488.7	4.4e-36	Domain of unknown function (DUF4434)
+e_coli	NC_000913.3_2746	PF14489.7	4.2e-35	QueF-like protein
+e_coli	NC_000913.3_3269	PF14492.7	1.5e-34	Elongation Factor G, domain III
+e_coli	NC_000913.3_3312	PF14502.7	2.1e-22	Helix-turn-helix domain
+e_coli	NC_000913.3_3312	PF14503.7	3.3e-84	YhfZ C-terminal domain
+e_coli	NC_000913.3_1839	PF14520.7	1.8e-16	Helix-hairpin-helix domain
+e_coli	NC_000913.3_1360	PF14525.7	8e-24	AraC-binding-like domain
+e_coli	NC_000913.3_1974	PF14526.7	8.5e-28	Integron-associated effector binding protein
+e_coli	NC_000913.3_1299	PF14532.7	1.1e-19	Sigma-54 interaction domain
+e_coli	NC_000913.3_1374	PF14535.7	4.4e-27	AMP-binding enzyme C-terminal domain
+e_coli	NC_000913.3_4045	PF14542.7	5e-23	GCN5-related N-acetyl-transferase
+e_coli	NC_000913.3_3461	PF14559.7	1.9e-31	Tetratricopeptide repeat
+e_coli	NC_000913.3_483	PF14561.7	3.4e-29	Tetratricopeptide repeat
+e_coli	NC_000913.3_1178	PF14572.7	1.5e-32	Phosphoribosyl synthetase-associated domain
+e_coli	NC_000913.3_179	PF14579.7	3.2e-26	Helix-hairpin-helix motif
+e_coli	NC_000913.3_2489	PF14581.7	9.3e-31	SseB protein C-terminal domain
+e_coli	NC_000913.3_2534	PF14622.7	4.8e-34	Ribonuclease-III-like
+e_coli	NC_000913.3_2464	PF14681.7	8.3e-66	Uracil phosphoribosyltransferase
+e_coli	NC_000913.3_3146	PF14691.7	6.4e-39	Dihydroprymidine dehydrogenase domain II, 4Fe-4S cluster
+e_coli	NC_000913.3_1605	PF14697.7	2.3e-17	4Fe-4S dicluster domain
+e_coli	NC_000913.3_3880	PF14698.7	1.6e-26	Argininosuccinate lyase C-terminal
+e_coli	NC_000913.3_1199	PF14710.7	5.3e-18	Respiratory nitrate reductase alpha N-terminal
+e_coli	NC_000913.3_1200	PF14711.7	1.3e-31	Respiratory nitrate reductase beta C-terminal
+e_coli	NC_000913.3_2478	PF14714.7	3.8e-27	KH-domain-like of EngA bacterial GTPase enzymes, C-terminal
+e_coli	NC_000913.3_4309	PF14718.7	1.2e-24	Soluble lytic murein transglycosylase L domain
+e_coli	NC_000913.3_2941	PF14720.7	1.7e-27	NiFe/NiFeSe hydrogenase small subunit C-terminal
+e_coli	NC_000913.3_379	PF14748.7	4e-40	Pyrroline-5-carboxylate reductase dimerisation
+e_coli	NC_000913.3_2509	PF14759.7	3.6e-22	Reductase C-terminal
+e_coli	NC_000913.3_3945	PF14785.7	7.8e-60	Maltose transport system permease protein MalF P2 domain
+e_coli	NC_000913.3_2747	PF14793.7	6.8e-47	Pyrimidine/purine nucleotide 5'-monophosphate nucleosidases
+e_coli	NC_000913.3_160	PF14805.7	1.4e-26	Tetrahydrodipicolinate N-succinyltransferase N-terminal
+e_coli	NC_000913.3_144	PF14812.7	9.4e-27	Transmembrane domain of transglycosylase PBP1 at N-terminal
+e_coli	NC_000913.3_144	PF14814.7	7.6e-28	Bifunctional transglycosylase second domain
+e_coli	NC_000913.3_1737	PF14815.7	4.2e-16	NUDIX domain
+e_coli	NC_000913.3_2746	PF14819.7	1.6e-50	Nitrile reductase, 7-cyano-7-deazaguanine-reductase N-term
+e_coli	NC_000913.3_3060	PF14833.7	1.1e-39	NAD-binding of NADP-dependent 3-hydroxyisobutyrate dehydrogenase
+e_coli	NC_000913.3_2271	PF14834.7	1.4e-74	Glutathione S-transferase, C-terminal domain
+e_coli	NC_000913.3_633	PF14840.7	1.2e-74	Processivity clamp loader gamma complex DNA pol III C-term
+e_coli	NC_000913.3_1911	PF14841.7	1.3e-27	FliG middle domain
+e_coli	NC_000913.3_1911	PF14842.7	7.2e-34	FliG N-terminal domain
+e_coli	NC_000913.3_3641	PF14849.7	5.8e-89	YidC periplasmic domain
+e_coli	NC_000913.3_990	PF14850.7	7.8e-47	DNA-binding domain of Proline dehydrogenase
+e_coli	NC_000913.3_4001	PF14863.7	2.7e-57	Alkyl sulfatase dimerisation
+e_coli	NC_000913.3_4001	PF14864.7	7e-35	Alkyl sulfatase C-terminal
+e_coli	NC_000913.3_1000	PF14883.7	1.9e-146	Hypothetical glycosyl hydrolase family 13
+e_coli	NC_000913.3_3374	PF15567.7	2.3e-22	Immunity protein 35
+e_coli	NC_000913.3_3527	PF15606.7	3.1e-43	Bacterial toxin 34
+e_coli	NC_000913.3_3411	PF15631.7	1.3e-24	NTF2 fold immunity protein
+e_coli	NC_000913.3_2964	PF15723.6	7.1e-34	Motility quorum-sensing regulator, toxin of MqsA
+e_coli	NC_000913.3_2963	PF15731.6	1.4e-56	Antitoxin component of bacterial toxin-antitoxin system, MqsA
+e_coli	NC_000913.3_216	PF15738.6	3.4e-32	Bacterial toxin of type II toxin-antitoxin system, YafQ
+e_coli	NC_000913.3_4063	PF15922.6	5.3e-156	YjeJ-like
+e_coli	NC_000913.3_1662	PF15930.6	4.6e-44	Domain of unknown function
+e_coli	NC_000913.3_2592	PF15933.6	1.7e-31	Antitoxin to bacterial toxin RNase LS or RnlA
+e_coli	NC_000913.3_2591	PF15935.6	3.5e-27	RNase LS, bacterial toxin
+e_coli	NC_000913.3_3064	PF15937.6	4.7e-40	prlF antitoxin for toxin YhaV_toxin
+e_coli	NC_000913.3_3976	PF15940.6	1.5e-45	Family of unknown function
+e_coli	NC_000913.3_1335	PF15943.6	8e-32	Putative antitoxin of bacterial toxin-antitoxin system, YdaS/YdaT
+e_coli	NC_000913.3_2992	PF15975.6	3.5e-39	Flotillin
+e_coli	NC_000913.3_287	PF15976.6	1.9e-31	CS1-pili formation C-terminal
+e_coli	NC_000913.3_367	PF15977.6	2.3e-30	Winged helix-turn-helix DNA binding
+e_coli	NC_000913.3_1226	PF16031.6	5.6e-36	TonB polyproline region
+e_coli	NC_000913.3_709	PF16078.6	9.3e-17	2-oxoglutarate dehydrogenase N-terminus
+e_coli	NC_000913.3_2867	PF16113.6	1.5e-24	Enoyl-CoA hydratase/isomerase
+e_coli	NC_000913.3_203	PF16123.6	6e-23	Hydroxyacylglutathione hydrolase C-terminus
+e_coli	NC_000913.3_3745	PF16124.6	1.2e-16	RecQ zinc-binding
+e_coli	NC_000913.3_2608	PF16168.6	1.5e-149	Adhesin of bacterial autotransporter system, probable stalk
+e_coli	NC_000913.3_328	PF16177.6	1.5e-22	Acetyl-coenzyme A synthetase N-terminus
+e_coli	NC_000913.3_2770	PF16187.6	3.6e-55	Middle or third domain of peptidase_M16
+e_coli	NC_000913.3_868	PF16193.6	7.6e-24	AAA C-terminal domain
+e_coli	NC_000913.3_3101	PF16198.6	4.2e-22	tRNA pseudouridylate synthase B C-terminal domain
+e_coli	NC_000913.3_3144	PF16199.6	2.4e-18	Radical_SAM C-terminal domain
+e_coli	NC_000913.3_2048	PF16325.6	4e-21	Peptidase family U32 C-terminal domain
+e_coli	NC_000913.3_925	PF16326.6	9.6e-22	ABC transporter C-terminal domain
+e_coli	NC_000913.3_2162	PF16327.6	1.5e-123	Cytochrome c-type biogenesis protein CcmF C-terminal
+e_coli	NC_000913.3_900	PF16330.6	3.9e-73	MukB hinge domain
+e_coli	NC_000913.3_726	PF16331.6	4.6e-24	TolA binding protein trimerisation
+e_coli	NC_000913.3_3016	PF16353.6	1.4e-17	Domain of unknown function (DUF4981)
+e_coli	NC_000913.3_192	PF16358.6	2e-50	RcsF lipoprotein
+e_coli	NC_000913.3_2183	PF16359.6	2.3e-41	RcsD-ABL domain
+e_coli	NC_000913.3_4090	PF16360.6	6.8e-30	GTP-binding GTPase Middle Region
+e_coli	NC_000913.3_382	PF16362.6	1.5e-40	YaiA protein
+e_coli	NC_000913.3_3715	PF16363.6	1.5e-99	GDP-mannose 4,6 dehydratase
+e_coli	NC_000913.3_2402	PF16365.6	1e-35	Ethanolamine utilization protein EutK C-terminus
+e_coli	NC_000913.3_289	PF16449.6	3.9e-91	Fimbrillin MatB
+e_coli	NC_000913.3_1142	PF16456.6	3.7e-49	YmgD protein
+e_coli	NC_000913.3_2915	PF16549.6	5.5e-18	Type II secretion system (T2SS) pilotin, S protein
+e_coli	NC_000913.3_563	PF16572.6	5.9e-31	Long alpha hairpin domain of cation efflux system protein, CusB
+e_coli	NC_000913.3_3999	PF16576.6	1.3e-17	Barrel-sandwich domain of CusB or HlyD membrane-fusion
+e_coli	NC_000913.3_2233	PF16582.6	1.9e-88	Middle domain of thiamine pyrophosphate
+e_coli	NC_000913.3_1948	PF16640.6	1.1e-24	Bacterial Ig-like domain (group 3)
+e_coli	NC_000913.3_4290	PF16658.6	9.4e-48	Class II release factor RF3, C-terminal domain
+e_coli	NC_000913.3_709	PF16870.6	1.4e-54	2-oxoglutarate dehydrogenase C-terminal
+e_coli	NC_000913.3_1426	PF16884.6	1.8e-44	N-terminal domain of oxidoreductase
+e_coli	NC_000913.3_1754	PF16912.6	6.7e-16	Glucose dehydrogenase C-terminus
+e_coli	NC_000913.3_3835	PF16916.6	7.6e-27	Dimerisation domain of Zinc Transporter
+e_coli	NC_000913.3_3336	PF16921.6	2.3e-51	Tex protein YqgF-like domain
+e_coli	NC_000913.3_287	PF16967.6	8.5e-27	E-set like domain
+e_coli	NC_000913.3_1918	PF16973.6	8e-21	Flagellar motor switch protein FliN N-terminal
+e_coli	NC_000913.3_2689	PF17042.6	1.2e-28	Nucleotide-binding C-terminal domain
+e_coli	NC_000913.3_1477	PF17073.6	4.7e-48	Two-component-system connector protein
+e_coli	NC_000913.3_4000	PF17090.6	3.3e-16	Uncharacterised protein family
+e_coli	NC_000913.3_3325	PF17092.6	1.2e-31	Penicillin-binding protein OB-like domain
+e_coli	NC_000913.3_106	PF17113.6	2.2e-159	Regulatory signalling modulator protein AmpE
+e_coli	NC_000913.3_1811	PF17125.6	6.2e-30	N-terminal domain of 16S rRNA methyltransferase RsmF
+e_coli	NC_000913.3_2516	PF17128.5	2.7e-70	Domain of unknown function (DUF5107)
+e_coli	NC_000913.3_3238	PF17136.5	3.3e-25	Ribosomal proteins 50S L24/mitochondrial 39S L24
+e_coli	NC_000913.3_1353	PF17147.5	7.7e-17	Pyruvate:ferredoxin oxidoreductase core domain II
+e_coli	NC_000913.3_1927	PF17151.5	2.1e-92	Periplasmic sensor domain
+e_coli	NC_000913.3_2567	PF17152.5	4e-31	Periplasmic sensor domain
+e_coli	NC_000913.3_810	PF17153.5	5.9e-59	Periplasmic sensor domain, extracellular
+e_coli	NC_000913.3_3460	PF17154.5	5e-47	Gammaproteobacterial periplasmic sensor domain
+e_coli	NC_000913.3_1764	PF17155.5	1e-150	Gammaproteobacterial periplasmic sensor domain
+e_coli	NC_000913.3_811	PF17156.5	2.8e-144	Gammaproteobacterial periplasmic sensor domain
+e_coli	NC_000913.3_3185	PF17157.5	2.5e-34	Gammaproteobacterial periplasmic sensor domain
+e_coli	NC_000913.3_1002	PF17158.5	1.7e-69	Membrane-associated sensor, integral membrane domain
+e_coli	NC_000913.3_2439	PF17176.5	4.7e-42	tRNA-binding domain
+e_coli	NC_000913.3_188	PF17185.5	3.8e-32	NlpE C-terminal OB domain
+e_coli	NC_000913.3_2538	PF17188.5	7.4e-30	MucB/RseB C-terminal domain
+e_coli	NC_000913.3_3587	PF17191.5	7.5e-21	RecG wedge domain
+e_coli	NC_000913.3_898	PF17192.5	2.6e-85	MukF middle domain
+e_coli	NC_000913.3_898	PF17193.5	1.5e-81	MukF C-terminal domain
+e_coli	NC_000913.3_4043	PF17203.5	1e-23	Single cache domain 3
+e_coli	NC_000913.3_670	PF17206.4	1.1e-24	SeqA protein N-terminal domain
+e_coli	NC_000913.3_4089	PF17209.4	1.2e-31	Hfq protein
+e_coli	NC_000913.3_4137	PF17243.3	7.2e-22	POTRA domain TamA domain 1
+e_coli	NC_000913.3_2383	PF17263.3	4.6e-32	Family of unknown function (DUF5329)
+e_coli	NC_000913.3_116	PF17284.3	8.8e-22	Spermidine synthase tetramerisation domain
+e_coli	NC_000913.3_2473	PF17358.3	1e-59	Family of unknown function (DUF5384)
+e_coli	NC_000913.3_3105	PF17384.3	9.3e-24	RimP C-terminal SH3 domain
+e_coli	NC_000913.3_932	PF17414.3	3.6e-32	MatP C-terminal ribbon-helix-helix domain
+e_coli	NC_000913.3_908	PF17432.3	2.6e-116	Domain of unknown function (DUF3458_C) ARM repeats
+e_coli	NC_000913.3_1807	PF17516.3	5.7e-25	ProQ C-terminal domain
+e_coli	NC_000913.3_1432	PF17520.3	1.4e-41	Family of unknown function (DUF5445)
+e_coli	NC_000913.3_1908	PF17607.3	4.8e-82	Family of unknown function (DUF5503)
+e_coli	NC_000913.3_2610	PF17612.3	1.1e-111	Family of unknown function (DUF5507)
+e_coli	NC_000913.3_2609	PF17621.3	3.1e-188	Family of unknown function (DUF5508)
+e_coli	NC_000913.3_179	PF17657.2	7.2e-67	Bacterial DNA polymerase III alpha subunit finger domain
+e_coli	NC_000913.3_3336	PF17674.2	1.1e-24	HHH domain
+e_coli	NC_000913.3_1162	PF17676.2	2.8e-31	LD-carboxypeptidase C-terminal domain
+e_coli	NC_000913.3_141	PF17746.2	1.2e-21	SfsA N-terminal OB domain
+e_coli	NC_000913.3_3974	PF17755.2	2e-38	UvrA DNA-binding domain
+e_coli	NC_000913.3_1086	PF17757.2	2.1e-26	UvrB interaction domain
+e_coli	NC_000913.3_1691	PF17759.2	3.5e-56	Phenylalanyl tRNA synthetase beta chain CLM domain
+e_coli	NC_000913.3_3974	PF17760.2	1.7e-39	UvrA interaction domain
+e_coli	NC_000913.3_3154	PF17761.2	1.8e-35	DUF1016 N-terminal domain
+e_coli	NC_000913.3_1745	PF17763.2	1.2e-32	Glutaminase/Asparaginase C-terminal domain
+e_coli	NC_000913.3_3856	PF17764.2	1.6e-32	3'DNA-binding domain (3'BD)
+e_coli	NC_000913.3_907	PF17767.2	1.2e-38	Nicotinate phosphoribosyltransferase (NAPRTase) N-terminal domain
+e_coli	NC_000913.3_2841	PF17768.2	1.6e-19	RecJ OB domain
+e_coli	NC_000913.3_511	PF17769.2	7.1e-18	Phosphoribosylaminoimidazole carboxylase C-terminal domain
+e_coli	NC_000913.3_1028	PF17773.2	4.4e-22	UPF0176 acylphosphatase like domain
+e_coli	NC_000913.3_1205	PF17775.2	1.3e-30	UPF0225 domain
+e_coli	NC_000913.3_943	PF17785.2	8.5e-19	PUA-like domain
+e_coli	NC_000913.3_2663	PF17788.2	3.8e-33	HypF Kae1-like domain
+e_coli	NC_000913.3_1806	PF17804.2	1.1e-61	Tail specific protease N-terminal domain
+e_coli	NC_000913.3_2885	PF17810.2	3e-27	Arginine decarboxylase helical bundle domain
+e_coli	NC_000913.3_171	PF17820.2	1.7e-16	PDZ domain
+e_coli	NC_000913.3_1183	PF17827.2	9.6e-23	PrmC N-terminal domain
+e_coli	NC_000913.3_109	PF17831.2	1.1e-106	Pyruvate dehydrogenase E1 component middle domain
+e_coli	NC_000913.3_574	PF17837.2	3.6e-20	4'-phosphopantetheinyl transferase N-terminal domain
+e_coli	NC_000913.3_267	PF17851.2	8.5e-66	Beta xylosidase C-terminal Concanavalin A-like domain
+e_coli	NC_000913.3_157	PF17853.2	7.2e-18	GGDEF-like domain
+e_coli	NC_000913.3_866	PF17854.2	2.2e-29	FtsK alpha domain
+e_coli	NC_000913.3_1838	PF17864.2	2.4e-32	RuvB AAA lid domain
+e_coli	NC_000913.3_3681	PF17868.2	2.8e-23	AAA lid domain
+e_coli	NC_000913.3_2557	PF17871.2	1.8e-35	AAA lid domain
+e_coli	NC_000913.3_3347	PF17874.2	1.7e-113	MalT-like TPR region
+e_coli	NC_000913.3_4096	PF17876.2	9.7e-27	Cold shock domain
+e_coli	NC_000913.3_908	PF17900.2	8.9e-19	Peptidase M1 N-terminal domain
+e_coli	NC_000913.3_3378	PF17912.2	5.9e-16	MalK OB fold domain
+e_coli	NC_000913.3_4122	PF17938.2	2e-20	Tetracyclin repressor-like, C-terminal domain
+e_coli	NC_000913.3_2467	PF17941.2	8.2e-75	Polyphosphate kinase C-terminal domain 1
+e_coli	NC_000913.3_2885	PF17944.2	1e-17	Arginine decarboxylase C-terminal helical extension
+e_coli	NC_000913.3_2771	PF17946.2	1.9e-64	RecC C-terminal domain
+e_coli	NC_000913.3_4279	PF17948.2	1.4e-25	DnaT DNA-binding domain
+e_coli	NC_000913.3_3366	PF17954.2	8.2e-31	Quercetinase C-terminal cupin domain
+e_coli	NC_000913.3_2487	PF17962.2	1.2e-29	Bacterial macroglobulin domain 6
+e_coli	NC_000913.3_1956	PF17969.2	2.6e-25	L,D-transpeptidase C-terminal domain
+e_coli	NC_000913.3_2487	PF17970.2	3.3e-49	Bacterial Alpha-2-macroglobulin MG1 domain
+e_coli	NC_000913.3_2487	PF17972.2	1.5e-42	Bacterial Alpha-2-macroglobulin MG5 domain
+e_coli	NC_000913.3_2487	PF17973.2	1.4e-25	Bacterial Alpha-2-macroglobulin MG10 domain
+e_coli	NC_000913.3_2713	PF18019.2	2.4e-43	HD domain
+e_coli	NC_000913.3_1299	PF18024.2	1.1e-20	Helix-turn-helix domain
+e_coli	NC_000913.3_829	PF18030.2	1.7e-40	RimK PreATP-grasp domain
+e_coli	NC_000913.3_3635	PF18053.2	1.4e-56	DNA gyrase B subunit insert domain
+e_coli	NC_000913.3_2524	PF18072.2	2.4e-24	Formylglycinamide ribonucleotide amidotransferase linker domain
+e_coli	NC_000913.3_3856	PF18074.2	3.6e-18	Primosomal protein N C-terminal domain
+e_coli	NC_000913.3_3390	PF18075.2	8.1e-16	FtsX extracellular domain
+e_coli	NC_000913.3_2524	PF18076.2	2.1e-45	Formylglycinamide ribonucleotide amidotransferase N-terminal
+e_coli	NC_000913.3_2662	PF18113.2	8.3e-21	Rubredoxin binding C-terminal domain
+e_coli	NC_000913.3_2758	PF18125.2	3.1e-32	RlmM ferredoxin-like domain
+e_coli	NC_000913.3_4104	PF18158.2	7.7e-56	Adaptive response protein AidB N-terminal domain
+e_coli	NC_000913.3_1913	PF18269.2	5.8e-24	T3SS EscN ATPase C-terminal domain
+e_coli	NC_000913.3_1932	PF18284.2	2.2e-21	DNA methylase N-terminal domain
+e_coli	NC_000913.3_990	PF18327.2	7.1e-19	Proline utilization A proline dehydrogenase N-terminal domain
+e_coli	NC_000913.3_781	PF18331.2	1.2e-19	PKHD-type hydroxylase C-terminal domain
+e_coli	NC_000913.3_57	PF18337.2	5.1e-28	RapA N-terminal Tudor like domain
+e_coli	NC_000913.3_57	PF18339.2	1.2e-24	RapA N-terminal Tudor like domain 1
+e_coli	NC_000913.3_973	PF18364.2	1.3e-18	Molybdopterin oxidoreductase N-terminal domain
+e_coli	NC_000913.3_881	PF18381.2	6.3e-68	YcaO cyclodehydratase C-terminal domain
+e_coli	NC_000913.3_191	PF18389.2	2.8e-24	TrmO C-terminal domain
+e_coli	NC_000913.3_3359	PF18390.2	2.5e-45	Glycogen debranching enzyme C-terminal domain
+e_coli	NC_000913.3_959	PF18412.2	2.1e-17	Outer-membrane lipoprotein Wza C-terminal domain
+e_coli	NC_000913.3_3143	PF18415.2	1.1e-30	Histidine kinase receptor ArcB trans-membrane domain
+e_coli	NC_000913.3_4304	PF18429.2	1.1e-27	Domain of unknown function (DUF5609)
+e_coli	NC_000913.3_4052	PF18500.2	1.3e-73	CadC C-terminal domain 1
+e_coli	NC_000913.3_288	PF18649.2	7.6e-33	EcpB C-terminal domain
+e_coli	NC_000913.3_812	PF18693.2	1.8e-21	TRAM domain
+e_coli	NC_000913.3_4267	PF18766.2	4.5e-16	SWI2/SNF2 ATPase
+e_coli	NC_000913.3_1140	PF18883.1	2.5e-26	Autochaperone Domain Type 1
+e_coli	NC_000913.3_4147	PF18913.1	1.1e-50	Fructose-1-6-bisphosphatase, C-terminal domain
+e_coli	NC_000913.3_2087	PF18934.1	6.3e-97	Family of unknown function (DUF5682)
+e_coli	NC_000913.3_3038	PF19029.1	3.5e-16	DUF883 C-terminal glycine zipper region
+e_coli	NC_000913.3_2591	PF19034.1	3.4e-44	RNase LS, bacterial toxin C terminal
